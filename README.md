@@ -8,11 +8,11 @@ The [survivoR](https://github.com/doehm/survivoR) R package has numerous dataset
 
 ### Process
 
-- `scripts/convert_data.py`: Fetches all the latest `.rda` files from the source, stores copies locally in `data/raw/csv` and converts them to comma-delimited text files in `data/raw/csv`.
+- `scripts/convert_data.py`: Fetches all the latest `.rda` files from the source, stores copies locally in `data/raw/rda` and converts them to comma-delimited text files in `data/raw/csv`.
     - See the [original repo](https://github.com/doehm/survivoR/blob/master/README.md) for metadata about the indiviual files.
     - **Note:** Other than the format change, the content of data downloaded, processed and stored in the `raw` directory will remain unchained from the original repo.
 
-### Data sources
+### Source
 
 The data in this repository is sourced from the [survivoR](https://github.com/doehm/survivoR) package created by [David Ohm](https://github.com/doehm), et al. The original data is provided under the MIT License, and this repository retains that license.
 
