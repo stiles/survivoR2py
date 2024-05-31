@@ -16,9 +16,9 @@ Two scripts for now process the data for use with Python-friendly data science t
     - See the [original repo](https://github.com/doehm/survivoR/blob/master/README.md) for metadata about the indiviual files.
     - **Note:** Other than the format change, the content of data downloaded, processed and stored in the `raw` directory will remain unchained from the original repo.
 
-- `scripts/fetch_transcripts.py`: The script collects all episode transcript urls, converts the urls to metadata (episode number, season, episode title, url, etc.), fetches the full transcript for each episode and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken". All of it is stored in a dataframe and exported to CSV and JSON. 
+- `scripts/fetch_transcripts.py`: The script collects all episode transcript urls, converts the urls to metadata (episode number, season, episode title, url, etc.), fetches the full transcript for each episode and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken". All of it is stored in a dataframe and exported to CSV and JSON. The goal is to refine the dataset enough so it might be useful enough to offer back to the survivoR folks. 
 
-- More analysis/visualization scripts **TK**.
+- More analysis/visualization/scripts **TK**.
 
 ### Usage
 
