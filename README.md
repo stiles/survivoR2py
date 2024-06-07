@@ -10,7 +10,7 @@ The data comes from the [survivoR](https://github.com/doehm/survivoR) package cr
 
 ### Processes
 
-Two scripts for now process the data for use with Python-friendly data science tools.
+Three scripts for now process the data.
 
 ### Convert survivoR data
 
@@ -24,11 +24,11 @@ Two scripts for now process the data for use with Python-friendly data science t
 
 ### Vote-off logs
 
-- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?gid=120496879#gid=120496879) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
+- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
 
 **Data collection**
 
-To ensure accurate data collection and prevent sabotage, I'm considering using a controlled method like a Google Form for submitted entries. For now, I'm doing it by hand. 
+To ensure accurate data collection and validation, I'm considering using a controlled method like a Google Form for submitted entries. For now, I'm doing it by hand in a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where previous entries are protected. My plan is to add one a day from recaps and/or transcripts until I finish all the seasons. (I've seen almost all the seasons but I can't recall specific details so I'm going vote by vote). 
 
 **Format**
 
@@ -52,7 +52,7 @@ To ensure accurate data collection and prevent sabotage, I'm considering using a
 *Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
 
 - `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer) *after* torch dousing
-- `ack_speak`: for any verbal communication with the tribe *after* torch dousing
+- `ack_speak`: for any verbal communication directed at the tribe *after* torch dousing
 - `ack_look`: for making eye contact with one or more members of the tribe *after* torch dousing
 - `ack_smile`: for smiling at the tribe *after* torch dousing
 
