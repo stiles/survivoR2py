@@ -28,7 +28,9 @@ Two scripts for now process the data for use with Python-friendly data science t
 
 **Data collection**
 
-To ensure accurate data collection and prevent sabotage, consider using a controlled method like a Google Form. This form can include drop-down menus and checkboxes to ensure consistent data entry. Here’s a proposed format:
+To ensure accurate data collection and prevent sabotage, I'm considering using a controlled method like a Google Form for submitted entries. For now, I'm doing it by hand. 
+
+**Format**
 
 | Column         | Description                                                                                               | Type    |
 |----------------|-----------------------------------------------------------------------------------------------------------|---------|
@@ -43,6 +45,15 @@ To ensure accurate data collection and prevent sabotage, consider using a contro
 | ack_speak_notes| Optional: What, if anything, the contestant said *after the dousing and before walking away*               | `string`  |
 | notes          | Optional: Any notes about the moment, caveats about the log, etc.                                          | `string`  |
 | log            | Date when data was logged (%Y-%m-%d)                                                                       | `date`    |
+
+**Notes about acknowledgment**
+
+*Acknowledgment* after being voted off in Survivor — that moment between torch dousing and leaving Tribal Council — is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
+
+- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer)
+- `ack_speak`: for any verbal communication with the tribe
+- `ack_look`: for making eye contact with the tribe
+- `ack_smile`: for smiling at the tribe
 
 **Dataset example**
 
