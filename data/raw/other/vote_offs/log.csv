@@ -1,11 +1,13 @@
-season,vote,contestant,acknowledge,gesture,words,words_desc,notes,log
-11,1,Jim,True,True,False,,,"Thursday, June 6, 2024 at 4:49:07 PM"
-11,2,Morgan,False,False,False,,,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,3,Brianna,True,True,True,"""You guys are strong. Kick some ... butt."" ",,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,4,Brooke,False,False,False,,,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,5,Blake,False,True,True,"""Bye guys""",,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,6,Margaret,False,False,False,,,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,7,Brian,True,True,True,"""Good luck guys""",,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,8,Amy,False,False,False,,Hugged Gary before torch,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,9,Brandon,True,False,True,"""Good luck guys""",,"Thursday, June 6, 2024 at 4:49:25 PM"
-11,10,Bobby Jon,True,True,True,"""Good luck""",,"Thursday, June 6, 2024 at 4:49:25 PM"
+season,vote,contestant,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_speak_notes,notes,ack_score
+11,1,Jim,True,False,False,True,False,,Silently looked back,1
+11,2,Morgan,False,,False,,,,,0
+11,3,Brianna,True,,True,,,"""You guys are strong. Kick some ... butt."" ",,1
+11,4,Brooke,False,,False,,,,,0
+11,5,Blake,False,,True,,,"""Bye guys""",,1
+11,6,Margaret,False,,False,,,,,0
+11,7,Brian,True,,True,,,"""Good luck guys""",,1
+11,8,Amy,False,,False,,,,Hugged Gary before torch,0
+11,9,Brandon,True,,True,,,"""Good luck guys""",,1
+11,10,Bobby Jon,True,,True,,,"""Good luck""",,1
+11,11,Jamie,True,True,True,True,True,"""You blindsided! Nice! That's how you vote somebody off!""",,4
+11,12,,,,,,,,,0

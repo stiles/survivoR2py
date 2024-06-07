@@ -24,7 +24,7 @@ Two scripts for now process the data for use with Python-friendly data science t
 
 ### Vote-off logs
 
-- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council.
+- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
 
 **Data collection**
 
@@ -37,33 +37,34 @@ To ensure accurate data collection and prevent sabotage, I'm considering using a
 | season         | Season number                                                                                             | `string`  |
 | vote           | Vote number that season                                                                                   | `string`  |
 | contestant     | First name                                                                                                | `string`  |
-| acknowledge    | Did the contestant acknowledge their teammates *in any way* after dousing — or just walk away?              | `boolean` |
-| ack_gesture    | Category of `acknowledge`. Did the contestant gesture to their former teammates, i.e., a wave, smile, nod  | `boolean` |
-| ack_speak      | Category of `acknowledge`. Did the contestant say anything to their teammates?                            | `boolean` |
-| ack_look       | Category of `acknowledge`. Did the contestant make eye contact with their teammates?                       | `boolean` |
-| ack_smile      | Category of `acknowledge`. Did the contestant smile at their teammates?                                    | `boolean` |
-| ack_speak_notes| Optional: What, if anything, the contestant said *after the dousing and before walking away*               | `string`  |
-| notes          | Optional: Any notes about the moment, caveats about the log, etc.                                          | `string`  |
-| log            | Date when data was logged (%Y-%m-%d)                                                                       | `date`    |
+| acknowledge    | Did the contestant acknowledge their teammates *in one of these specific ways* after dousing — or just walk away?            | `boolean` |
+| ack_gesture    | Category of `acknowledge`. See rules below. | `boolean` |
+| ack_speak      | Category of `acknowledge`. See rules below.                            | `boolean` |
+| ack_look       | Category of `acknowledge`. See rules below.                      | `boolean` |
+| ack_smile      | Category of `acknowledge`. See rules below.                                   | `boolean` |
+| ack_speak_notes| Optional: What, if anything, the contestant said. **Direct quotes only.**              | `string`  |
+| notes          | Optional: Any notes about the moment, caveats about the log, etc.                                         | `string`  |
+| source         | Optional: Any notes about source, i.e., youtube vote-off compilation url, "watched in person", etc.       | `string`  |
+| log            | Date when data was logged (%Y-%m-%d)                                                                      | `date`    |
 
 **Notes about acknowledgment**
 
-*Acknowledgment* after being voted off in Survivor — that moment between torch dousing and leaving Tribal Council — is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
+*Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
 
-- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer)
-- `ack_speak`: for any verbal communication with the tribe
-- `ack_look`: for making eye contact with the tribe
-- `ack_smile`: for smiling at the tribe
+- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer) *after* torch dousing
+- `ack_speak`: for any verbal communication with the tribe *after* torch dousing
+- `ack_look`: for making eye contact with one or more members of the tribe *after* torch dousing
+- `ack_smile`: for smiling at the tribe *after* torch dousing
 
 **Dataset example**
 
-| season | vote | contestant | acknowledge | ack_gesture | ack_speak | ack_look | ack_smile | ack_speak_notes | notes               | log        |
-|--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|
-| 11     | 1    | Jim        | TRUE        | FALSE       | FALSE     | TRUE     | FALSE     |                 | Silently looked back | 2024-06-06 |
+| season | vote | contestant | acknowledge | ack_gesture | ack_speak | ack_look | ack_smile | ack_speak_notes | notes               | source        | log        |
+|--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|------------|
+| 11     | 1    | Jim        | TRUE        | TRUE       | FALSE     | FALSE     | FALSE     |                 | Waved and turned head but didn't make eye contact | https://youtu.be/-D6JL6myJ_0?si=784e_2VAhRDk8OwC |2024-06-06|
 
 **Scenario explanation**
 
-- Jim, from season 11, was the first person voted off. He acknowledged his team by looking back but didn't wave, say anything, or smile. So, his acknowledgment would be true, but his score would only be one because all he did was look.
+- Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, and his slight glance back but down didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be TRUE, but his score would only be one because all he did was (sort of) wave. Maybe 0.6. Poor Jim. 
 
 **Acknowledge score calculation**
 
