@@ -10,23 +10,25 @@ The data comes from the [survivoR](https://github.com/doehm/survivoR) package cr
 
 ### Processes
 
-Three scripts, for now, process the data.
+Two scripts for now process the data for use with Python-friendly data science tools.
 
-##### Convert survivoR data
+#### Convert survivoR data
 
 - `scripts/convert_data.py`: This script converts the survivoR data by fetching all the latest `.rda` files from the source, storing copies locally in `data/raw/rda`, and converting them to comma-delimited text files in `data/raw/csv`.
     - See the [original repo](https://github.com/doehm/survivoR/blob/master/README.md) for metadata about the individual files.
     - **Note:** Other than the format change, the content of data downloaded, processed, and stored in the `raw` directory will remain unchanged from the original repo.
 
-##### Fetch transcripts
+#### Fetch transcripts
 
-- `scripts/fetch_transcripts.py`: This script collects all episode transcript URLs, converts the URLs to metadata (episode number, season, episode title, URL, etc.), fetches the full transcript for each episode, and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken." This latter bit is a **rough** sketch. The results are stored in a dataframe and exported to CSV and JSON. The goal is to refine the dataset enough so it might be useful to offer back to the survivoR folks or to aid in the vote-off logs below.
+- `scripts/fetch_transcripts.py`: This script collects all episode transcript URLs, converts the URLs to metadata (episode number, season, episode title, URL, etc.), fetches the full transcript for each episode, and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken." All of it is stored in a dataframe and exported to CSV and JSON. The goal is to refine the dataset enough so it might be useful to offer back to the survivoR folks.
 
-##### Add vote-off logs
+#### Add vote-off logs
 
 - `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council.
 
-**Dataset description**
+**Data Collection**
+
+To ensure accurate data collection and prevent sabotage, consider using a controlled method like a Google Form. This form can include drop-down menus and checkboxes to ensure consistent data entry. Here’s a proposed format:
 
 | Column         | Description                                                                                               | Type    |
 |----------------|-----------------------------------------------------------------------------------------------------------|---------|
@@ -34,21 +36,30 @@ Three scripts, for now, process the data.
 | vote           | Vote number that season                                                                                   | `string`  |
 | contestant     | First name                                                                                                | `string`  |
 | acknowledge    | Did the contestant acknowledge their teammates *in any way* after dousing — or just walk away?              | `boolean` |
-| gesture        | Category of `acknowledge`. Did the contestant gesture to their former teammates, i.e., a wave, smile, nod  | `boolean` |
-| words          | Category of `acknowledge`. Did the contestant say anything to their teammates?                            | `boolean` |
-| words_desc     | Optional: What, if anything, the contestant said *after the dousing and before walking away*              | `string`  |
-| notes          | Optional: Any notes about the moment, caveats about the log, etc.                                         | `string`  |
-| log            | Date when data was logged (%Y-%m-%d)                                                                      | `date`    |
+| ack_gesture    | Category of `acknowledge`. Did the contestant gesture to their former teammates, i.e., a wave, smile, nod  | `boolean` |
+| ack_speak      | Category of `acknowledge`. Did the contestant say anything to their teammates?                            | `boolean` |
+| ack_look       | Category of `acknowledge`. Did the contestant make eye contact with their teammates?                       | `boolean` |
+| ack_smile      | Category of `acknowledge`. Did the contestant smile at their teammates?                                    | `boolean` |
+| ack_speak_notes| Optional: What, if anything, the contestant said *after the dousing and before walking away*               | `string`  |
+| notes          | Optional: Any notes about the moment, caveats about the log, etc.                                          | `string`  |
+| log            | Date when data was logged (%Y-%m-%d)                                                                       | `date`    |
 
 **Dataset example**
 
-| season | vote | contestant | acknowledge | gesture | words | words_desc | notes | log        |
-|--------|------|------------|-------------|---------|-------|------------|-------|------------|
-| 11     | 1    | Jim       | true        | false   | false |       | Looked back silently  | 2024-06-04 |
+| season | vote | contestant | acknowledge | ack_gesture | ack_speak | ack_look | ack_smile | ack_speak_notes | notes               | log        |
+|--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|
+| 11     | 1    | Jim        | TRUE        | FALSE       | FALSE     | TRUE     | FALSE     |                 | Silently looked back | 2024-06-06 |
 
 **Scenario explanation**
 
-- Jim looked back at the tribe that voted him off, so he acknowledged their decision, but he didn't wave (or otherwise gesture) and he remained silent. Poor Jim.
+- Jim, from season 11, was the first person voted off. He acknowledged his team by looking back but didn't wave, say anything, or smile. So, his acknowledgment would be true, but his score would only be one because all he did was look.
+
+**Acknowledge score calculation**
+
+The score is derived from the four subcategories of acknowledgment: words, look, gesture, and smile. Each `true` value in these categories adds 1 to the score. For example:
+
+- If a contestant says words while looking back, waves, and smiles, their score is 4.
+- If a contestant does nothing, their score is 0.
 
 ### Questions?
 
