@@ -64,7 +64,7 @@ To ensure accurate data collection and prevent sabotage, I'm considering using a
 
 **Scenario explanation**
 
-- Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, and his slight glance back but down didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be TRUE, but his score would only be one because all he did was (sort of) wave. Maybe 0.6. Poor Jim. 
+- Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, but his slight glance went down didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be TRUE, but his score (see below) would only be 1 because all he did was (sort of) wave. Maybe 0.6. Poor Jim. 
 
 **Acknowledge score calculation**
 
