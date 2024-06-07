@@ -20,7 +20,7 @@ Three scripts, for now, process the data.
 
 ##### Fetch transcripts
 
-- `scripts/fetch_transcripts.py`: This script collects all episode transcript URLs, converts the URLs to metadata (episode number, season, episode title, URL, etc.), fetches the full transcript for each episode, and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken." All of it is stored in a dataframe and exported to CSV and JSON. The goal is to refine the dataset enough so it might be useful to offer back to the survivoR folks.
+- `scripts/fetch_transcripts.py`: This script collects all episode transcript URLs, converts the URLs to metadata (episode number, season, episode title, URL, etc.), fetches the full transcript for each episode, and parses the text for what contestants said after Jeff's famous line, "The tribe has spoken." This latter bit is a **rough** sketch. The results are stored in a dataframe and exported to CSV and JSON. The goal is to refine the dataset enough so it might be useful to offer back to the survivoR folks or to aid in the vote-off logs below.
 
 ##### Add vote-off logs
 
