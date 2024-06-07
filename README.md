@@ -36,7 +36,7 @@ To ensure accurate data collection and prevent sabotage, I'm considering using a
 |----------------|-----------------------------------------------------------------------------------------------------------|---------|
 | season         | Season number                                                                                             | `string`  |
 | vote           | Vote number that season                                                                                   | `string`  |
-| contestant     | First name                                                                                                | `string`  |
+| castaway     | First name                                                                                                | `string`  |
 | acknowledge    | Did the contestant acknowledge their teammates *in one of these specific ways* after dousing — or just walk away?            | `boolean` |
 | ack_gesture    | Category of `acknowledge`. See rules below. | `boolean` |
 | ack_speak      | Category of `acknowledge`. See rules below.                            | `boolean` |
