@@ -2,8 +2,9 @@ import os
 import pandas as pd
 
 """
-VOTE OFF REACTION LOGS
+FETCH & SCORE
 How did contestants respond after their torch was doused? 
+This script fetches the growing log and scores the acknowlegement of his/her tribe.
 """
 
 # Define URL for Google Sheets CSV
