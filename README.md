@@ -10,7 +10,7 @@ The data comes from the [survivoR](https://github.com/doehm/survivoR) package cr
 
 ### Processes
 
-Two scripts for now process the data for use with Python-friendly data science tools.
+Three scripts for now process the data.
 
 ### Convert survivoR data
 
