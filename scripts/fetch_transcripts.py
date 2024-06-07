@@ -86,5 +86,5 @@ df['post_voteoff_lines'] = df['transcript'].apply(lambda x: extract_post_voteoff
 print(df[['season', 'episode', 'title', 'post_voteoff_lines']])
 
 # Optional: save to CSV
-df.to_csv('survivor_transcripts.csv', index=False)
-df.to_json('survivor_transcripts.csv', indent=4, lines=False, orient='records')
+df.to_csv('data/raw/other/transcripts/transcripts.csv', index=False)
+df.to_json('data/raw/other/transcripts/transcripts.csv', indent=4, lines=False, orient='records')
