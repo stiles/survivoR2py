@@ -476,23 +476,23 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 32,10,Julia,,,,,,,,,6/11/2024,,0
 32,11,Jason,,,,,,,,,6/11/2024,,0
 32,12,Cydney,,,,,,,,,6/11/2024,,0
-33,1,Rachel,,,,,,,,,6/11/2024,,0
-33,2,Mari,,,,,,,,,6/11/2024,,0
-33,3,Paul,,,,,,,,,6/11/2024,,0
-33,4,Lucy,,,,,,,,,6/11/2024,,0
-33,5,CeCe,,,,,,,,,6/11/2024,,0
-33,6,Figgy,,,,,,,,,6/11/2024,,0
-33,7,Michaela,,,,,,,,,6/11/2024,,0
-33,8,Michelle,,,,,,,,,6/11/2024,,0
-33,9,Taylor,,,,,,,,,6/11/2024,,0
-33,10,Chris,,,,,,,,,6/11/2024,,0
-33,11,Jessica,,,,,,,,,6/11/2024,,0
-33,12,Zeke,,,,,,,,,6/11/2024,,0
-33,13,Will,,,,,,,,,6/11/2024,,0
-33,14,Sunday,,,,,,,,,6/11/2024,,0
-33,15,Jay,,,,,,,,,6/11/2024,,0
-33,16,Bret,,,,,,,,,6/11/2024,,0
-33,17,David,,,,,,,,,6/11/2024,,0
+33,1,Rachel,False,False,False,False,False,,,,6/11/2024,,0
+33,2,Mari,True,False,True,True,False,"""Salty""",,,6/11/2024,,2
+33,3,Paul,True,True,True,True,False,"""Good luck, guys.""",,,6/11/2024,,3
+33,4,Lucy,False,False,False,False,False,,,,6/11/2024,,0
+33,5,CeCe,True,False,True,True,False,"""Good luck, guys.""",,,6/11/2024,,2
+33,6,Figgy,True,False,True,True,False,"""Good luck, Tays.""",,,6/11/2024,,2
+33,7,Michaela,True,False,True,True,False,"""You going to feel like an asshole... my shoes... Damn, Jay"" ",,,6/11/2024,,2
+33,8,Michelle,True,True,False,True,False,,,,6/11/2024,,2
+33,9,Taylor,True,True,True,True,False,"""Good luck, guys... Sorry for stealing food.""",,,6/11/2024,,3
+33,10,Chris,True,True,True,True,False,"""Boomer""","Zeke replied, ""Sooner.""",,6/11/2024,,3
+33,11,Jessica,False,False,False,False,False,,,,6/11/2024,,0
+33,12,Zeke,False,False,False,False,False,,"Just before douse: ""It's been an honor to play with you all.""",,6/11/2024,,0
+33,13,Will,True,True,True,True,False,"""I had a blast guys. Good luck to all of you.""",,,6/11/2024,,3
+33,14,Sunday,True,False,True,True,True,"""Good luck, guys. Have fun.""",,,6/11/2024,,3
+33,15,Jay,False,True,False,False,False,,,,6/11/2024,,1
+33,16,Bret,True,False,True,True,True,"""David, good luck to you. The rest of you: You just lost a million dollars.""",,,6/11/2024,,3
+33,17,David,True,False,True,True,False,"""Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.""",,,6/11/2024,,2
 34,1,Ciera,,,,,,,,,6/11/2024,,0
 34,2,Tony,,,,,,,,,6/11/2024,,0
 34,3,Caleb,,,,,,,,,6/11/2024,,0
