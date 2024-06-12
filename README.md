@@ -24,7 +24,7 @@ Three scripts for now process the data.
 
 ### Vote-off logs
 
-- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff doused their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
+- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff snuffed their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
 
 **Data collection**
 
@@ -37,7 +37,7 @@ To ensure accurate data collection and validation, I'm considering using a contr
 | season         | Season number                                                                                             | `string`  |
 | vote           | Vote number that season                                                                                   | `string`  |
 | castaway     | First name                                                                                                | `string`  |
-| acknowledge    | Did the contestant acknowledge their teammates *in one of these specific ways* after dousing — or just walk away?            | `boolean` |
+| acknowledge    | Did the contestant acknowledge their teammates *in one of these specific ways* after snuffing — or just walk away?            | `boolean` |
 | ack_gesture    | Category of `acknowledge`. See rules below. | `boolean` |
 | ack_speak      | Category of `acknowledge`. See rules below.                            | `boolean` |
 | ack_look       | Category of `acknowledge`. See rules below.                      | `boolean` |
@@ -51,10 +51,10 @@ To ensure accurate data collection and validation, I'm considering using a contr
 
 *Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
 
-- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer) *after* torch dousing
-- `ack_speak`: for any verbal communication directed at the tribe *after* torch dousing
-- `ack_look`: for making eye contact with one or more members of the tribe *after* torch dousing
-- `ack_smile`: for smiling at the tribe *after* torch dousing
+- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer) *after* torch snuffing
+- `ack_speak`: for any verbal communication directed at the tribe *after* torch snuffing
+- `ack_look`: for making eye contact with one or more members of the tribe *after* torch snuffing
+- `ack_smile`: for smiling at the tribe *after* torch snuffing
 
 **Dataset example**
 

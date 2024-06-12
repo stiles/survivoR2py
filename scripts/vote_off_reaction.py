@@ -3,7 +3,7 @@ import pandas as pd
 
 """
 FETCH & SCORE
-How did contestants respond after their torch was doused? 
+How did contestants respond after their torch was snuffed? 
 This script fetches the growing log and scores the acknowlegement of his/her tribe.
 """
 
