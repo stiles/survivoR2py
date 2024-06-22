@@ -315,11 +315,11 @@ US,US19,Survivor: Samoa,19.0,Brett,Russell H.,0.0,US0298,US0300
 US,US19,Survivor: Samoa,19.0,Dave,Russell H.,0.0,US0294,US0300
 US,US19,Survivor: Samoa,19.0,Erik,Russell H.,0.0,US0290,US0300
 US,US19,Survivor: Samoa,19.0,Jaison,Russell H.,0.0,US0297,US0300
-US,US19,Survivor: Samoa,19.0,John,Russell H.,0.0,US0293,US0300
+US,US19,Survivor: Samoa,19.0,John,Russell H.,1.0,US0293,US0300
 US,US19,Survivor: Samoa,19.0,Kelly,Russell H.,0.0,US0291,US0300
 US,US19,Survivor: Samoa,19.0,Laura,Russell H.,0.0,US0292,US0300
 US,US19,Survivor: Samoa,19.0,Monica,Russell H.,0.0,US0295,US0300
-US,US19,Survivor: Samoa,19.0,Shambo,Russell H.,0.0,US0296,US0300
+US,US19,Survivor: Samoa,19.0,Shambo,Russell H.,1.0,US0296,US0300
 US,US20,Survivor: Heroes vs. Villains,20.0,Amanda,Parvati,0.0,US0235,US0197
 US,US20,Survivor: Heroes vs. Villains,20.0,Candice,Parvati,0.0,US0195,US0197
 US,US20,Survivor: Heroes vs. Villains,20.0,Coach,Parvati,1.0,US0277,US0197
@@ -1397,20 +1397,20 @@ SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Phil,Shane,0.0,SA0073,
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Steffi,Shane,1.0,SA0122,SA0081
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Tejan,Shane,0.0,SA0061,SA0081
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Toni,Shane,0.0,SA0099,SA0081
-UK,UK01,Survivor: Pulau Tiga,1.0,Andy,Charlotte,1.0,UK0008,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Eve,Charlotte,1.0,UK0012,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,James,Charlotte,1.0,UK0009,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Mick,Charlotte,1.0,UK0013,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Pete,Charlotte,1.0,UK0010,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Richard,Charlotte,1.0,UK0014,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Zoe,Charlotte,1.0,UK0011,UK0016
-UK,UK01,Survivor: Pulau Tiga,1.0,Andy,Jackie,0.0,UK0008,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,Eve,Jackie,0.0,UK0012,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,James,Jackie,0.0,UK0009,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,Mick,Jackie,0.0,UK0013,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,Pete,Jackie,0.0,UK0010,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,Richard,Jackie,0.0,UK0014,UK0015
-UK,UK01,Survivor: Pulau Tiga,1.0,Zoe,Jackie,0.0,UK0011,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Andy,Charlotte,1.0,UK0008,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Andy,Jackie,0.0,UK0008,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,James,Charlotte,1.0,UK0009,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,James,Jackie,0.0,UK0009,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Pete,Charlotte,1.0,UK0010,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Pete,Jackie,0.0,UK0010,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Zoe,Charlotte,1.0,UK0011,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Zoe,Jackie,0.0,UK0011,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Eve,Charlotte,1.0,UK0012,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Eve,Jackie,0.0,UK0012,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Mick,Charlotte,1.0,UK0013,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Mick,Jackie,0.0,UK0013,UK0015
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Richard,Charlotte,1.0,UK0014,UK0016
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Richard,Jackie,0.0,UK0014,UK0015
 UK,UK02,Survivor UK: Panama,2.0,Alastair,Jonny,1.0,UK0022,UK0028
 UK,UK02,Survivor UK: Panama,2.0,Bridget,Jonny,1.0,UK0025,UK0028
 UK,UK02,Survivor UK: Panama,2.0,Dave,Jonny,1.0,UK0024,UK0028

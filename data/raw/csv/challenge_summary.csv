@@ -1411,12 +1411,11 @@ All,US07,6.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,1.0
 All,US07,6.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,1.0
 All,US07,6.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,1.0
 All,US07,6.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,1.0
-All,US07,6.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-All,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-All,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-All,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-All,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
+All,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+All,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+All,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+All,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+All,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
@@ -1425,66 +1424,57 @@ All,US07,7.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
 All,US07,7.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-All,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-All,US07,8.0,Reward,Tribal,Drake,US0100,Burton,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-All,US07,8.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-All,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-All,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-All,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-All,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-All,US07,9.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-All,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-All,US07,10.0,Reward,Tribal,Drake,US0100,Burton,2,1,7,0.0
-All,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
-All,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,1.0
-All,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,1.0
-All,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,1.0
-All,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,1.0
-All,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,1.0
-All,US07,10.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-All,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-All,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-All,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-All,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0100,Burton,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-All,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
+All,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+All,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+All,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+All,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+All,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+All,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+All,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+All,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+All,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+All,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+All,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+All,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+All,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+All,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+All,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+All,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+All,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+All,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,6,0.0
+All,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,6,1.0
+All,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,6,1.0
+All,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,6,1.0
+All,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,1.0
+All,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,6,1.0
+All,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+All,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+All,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+All,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+All,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,6,0.0
+All,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+All,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+All,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+All,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+All,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
 All,US07,12.0,Immunity,Tribal,Drake,US0103,Shawn,3,1,5,0.0
 All,US07,12.0,Immunity,Tribal,Drake,US0107,Rupert,3,1,5,0.0
 All,US07,12.0,Immunity,Tribal,Drake,US0109,Christa,3,1,5,0.0
@@ -2878,14 +2868,14 @@ All,US12,21.0,Immunity,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 All,US12,21.0,Immunity,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 All,US12,21.0,Immunity,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 All,US12,21.0,Immunity,Individual,Gitanos,US0182,Aras,5,1,5,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
-All,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
+All,US12,22.0,Reward,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+All,US12,22.0,Reward,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+All,US12,22.0,Reward,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+All,US12,22.0,Reward,Individual,Gitanos,US0182,Aras,4,1,4,1.0
+All,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+All,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+All,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+All,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 All,US12,24.0,Reward,Individual,Gitanos,US0180,Terry,3,1,3,1.0
 All,US12,24.0,Reward,Individual,Gitanos,US0181,Danielle,3,1,3,0.0
 All,US12,24.0,Reward,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -4124,6 +4114,15 @@ All,US17,13.0,Immunity,Tribal,Kota,US0260,Crystal,2,1,5,0.0
 All,US17,13.0,Immunity,Tribal,Kota,US0261,Ken,2,1,5,0.0
 All,US17,13.0,Immunity,Tribal,Kota,US0264,Susie,2,1,5,0.0
 All,US17,13.0,Immunity,Tribal,Kota,US0265,Bob,2,1,5,0.0
+All,US17,14.0,Reward,Tribal,Fang,US0257,Charlie,2,2,5,1.0
+All,US17,14.0,Reward,Tribal,Fang,US0258,Randy,2,2,5,1.0
+All,US17,14.0,Reward,Tribal,Fang,US0259,Corinne,2,2,5,1.0
+All,US17,14.0,Reward,Tribal,Kota,US0260,Crystal,2,2,4,0.0
+All,US17,14.0,Reward,Tribal,Kota,US0261,Ken,2,2,4,0.0
+All,US17,14.0,Reward,Tribal,Fang,US0262,Matty,2,2,5,1.0
+All,US17,14.0,Reward,Tribal,Fang,US0263,Sugar,2,2,5,1.0
+All,US17,14.0,Reward,Tribal,Kota,US0264,Susie,2,2,4,1.0
+All,US17,14.0,Reward,Tribal,Kota,US0265,Bob,2,2,4,0.0
 All,US17,15.0,Immunity,Individual,Nobag,US0257,Charlie,8,1,9,0.0
 All,US17,15.0,Immunity,Individual,Nobag,US0258,Randy,8,1,9,0.0
 All,US17,15.0,Immunity,Individual,Nobag,US0259,Corinne,8,1,9,0.0
@@ -5175,20 +5174,13 @@ All,US21,16.0,Reward,Team,Libertad,US0318,Holly,2,1,9,1.0
 All,US21,16.0,Reward,Team,Libertad,US0319,Sash,2,1,9,0.0
 All,US21,16.0,Reward,Team,Libertad,US0320,Chase,2,1,9,1.0
 All,US21,16.0,Reward,Team,Libertad,US0321,Fabio,2,1,9,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,1.0
-All,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
-All,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,7,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,7,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,7,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,7,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,7,0.0
+All,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,7,1.0
+All,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,7,0.0
 All,US21,18.0,Immunity,Individual,Libertad,US0315,Benry,7,1,7,0.0
 All,US21,18.0,Immunity,Individual,Libertad,US0316,Jane,7,1,7,0.0
 All,US21,18.0,Immunity,Individual,Libertad,US0317,Dan,7,1,7,0.0
@@ -5566,95 +5558,95 @@ All,US23,13.0,Immunity and Reward,Tribal,Upolu,US0352,Albert,2,1,6,1.0
 All,US23,13.0,Immunity and Reward,Tribal,Upolu,US0353,Sophie,2,1,6,1.0
 All,US23,14.0,Duel,Individual,,US0201,Ozzy,2,1,2,1.0
 All,US23,14.0,Duel,Individual,,US0339,Christine,2,1,2,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0201,Ozzy,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0277,Coach,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0344,Keith,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0345,Jim,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0346,Dawn,12,1,12,1.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0347,Whitney,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0348,Cochran,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0349,Edna,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0350,Brandon,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0351,Rick,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0352,Albert,12,1,12,0.0
-All,US23,15.0,Immunity,Individual,Le Tuna,US0353,Sophie,12,1,12,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0201,Ozzy,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0277,Coach,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0345,Jim,11,1,11,1.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0346,Dawn,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0347,Whitney,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0348,Cochran,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0349,Edna,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0350,Brandon,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0351,Rick,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0352,Albert,11,1,11,0.0
-All,US23,16.0,Immunity,Individual,Le Tuna,US0353,Sophie,11,1,11,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0277,Coach,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0345,Jim,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0346,Dawn,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0347,Whitney,10,1,10,1.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0348,Cochran,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0349,Edna,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0350,Brandon,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0351,Rick,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0352,Albert,10,1,10,0.0
-All,US23,17.0,Immunity,Individual,Le Tuna,US0353,Sophie,10,1,10,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0201,Ozzy,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0277,Coach,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0344,Keith,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0345,Jim,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0346,Dawn,12,1,12,1.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0347,Whitney,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0348,Cochran,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0349,Edna,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0350,Brandon,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0351,Rick,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0352,Albert,12,1,12,0.0
+All,US23,15.0,Immunity,Individual,Te Tuna,US0353,Sophie,12,1,12,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0201,Ozzy,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0277,Coach,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0345,Jim,11,1,11,1.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0346,Dawn,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0347,Whitney,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0348,Cochran,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0349,Edna,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0350,Brandon,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0351,Rick,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0352,Albert,11,1,11,0.0
+All,US23,16.0,Immunity,Individual,Te Tuna,US0353,Sophie,11,1,11,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0277,Coach,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0345,Jim,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0346,Dawn,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0347,Whitney,10,1,10,1.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0348,Cochran,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0349,Edna,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0350,Brandon,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0351,Rick,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0352,Albert,10,1,10,0.0
+All,US23,17.0,Immunity,Individual,Te Tuna,US0353,Sophie,10,1,10,0.0
 All,US23,18.0,Duel,Individual,,US0201,Ozzy,3,1,3,1.0
 All,US23,18.0,Duel,Individual,,US0344,Keith,3,1,3,0.0
 All,US23,18.0,Duel,Individual,,US0345,Jim,3,1,3,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0277,Coach,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0346,Dawn,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0347,Whitney,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0348,Cochran,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0349,Edna,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0350,Brandon,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0351,Rick,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0352,Albert,9,1,9,0.0
-All,US23,19.0,Immunity,Individual,Le Tuna,US0353,Sophie,9,1,9,1.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0277,Coach,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0347,Whitney,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0348,Cochran,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0349,Edna,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0350,Brandon,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0351,Rick,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0352,Albert,8,1,8,0.0
-All,US23,20.0,Immunity,Individual,Le Tuna,US0353,Sophie,8,1,8,1.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0277,Coach,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0346,Dawn,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0347,Whitney,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0348,Cochran,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0349,Edna,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0350,Brandon,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0351,Rick,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0352,Albert,9,1,9,0.0
+All,US23,19.0,Immunity,Individual,Te Tuna,US0353,Sophie,9,1,9,1.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0277,Coach,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0347,Whitney,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0348,Cochran,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0349,Edna,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0350,Brandon,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0351,Rick,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0352,Albert,8,1,8,0.0
+All,US23,20.0,Immunity,Individual,Te Tuna,US0353,Sophie,8,1,8,1.0
 All,US23,21.0,Duel,Individual,,US0201,Ozzy,3,1,3,1.0
 All,US23,21.0,Duel,Individual,,US0346,Dawn,3,1,3,0.0
 All,US23,21.0,Duel,Individual,,US0347,Whitney,3,1,3,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-All,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+All,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
 All,US23,23.0,Duel,Individual,,US0201,Ozzy,2,1,2,1.0
 All,US23,23.0,Duel,Individual,,US0348,Cochran,2,1,2,0.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0277,Coach,6,1,6,1.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0349,Edna,6,1,6,0.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0350,Brandon,6,1,6,0.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0351,Rick,6,1,6,0.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0352,Albert,6,1,6,0.0
-All,US23,24.0,Immunity,Individual,Le Tuna,US0353,Sophie,6,1,6,0.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0277,Coach,6,1,6,1.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0349,Edna,6,1,6,0.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0350,Brandon,6,1,6,0.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0351,Rick,6,1,6,0.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0352,Albert,6,1,6,0.0
+All,US23,24.0,Immunity,Individual,Te Tuna,US0353,Sophie,6,1,6,0.0
 All,US23,25.0,Duel,Individual,,US0201,Ozzy,2,1,2,1.0
 All,US23,25.0,Duel,Individual,,US0349,Edna,2,1,2,0.0
-All,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-All,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-All,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-All,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-All,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
+All,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+All,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+All,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+All,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+All,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
 All,US23,27.0,Duel,Individual,,US0201,Ozzy,2,1,2,1.0
 All,US23,27.0,Duel,Individual,,US0350,Brandon,2,1,2,0.0
-All,US23,28.0,Immunity,Individual,Le Tuna,US0201,Ozzy,5,1,5,1.0
-All,US23,28.0,Immunity,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-All,US23,28.0,Immunity,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-All,US23,28.0,Immunity,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-All,US23,28.0,Immunity,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-All,US23,29.0,Immunity,Individual,Le Tuna,US0201,Ozzy,4,1,4,0.0
-All,US23,29.0,Immunity,Individual,Le Tuna,US0277,Coach,4,1,4,0.0
-All,US23,29.0,Immunity,Individual,Le Tuna,US0352,Albert,4,1,4,0.0
-All,US23,29.0,Immunity,Individual,Le Tuna,US0353,Sophie,4,1,4,1.0
+All,US23,28.0,Immunity,Individual,Te Tuna,US0201,Ozzy,5,1,5,1.0
+All,US23,28.0,Immunity,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+All,US23,28.0,Immunity,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+All,US23,28.0,Immunity,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+All,US23,28.0,Immunity,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+All,US23,29.0,Immunity,Individual,Te Tuna,US0201,Ozzy,4,1,4,0.0
+All,US23,29.0,Immunity,Individual,Te Tuna,US0277,Coach,4,1,4,0.0
+All,US23,29.0,Immunity,Individual,Te Tuna,US0352,Albert,4,1,4,0.0
+All,US23,29.0,Immunity,Individual,Te Tuna,US0353,Sophie,4,1,4,1.0
 All,US24,1.0,Immunity and Reward,Tribal,Manono,US0356,Matt,2,1,9,1.0
 All,US24,1.0,Immunity and Reward,Tribal,Manono,US0357,Bill,2,1,9,1.0
 All,US24,1.0,Immunity and Reward,Tribal,Manono,US0359,Colton,2,1,9,1.0
@@ -6537,6 +6529,9 @@ All,US27,11.0,Immunity and Reward,Tribal,Tadhana,US0274,Tyson,2,1,6,1.0
 All,US27,11.0,Immunity and Reward,Tribal,Tadhana,US0403,Caleb,2,1,6,1.0
 All,US27,11.0,Immunity and Reward,Tribal,Tadhana,US0405,Hayden,2,1,6,1.0
 All,US27,11.0,Immunity and Reward,Tribal,Tadhana,US0406,Ciera,2,1,6,1.0
+All,US27,12.0,Duel,Individual,,US0292,Laura M.,3,2,3,1.0
+All,US27,12.0,Duel,Individual,,US0400,John,3,2,3,1.0
+All,US27,12.0,Duel,Individual,,US0365,Kat,3,2,3,0.0
 All,US27,13.0,Immunity and Reward,Tribal,Galang,US0032,Tina,2,1,5,0.0
 All,US27,13.0,Immunity and Reward,Tribal,Galang,US0358,Monica,2,1,5,0.0
 All,US27,13.0,Immunity and Reward,Tribal,Galang,US0397,Laura B.,2,1,5,0.0
@@ -7109,22 +7104,14 @@ All,US29,18.0,Immunity,Individual,Huyopa,US0439,Keith,9,1,9,0.0
 All,US29,18.0,Immunity,Individual,Huyopa,US0440,Missy,9,1,9,0.0
 All,US29,18.0,Immunity,Individual,Huyopa,US0441,Jaclyn,9,1,9,0.0
 All,US29,18.0,Immunity,Individual,Huyopa,US0442,Natalie,9,1,9,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,1.0
-All,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
-All,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,8,1.0
+All,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,8,0.0
+All,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,8,0.0
 All,US29,20.0,Immunity,Individual,Huyopa,US0435,Reed,8,1,8,0.0
 All,US29,20.0,Immunity,Individual,Huyopa,US0436,Alec,8,1,8,0.0
 All,US29,20.0,Immunity,Individual,Huyopa,US0437,Jon,8,1,8,0.0
@@ -9431,15 +9418,15 @@ All,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0553,Kara,6,1,6,0.0
 All,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0554,Angelina,6,1,6,0.0
 All,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0555,Mike,6,1,6,0.0
 All,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0556,Nick,6,1,6,1.0
-All,US37,25.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
-All,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
-All,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
-All,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
-All,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
-All,US37,26.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
-All,US37,26.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
-All,US37,26.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
-All,US37,26.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
+All,US37,24.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
+All,US37,24.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
+All,US37,24.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
+All,US37,24.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
+All,US37,24.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
+All,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
+All,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
+All,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
+All,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
 All,US38,1.0,Immunity and Reward,Tribal,Kama,US0451,Joe,2,1,9,1.0
 All,US38,1.0,Immunity and Reward,Tribal,Kama,US0477,Aubry,2,1,9,1.0
 All,US38,1.0,Immunity and Reward,Tribal,Kama,US0562,Eric,2,1,9,1.0
@@ -9522,7 +9509,6 @@ All,US38,5.0,Immunity,Tribal,Manu,US0561,Wendy,3,2,5,1.0
 All,US38,5.0,Immunity,Tribal,Manu,US0562,Eric,3,2,5,1.0
 All,US38,5.0,Immunity,Tribal,Manu,US0567,Victoria,3,2,5,1.0
 All,US38,5.0,Immunity,Tribal,Manu,US0570,Gavin,3,2,5,1.0
-All,US38,5.0,Immunity,Tribal,,US0558,Keith,3,2,1,0.0
 All,US38,6.0,Reward,Tribal,Kama,US0451,Joe,3,2,5,1.0
 All,US38,6.0,Reward,Tribal,Kama,US0563,Julia,3,2,5,1.0
 All,US38,6.0,Reward,Tribal,Kama,US0565,Ron,3,2,5,1.0
@@ -9573,11 +9559,10 @@ All,US38,9.0,Immunity,Tribal,Lesu,US0429,Kelley,3,1,4,0.0
 All,US38,9.0,Immunity,Tribal,Lesu,US0495,David,3,1,4,0.0
 All,US38,9.0,Immunity,Tribal,Lesu,US0564,Wardog,3,1,4,0.0
 All,US38,9.0,Immunity,Tribal,Lesu,US0568,Lauren,3,1,4,0.0
-All,US38,9.0,Immunity,Tribal,Manu,US0477,Aubry,3,1,5,0.0
-All,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,5,0.0
-All,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,5,0.0
-All,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,5,0.0
-All,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,5,0.0
+All,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,4,0.0
+All,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,4,0.0
+All,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,4,0.0
+All,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,4,0.0
 All,US38,10.0,Duel,Individual,,US0477,Aubry,6,1,6,0.0
 All,US38,10.0,Duel,Individual,,US0557,Reem,6,1,6,0.0
 All,US38,10.0,Duel,Individual,,US0558,Keith,6,1,6,0.0
@@ -9917,20 +9902,19 @@ All,US39,12.0,Reward,Team,Lumuwaku,US0587,Lauren,2,1,13,0.0
 All,US39,12.0,Reward,Team,Lumuwaku,US0588,Noura,2,1,13,1.0
 All,US39,12.0,Reward,Team,Lumuwaku,US0589,Dean,2,1,13,1.0
 All,US39,12.0,Reward,Team,Lumuwaku,US0590,Tommy,2,1,13,1.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,14,1.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,14,1.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
-All,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,13,1.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,13,1.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,13,0.0
+All,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,13,0.0
 All,US39,14.0,Reward,Team / Individual,Lumuwaku,US0580,Aaron,11,2,11,0.0
 All,US39,14.0,Reward,Team / Individual,Lumuwaku,US0581,Missy,11,2,11,1.0
 All,US39,14.0,Reward,Team / Individual,Lumuwaku,US0582,Elizabeth,11,2,11,1.0
@@ -10580,18 +10564,18 @@ All,US42,8.0,Immunity and Reward,Team,Vati,US0609,Chanelle,2,1,4,0.0
 All,US42,8.0,Immunity and Reward,Team,Vati,US0612,Hai,2,1,4,1.0
 All,US42,8.0,Immunity and Reward,Team,Vati,US0617,Lydia,2,1,4,1.0
 All,US42,8.0,Immunity and Reward,Team,Vati,US0620,Mike,2,1,4,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0609,Chanelle,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0611,Drea,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0612,Hai,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0615,Jonathan,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0616,Lindsay,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0617,Lydia,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0619,Maryanne,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0620,Mike,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0621,Omar,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0622,Rocksroy,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0623,Romeo,12,1,12,0.0
-All,US42,9.0,Immunity,Individual,Merged,US0625,Tori,12,1,12,1.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0609,Chanelle,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0611,Drea,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0612,Hai,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0615,Jonathan,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0616,Lindsay,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0617,Lydia,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0619,Maryanne,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0620,Mike,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0621,Omar,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0622,Rocksroy,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0623,Romeo,12,1,12,0.0
+All,US42,9.0,Immunity,Individual,Kula Kula,US0625,Tori,12,1,12,1.0
 All,US42,10.0,Reward,Team,Kula Kula,US0609,Chanelle,2,1,11,1.0
 All,US42,10.0,Reward,Team,Kula Kula,US0611,Drea,2,1,11,0.0
 All,US42,10.0,Reward,Team,Kula Kula,US0612,Hai,2,1,11,0.0
@@ -10901,12 +10885,11 @@ All,US44,2.0,Immunity,Tribal,Soka,US0653,Frannie,3,2,6,1.0
 All,US44,2.0,Immunity,Tribal,Soka,US0654,Heidi,3,2,6,1.0
 All,US44,2.0,Immunity,Tribal,Soka,US0655,Josh,3,2,6,1.0
 All,US44,2.0,Immunity,Tribal,Soka,US0656,Matt,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0657,Bruce,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,6,1.0
-All,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,6,1.0
+All,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,5,1.0
+All,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,5,1.0
+All,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,5,1.0
+All,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,5,1.0
+All,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,5,1.0
 All,US44,3.0,Immunity and Reward,Tribal,Ratu,US0645,Brandon,3,2,5,1.0
 All,US44,3.0,Immunity and Reward,Tribal,Ratu,US0646,Jaime,3,2,5,1.0
 All,US44,3.0,Immunity and Reward,Tribal,Ratu,US0647,Kane,3,2,5,1.0
@@ -11393,18 +11376,18 @@ All,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 All,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 All,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 All,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,1.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-All,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,1.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+All,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 All,US46,10.0,Immunity,Individual,Nuinui,US0684,Hunter,10,1,10,1.0
 All,US46,10.0,Immunity,Individual,Nuinui,US0688,Liz,10,1,10,0.0
 All,US46,10.0,Immunity,Individual,Nuinui,US0694,Tevin,10,1,10,0.0
@@ -11537,6 +11520,9 @@ Duel,US27,8.0,Duel,Individual,,US0401,Brad,3,2,3,1.0
 Duel,US27,10.0,Duel,Individual,,US0292,Laura M.,3,2,3,1.0
 Duel,US27,10.0,Duel,Individual,,US0400,John,3,2,3,1.0
 Duel,US27,10.0,Duel,Individual,,US0401,Brad,3,2,3,0.0
+Duel,US27,12.0,Duel,Individual,,US0292,Laura M.,3,2,3,1.0
+Duel,US27,12.0,Duel,Individual,,US0400,John,3,2,3,1.0
+Duel,US27,12.0,Duel,Individual,,US0365,Kat,3,2,3,0.0
 Duel,US27,14.0,Duel,Individual,,US0292,Laura M.,3,1,3,1.0
 Duel,US27,14.0,Duel,Individual,,US0397,Laura B.,3,1,3,0.0
 Duel,US27,14.0,Duel,Individual,,US0400,John,3,1,3,0.0
@@ -12434,39 +12420,34 @@ Immunity,US07,7.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
 Immunity,US07,7.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
 Immunity,US07,7.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
 Immunity,US07,7.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Immunity,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Immunity,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Immunity,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
+Immunity,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Immunity,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Immunity,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Immunity,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Immunity,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Immunity,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Immunity,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Immunity,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Immunity,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Immunity,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,6,0.0
+Immunity,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Immunity,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Immunity,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Immunity,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Immunity,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
 Immunity,US07,12.0,Immunity,Tribal,Drake,US0103,Shawn,3,1,5,0.0
 Immunity,US07,12.0,Immunity,Tribal,Drake,US0107,Rupert,3,1,5,0.0
 Immunity,US07,12.0,Immunity,Tribal,Drake,US0109,Christa,3,1,5,0.0
@@ -13263,14 +13244,10 @@ Immunity,US12,21.0,Immunity,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 Immunity,US12,21.0,Immunity,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 Immunity,US12,21.0,Immunity,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 Immunity,US12,21.0,Immunity,Individual,Gitanos,US0182,Aras,5,1,5,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
-Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
+Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 Immunity,US12,25.0,Immunity,Individual,Gitanos,US0180,Terry,3,1,3,0.0
 Immunity,US12,25.0,Immunity,Individual,Gitanos,US0181,Danielle,3,1,3,1.0
 Immunity,US12,25.0,Immunity,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -15058,83 +15035,83 @@ Immunity,US23,13.0,Immunity and Reward,Tribal,Upolu,US0350,Brandon,2,1,6,1.0
 Immunity,US23,13.0,Immunity and Reward,Tribal,Upolu,US0351,Rick,2,1,6,1.0
 Immunity,US23,13.0,Immunity and Reward,Tribal,Upolu,US0352,Albert,2,1,6,1.0
 Immunity,US23,13.0,Immunity and Reward,Tribal,Upolu,US0353,Sophie,2,1,6,1.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0201,Ozzy,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0277,Coach,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0344,Keith,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0345,Jim,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0346,Dawn,12,1,12,1.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0347,Whitney,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0348,Cochran,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0349,Edna,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0350,Brandon,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0351,Rick,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0352,Albert,12,1,12,0.0
-Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0353,Sophie,12,1,12,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0201,Ozzy,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0277,Coach,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0345,Jim,11,1,11,1.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0346,Dawn,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0347,Whitney,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0348,Cochran,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0349,Edna,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0350,Brandon,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0351,Rick,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0352,Albert,11,1,11,0.0
-Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0353,Sophie,11,1,11,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0277,Coach,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0345,Jim,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0346,Dawn,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0347,Whitney,10,1,10,1.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0348,Cochran,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0349,Edna,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0350,Brandon,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0351,Rick,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0352,Albert,10,1,10,0.0
-Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0353,Sophie,10,1,10,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0277,Coach,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0346,Dawn,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0347,Whitney,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0348,Cochran,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0349,Edna,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0350,Brandon,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0351,Rick,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0352,Albert,9,1,9,0.0
-Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0353,Sophie,9,1,9,1.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0277,Coach,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0347,Whitney,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0348,Cochran,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0349,Edna,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0350,Brandon,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0351,Rick,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0352,Albert,8,1,8,0.0
-Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0353,Sophie,8,1,8,1.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0277,Coach,6,1,6,1.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0349,Edna,6,1,6,0.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0350,Brandon,6,1,6,0.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0351,Rick,6,1,6,0.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0352,Albert,6,1,6,0.0
-Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0353,Sophie,6,1,6,0.0
-Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0201,Ozzy,5,1,5,1.0
-Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0201,Ozzy,4,1,4,0.0
-Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0277,Coach,4,1,4,0.0
-Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0352,Albert,4,1,4,0.0
-Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0353,Sophie,4,1,4,1.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0201,Ozzy,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0277,Coach,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0344,Keith,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0345,Jim,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0346,Dawn,12,1,12,1.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0347,Whitney,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0348,Cochran,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0349,Edna,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0350,Brandon,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0351,Rick,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0352,Albert,12,1,12,0.0
+Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0353,Sophie,12,1,12,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0201,Ozzy,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0277,Coach,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0345,Jim,11,1,11,1.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0346,Dawn,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0347,Whitney,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0348,Cochran,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0349,Edna,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0350,Brandon,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0351,Rick,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0352,Albert,11,1,11,0.0
+Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0353,Sophie,11,1,11,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0277,Coach,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0345,Jim,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0346,Dawn,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0347,Whitney,10,1,10,1.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0348,Cochran,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0349,Edna,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0350,Brandon,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0351,Rick,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0352,Albert,10,1,10,0.0
+Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0353,Sophie,10,1,10,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0277,Coach,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0346,Dawn,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0347,Whitney,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0348,Cochran,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0349,Edna,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0350,Brandon,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0351,Rick,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0352,Albert,9,1,9,0.0
+Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0353,Sophie,9,1,9,1.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0277,Coach,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0347,Whitney,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0348,Cochran,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0349,Edna,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0350,Brandon,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0351,Rick,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0352,Albert,8,1,8,0.0
+Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0353,Sophie,8,1,8,1.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0277,Coach,6,1,6,1.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0349,Edna,6,1,6,0.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0350,Brandon,6,1,6,0.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0351,Rick,6,1,6,0.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0352,Albert,6,1,6,0.0
+Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0353,Sophie,6,1,6,0.0
+Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0201,Ozzy,5,1,5,1.0
+Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0201,Ozzy,4,1,4,0.0
+Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0277,Coach,4,1,4,0.0
+Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0352,Albert,4,1,4,0.0
+Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0353,Sophie,4,1,4,1.0
 Immunity,US24,1.0,Immunity and Reward,Tribal,Manono,US0356,Matt,2,1,9,1.0
 Immunity,US24,1.0,Immunity and Reward,Tribal,Manono,US0357,Bill,2,1,9,1.0
 Immunity,US24,1.0,Immunity and Reward,Tribal,Manono,US0359,Colton,2,1,9,1.0
@@ -17551,15 +17528,15 @@ Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0553,Kara,6,1,6,0.0
 Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0554,Angelina,6,1,6,0.0
 Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0555,Mike,6,1,6,0.0
 Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0556,Nick,6,1,6,1.0
-Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
-Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
-Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
-Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
-Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
-Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
-Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
-Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
-Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
+Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
+Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
+Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
+Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
+Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
+Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
+Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
+Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
+Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
 Immunity,US38,1.0,Immunity and Reward,Tribal,Kama,US0451,Joe,2,1,9,1.0
 Immunity,US38,1.0,Immunity and Reward,Tribal,Kama,US0477,Aubry,2,1,9,1.0
 Immunity,US38,1.0,Immunity and Reward,Tribal,Kama,US0562,Eric,2,1,9,1.0
@@ -17626,7 +17603,6 @@ Immunity,US38,5.0,Immunity,Tribal,Manu,US0561,Wendy,3,2,5,1.0
 Immunity,US38,5.0,Immunity,Tribal,Manu,US0562,Eric,3,2,5,1.0
 Immunity,US38,5.0,Immunity,Tribal,Manu,US0567,Victoria,3,2,5,1.0
 Immunity,US38,5.0,Immunity,Tribal,Manu,US0570,Gavin,3,2,5,1.0
-Immunity,US38,5.0,Immunity,Tribal,,US0558,Keith,3,2,1,0.0
 Immunity,US38,7.0,Immunity,Tribal,Kama,US0451,Joe,3,2,5,1.0
 Immunity,US38,7.0,Immunity,Tribal,Kama,US0563,Julia,3,2,5,1.0
 Immunity,US38,7.0,Immunity,Tribal,Kama,US0565,Ron,3,2,5,1.0
@@ -17650,11 +17626,10 @@ Immunity,US38,9.0,Immunity,Tribal,Lesu,US0429,Kelley,3,1,4,0.0
 Immunity,US38,9.0,Immunity,Tribal,Lesu,US0495,David,3,1,4,0.0
 Immunity,US38,9.0,Immunity,Tribal,Lesu,US0564,Wardog,3,1,4,0.0
 Immunity,US38,9.0,Immunity,Tribal,Lesu,US0568,Lauren,3,1,4,0.0
-Immunity,US38,9.0,Immunity,Tribal,Manu,US0477,Aubry,3,1,5,0.0
-Immunity,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,5,0.0
-Immunity,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,5,0.0
-Immunity,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,5,0.0
-Immunity,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,5,0.0
+Immunity,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,4,0.0
+Immunity,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,4,0.0
+Immunity,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,4,0.0
+Immunity,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,4,0.0
 Immunity,US38,11.0,Immunity,Individual,Vata,US0429,Kelley,13,1,13,0.0
 Immunity,US38,11.0,Immunity,Individual,Vata,US0451,Joe,13,1,13,0.0
 Immunity,US38,11.0,Immunity,Individual,Vata,US0495,David,13,1,13,0.0
@@ -17877,20 +17852,19 @@ Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0586,Janet,12,1,12,0.0
 Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0587,Lauren,12,1,12,0.0
 Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0588,Noura,12,1,12,0.0
 Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0589,Dean,12,1,12,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,14,1.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,14,1.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
-Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,13,1.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,13,1.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,13,0.0
+Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,13,0.0
 Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,9,1,9,0.0
 Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0583,Karishma,9,1,9,0.0
 Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0584,Elaine,9,1,9,0.0
@@ -18371,18 +18345,18 @@ Immunity,US42,8.0,Immunity and Reward,Team,Vati,US0609,Chanelle,2,1,4,0.0
 Immunity,US42,8.0,Immunity and Reward,Team,Vati,US0612,Hai,2,1,4,1.0
 Immunity,US42,8.0,Immunity and Reward,Team,Vati,US0617,Lydia,2,1,4,1.0
 Immunity,US42,8.0,Immunity and Reward,Team,Vati,US0620,Mike,2,1,4,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0609,Chanelle,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0611,Drea,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0612,Hai,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0615,Jonathan,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0616,Lindsay,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0617,Lydia,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0619,Maryanne,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0620,Mike,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0621,Omar,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0622,Rocksroy,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0623,Romeo,12,1,12,0.0
-Immunity,US42,9.0,Immunity,Individual,Merged,US0625,Tori,12,1,12,1.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0609,Chanelle,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0611,Drea,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0612,Hai,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0615,Jonathan,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0616,Lindsay,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0617,Lydia,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0619,Maryanne,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0620,Mike,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0621,Omar,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0622,Rocksroy,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0623,Romeo,12,1,12,0.0
+Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0625,Tori,12,1,12,1.0
 Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0609,Chanelle,7,1,11,0.0
 Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0611,Drea,7,1,11,0.0
 Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0612,Hai,7,1,11,0.0
@@ -18602,12 +18576,11 @@ Immunity,US44,2.0,Immunity,Tribal,Soka,US0653,Frannie,3,2,6,1.0
 Immunity,US44,2.0,Immunity,Tribal,Soka,US0654,Heidi,3,2,6,1.0
 Immunity,US44,2.0,Immunity,Tribal,Soka,US0655,Josh,3,2,6,1.0
 Immunity,US44,2.0,Immunity,Tribal,Soka,US0656,Matt,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0657,Bruce,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,6,1.0
-Immunity,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,6,1.0
+Immunity,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,5,1.0
+Immunity,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,5,1.0
+Immunity,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,5,1.0
+Immunity,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,5,1.0
+Immunity,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,5,1.0
 Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0645,Brandon,3,2,5,1.0
 Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0646,Jaime,3,2,5,1.0
 Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0647,Kane,3,2,5,1.0
@@ -18985,18 +18958,18 @@ Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,1.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,1.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Immunity,US46,10.0,Immunity,Individual,Nuinui,US0684,Hunter,10,1,10,1.0
 Immunity,US46,10.0,Immunity,Individual,Nuinui,US0688,Liz,10,1,10,0.0
 Immunity,US46,10.0,Immunity,Individual,Nuinui,US0694,Tevin,10,1,10,0.0
@@ -19957,14 +19930,14 @@ Individual,US12,21.0,Immunity,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 Individual,US12,21.0,Immunity,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 Individual,US12,21.0,Immunity,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 Individual,US12,21.0,Immunity,Individual,Gitanos,US0182,Aras,5,1,5,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
-Individual,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
+Individual,US12,22.0,Reward,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Individual,US12,22.0,Reward,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Individual,US12,22.0,Reward,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Individual,US12,22.0,Reward,Individual,Gitanos,US0182,Aras,4,1,4,1.0
+Individual,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Individual,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Individual,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Individual,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 Individual,US12,24.0,Reward,Individual,Gitanos,US0180,Terry,3,1,3,1.0
 Individual,US12,24.0,Reward,Individual,Gitanos,US0181,Danielle,3,1,3,0.0
 Individual,US12,24.0,Reward,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -20568,20 +20541,13 @@ Individual,US21,15.0,Immunity,Individual,Libertad,US0318,Holly,10,1,10,0.0
 Individual,US21,15.0,Immunity,Individual,Libertad,US0319,Sash,10,1,10,0.0
 Individual,US21,15.0,Immunity,Individual,Libertad,US0320,Chase,10,1,10,0.0
 Individual,US21,15.0,Immunity,Individual,Libertad,US0321,Fabio,10,1,10,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,1.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
-Individual,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,7,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,7,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,7,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,7,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,7,0.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,7,1.0
+Individual,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,7,0.0
 Individual,US21,18.0,Immunity,Individual,Libertad,US0315,Benry,7,1,7,0.0
 Individual,US21,18.0,Immunity,Individual,Libertad,US0316,Jane,7,1,7,0.0
 Individual,US21,18.0,Immunity,Individual,Libertad,US0317,Dan,7,1,7,0.0
@@ -20689,83 +20655,83 @@ Individual,US22,28.0,Immunity,Individual,Murlonio,US0055,Boston Rob,4,1,4,1.0
 Individual,US22,28.0,Immunity,Individual,Murlonio,US0335,Ashley,4,1,4,0.0
 Individual,US22,28.0,Immunity,Individual,Murlonio,US0336,Natalie,4,1,4,0.0
 Individual,US22,28.0,Immunity,Individual,Murlonio,US0337,Phillip,4,1,4,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0201,Ozzy,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0277,Coach,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0344,Keith,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0345,Jim,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0346,Dawn,12,1,12,1.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0347,Whitney,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0348,Cochran,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0349,Edna,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0350,Brandon,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0351,Rick,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0352,Albert,12,1,12,0.0
-Individual,US23,15.0,Immunity,Individual,Le Tuna,US0353,Sophie,12,1,12,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0201,Ozzy,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0277,Coach,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0345,Jim,11,1,11,1.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0346,Dawn,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0347,Whitney,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0348,Cochran,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0349,Edna,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0350,Brandon,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0351,Rick,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0352,Albert,11,1,11,0.0
-Individual,US23,16.0,Immunity,Individual,Le Tuna,US0353,Sophie,11,1,11,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0277,Coach,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0345,Jim,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0346,Dawn,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0347,Whitney,10,1,10,1.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0348,Cochran,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0349,Edna,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0350,Brandon,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0351,Rick,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0352,Albert,10,1,10,0.0
-Individual,US23,17.0,Immunity,Individual,Le Tuna,US0353,Sophie,10,1,10,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0277,Coach,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0346,Dawn,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0347,Whitney,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0348,Cochran,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0349,Edna,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0350,Brandon,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0351,Rick,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0352,Albert,9,1,9,0.0
-Individual,US23,19.0,Immunity,Individual,Le Tuna,US0353,Sophie,9,1,9,1.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0277,Coach,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0347,Whitney,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0348,Cochran,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0349,Edna,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0350,Brandon,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0351,Rick,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0352,Albert,8,1,8,0.0
-Individual,US23,20.0,Immunity,Individual,Le Tuna,US0353,Sophie,8,1,8,1.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-Individual,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0277,Coach,6,1,6,1.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0349,Edna,6,1,6,0.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0350,Brandon,6,1,6,0.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0351,Rick,6,1,6,0.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0352,Albert,6,1,6,0.0
-Individual,US23,24.0,Immunity,Individual,Le Tuna,US0353,Sophie,6,1,6,0.0
-Individual,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Individual,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-Individual,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Individual,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Individual,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Individual,US23,28.0,Immunity,Individual,Le Tuna,US0201,Ozzy,5,1,5,1.0
-Individual,US23,28.0,Immunity,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Individual,US23,28.0,Immunity,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Individual,US23,28.0,Immunity,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Individual,US23,28.0,Immunity,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Individual,US23,29.0,Immunity,Individual,Le Tuna,US0201,Ozzy,4,1,4,0.0
-Individual,US23,29.0,Immunity,Individual,Le Tuna,US0277,Coach,4,1,4,0.0
-Individual,US23,29.0,Immunity,Individual,Le Tuna,US0352,Albert,4,1,4,0.0
-Individual,US23,29.0,Immunity,Individual,Le Tuna,US0353,Sophie,4,1,4,1.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0201,Ozzy,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0277,Coach,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0344,Keith,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0345,Jim,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0346,Dawn,12,1,12,1.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0347,Whitney,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0348,Cochran,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0349,Edna,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0350,Brandon,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0351,Rick,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0352,Albert,12,1,12,0.0
+Individual,US23,15.0,Immunity,Individual,Te Tuna,US0353,Sophie,12,1,12,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0201,Ozzy,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0277,Coach,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0345,Jim,11,1,11,1.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0346,Dawn,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0347,Whitney,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0348,Cochran,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0349,Edna,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0350,Brandon,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0351,Rick,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0352,Albert,11,1,11,0.0
+Individual,US23,16.0,Immunity,Individual,Te Tuna,US0353,Sophie,11,1,11,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0277,Coach,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0345,Jim,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0346,Dawn,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0347,Whitney,10,1,10,1.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0348,Cochran,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0349,Edna,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0350,Brandon,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0351,Rick,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0352,Albert,10,1,10,0.0
+Individual,US23,17.0,Immunity,Individual,Te Tuna,US0353,Sophie,10,1,10,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0277,Coach,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0346,Dawn,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0347,Whitney,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0348,Cochran,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0349,Edna,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0350,Brandon,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0351,Rick,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0352,Albert,9,1,9,0.0
+Individual,US23,19.0,Immunity,Individual,Te Tuna,US0353,Sophie,9,1,9,1.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0277,Coach,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0347,Whitney,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0348,Cochran,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0349,Edna,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0350,Brandon,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0351,Rick,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0352,Albert,8,1,8,0.0
+Individual,US23,20.0,Immunity,Individual,Te Tuna,US0353,Sophie,8,1,8,1.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+Individual,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0277,Coach,6,1,6,1.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0349,Edna,6,1,6,0.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0350,Brandon,6,1,6,0.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0351,Rick,6,1,6,0.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0352,Albert,6,1,6,0.0
+Individual,US23,24.0,Immunity,Individual,Te Tuna,US0353,Sophie,6,1,6,0.0
+Individual,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Individual,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+Individual,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Individual,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Individual,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Individual,US23,28.0,Immunity,Individual,Te Tuna,US0201,Ozzy,5,1,5,1.0
+Individual,US23,28.0,Immunity,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Individual,US23,28.0,Immunity,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Individual,US23,28.0,Immunity,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Individual,US23,28.0,Immunity,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Individual,US23,29.0,Immunity,Individual,Te Tuna,US0201,Ozzy,4,1,4,0.0
+Individual,US23,29.0,Immunity,Individual,Te Tuna,US0277,Coach,4,1,4,0.0
+Individual,US23,29.0,Immunity,Individual,Te Tuna,US0352,Albert,4,1,4,0.0
+Individual,US23,29.0,Immunity,Individual,Te Tuna,US0353,Sophie,4,1,4,1.0
 Individual,US24,12.0,Immunity,Individual,Tikiano,US0360,Jonas,12,1,12,0.0
 Individual,US24,12.0,Immunity,Individual,Tikiano,US0361,Michael,12,1,12,0.0
 Individual,US24,12.0,Immunity,Individual,Tikiano,US0362,Jay,12,1,12,0.0
@@ -21186,22 +21152,14 @@ Individual,US29,18.0,Immunity,Individual,Huyopa,US0439,Keith,9,1,9,0.0
 Individual,US29,18.0,Immunity,Individual,Huyopa,US0440,Missy,9,1,9,0.0
 Individual,US29,18.0,Immunity,Individual,Huyopa,US0441,Jaclyn,9,1,9,0.0
 Individual,US29,18.0,Immunity,Individual,Huyopa,US0442,Natalie,9,1,9,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,1.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
-Individual,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,8,1.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,8,0.0
+Individual,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,8,0.0
 Individual,US29,20.0,Immunity,Individual,Huyopa,US0435,Reed,8,1,8,0.0
 Individual,US29,20.0,Immunity,Individual,Huyopa,US0436,Alec,8,1,8,0.0
 Individual,US29,20.0,Immunity,Individual,Huyopa,US0437,Jon,8,1,8,0.0
@@ -21951,15 +21909,15 @@ Individual,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0553,Kara,6,1,6,0
 Individual,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0554,Angelina,6,1,6,0.0
 Individual,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0555,Mike,6,1,6,0.0
 Individual,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0556,Nick,6,1,6,1.0
-Individual,US37,25.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
-Individual,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
-Individual,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
-Individual,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
-Individual,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
-Individual,US37,26.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
-Individual,US37,26.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
-Individual,US37,26.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
-Individual,US37,26.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
+Individual,US37,24.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
+Individual,US37,24.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
+Individual,US37,24.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
+Individual,US37,24.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
+Individual,US37,24.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
+Individual,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
+Individual,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
+Individual,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
+Individual,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
 Individual,US38,11.0,Immunity,Individual,Vata,US0429,Kelley,13,1,13,0.0
 Individual,US38,11.0,Immunity,Individual,Vata,US0451,Joe,13,1,13,0.0
 Individual,US38,11.0,Immunity,Individual,Vata,US0495,David,13,1,13,0.0
@@ -22076,20 +22034,19 @@ Individual,US39,11.0,Immunity,Individual,Lumuwaku,US0586,Janet,12,1,12,0.0
 Individual,US39,11.0,Immunity,Individual,Lumuwaku,US0587,Lauren,12,1,12,0.0
 Individual,US39,11.0,Immunity,Individual,Lumuwaku,US0588,Noura,12,1,12,0.0
 Individual,US39,11.0,Immunity,Individual,Lumuwaku,US0589,Dean,12,1,12,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,14,1.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,14,1.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
-Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,13,1.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,13,1.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,13,0.0
+Individual,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,13,0.0
 Individual,US39,14.0,Reward,Team / Individual,Lumuwaku,US0580,Aaron,11,2,11,0.0
 Individual,US39,14.0,Reward,Team / Individual,Lumuwaku,US0581,Missy,11,2,11,0.0
 Individual,US39,14.0,Reward,Team / Individual,Lumuwaku,US0582,Elizabeth,11,2,11,0.0
@@ -22290,18 +22247,18 @@ Individual,US41,19.0,Immunity,Individual,Via Kana,US0593,Heather,4,1,4,0.0
 Individual,US41,19.0,Immunity,Individual,Via Kana,US0594,Erika,4,1,4,0.0
 Individual,US41,19.0,Immunity,Individual,Via Kana,US0597,Xander,4,1,4,1.0
 Individual,US41,19.0,Immunity,Individual,Via Kana,US0601,Deshawn,4,1,4,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0609,Chanelle,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0611,Drea,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0612,Hai,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0615,Jonathan,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0616,Lindsay,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0617,Lydia,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0619,Maryanne,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0620,Mike,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0621,Omar,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0622,Rocksroy,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0623,Romeo,12,1,12,0.0
-Individual,US42,9.0,Immunity,Individual,Merged,US0625,Tori,12,1,12,1.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0609,Chanelle,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0611,Drea,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0612,Hai,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0615,Jonathan,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0616,Lindsay,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0617,Lydia,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0619,Maryanne,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0620,Mike,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0621,Omar,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0622,Rocksroy,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0623,Romeo,12,1,12,0.0
+Individual,US42,9.0,Immunity,Individual,Kula Kula,US0625,Tori,12,1,12,1.0
 Individual,US42,11.0,Immunity,Individual,Kula Kula,US0609,Chanelle,7,1,11,0.0
 Individual,US42,11.0,Immunity,Individual,Kula Kula,US0611,Drea,7,1,11,0.0
 Individual,US42,11.0,Immunity,Individual,Kula Kula,US0612,Hai,7,1,11,0.0
@@ -22581,18 +22538,18 @@ Individual,US45,18.0,Immunity,Individual,Dakuwaqa,US0663,Austin,4,1,4,0.0
 Individual,US45,18.0,Immunity,Individual,Dakuwaqa,US0666,Dee,4,1,4,1.0
 Individual,US45,18.0,Immunity,Individual,Dakuwaqa,US0671,Jake,4,1,4,0.0
 Individual,US45,18.0,Immunity,Individual,Dakuwaqa,US0674,Katurah,4,1,4,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,1.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Individual,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,1.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Individual,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Individual,US46,10.0,Immunity,Individual,Nuinui,US0684,Hunter,10,1,10,1.0
 Individual,US46,10.0,Immunity,Individual,Nuinui,US0688,Liz,10,1,10,0.0
 Individual,US46,10.0,Immunity,Individual,Nuinui,US0694,Tevin,10,1,10,0.0
@@ -23276,14 +23233,10 @@ Individual Immunity,US12,21.0,Immunity,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 Individual Immunity,US12,21.0,Immunity,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 Individual Immunity,US12,21.0,Immunity,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 Individual Immunity,US12,21.0,Immunity,Individual,Gitanos,US0182,Aras,5,1,5,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,8,0.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
-Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,8,1.0
+Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Individual Immunity,US12,23.0,Immunity,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 Individual Immunity,US12,25.0,Immunity,Individual,Gitanos,US0180,Terry,3,1,3,0.0
 Individual Immunity,US12,25.0,Immunity,Individual,Gitanos,US0181,Danielle,3,1,3,1.0
 Individual Immunity,US12,25.0,Immunity,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -23885,83 +23838,83 @@ Individual Immunity,US22,28.0,Immunity,Individual,Murlonio,US0055,Boston Rob,4,1
 Individual Immunity,US22,28.0,Immunity,Individual,Murlonio,US0335,Ashley,4,1,4,0.0
 Individual Immunity,US22,28.0,Immunity,Individual,Murlonio,US0336,Natalie,4,1,4,0.0
 Individual Immunity,US22,28.0,Immunity,Individual,Murlonio,US0337,Phillip,4,1,4,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0201,Ozzy,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0277,Coach,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0344,Keith,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0345,Jim,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0346,Dawn,12,1,12,1.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0347,Whitney,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0348,Cochran,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0349,Edna,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0350,Brandon,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0351,Rick,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0352,Albert,12,1,12,0.0
-Individual Immunity,US23,15.0,Immunity,Individual,Le Tuna,US0353,Sophie,12,1,12,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0201,Ozzy,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0277,Coach,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0345,Jim,11,1,11,1.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0346,Dawn,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0347,Whitney,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0348,Cochran,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0349,Edna,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0350,Brandon,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0351,Rick,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0352,Albert,11,1,11,0.0
-Individual Immunity,US23,16.0,Immunity,Individual,Le Tuna,US0353,Sophie,11,1,11,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0277,Coach,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0345,Jim,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0346,Dawn,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0347,Whitney,10,1,10,1.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0348,Cochran,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0349,Edna,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0350,Brandon,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0351,Rick,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0352,Albert,10,1,10,0.0
-Individual Immunity,US23,17.0,Immunity,Individual,Le Tuna,US0353,Sophie,10,1,10,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0277,Coach,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0346,Dawn,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0347,Whitney,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0348,Cochran,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0349,Edna,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0350,Brandon,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0351,Rick,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0352,Albert,9,1,9,0.0
-Individual Immunity,US23,19.0,Immunity,Individual,Le Tuna,US0353,Sophie,9,1,9,1.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0277,Coach,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0347,Whitney,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0348,Cochran,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0349,Edna,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0350,Brandon,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0351,Rick,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0352,Albert,8,1,8,0.0
-Individual Immunity,US23,20.0,Immunity,Individual,Le Tuna,US0353,Sophie,8,1,8,1.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-Individual Immunity,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0277,Coach,6,1,6,1.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0349,Edna,6,1,6,0.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0350,Brandon,6,1,6,0.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0351,Rick,6,1,6,0.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0352,Albert,6,1,6,0.0
-Individual Immunity,US23,24.0,Immunity,Individual,Le Tuna,US0353,Sophie,6,1,6,0.0
-Individual Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Individual Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-Individual Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Individual Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Individual Immunity,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Individual Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0201,Ozzy,5,1,5,1.0
-Individual Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Individual Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Individual Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Individual Immunity,US23,28.0,Immunity,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
-Individual Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0201,Ozzy,4,1,4,0.0
-Individual Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0277,Coach,4,1,4,0.0
-Individual Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0352,Albert,4,1,4,0.0
-Individual Immunity,US23,29.0,Immunity,Individual,Le Tuna,US0353,Sophie,4,1,4,1.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0201,Ozzy,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0277,Coach,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0344,Keith,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0345,Jim,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0346,Dawn,12,1,12,1.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0347,Whitney,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0348,Cochran,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0349,Edna,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0350,Brandon,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0351,Rick,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0352,Albert,12,1,12,0.0
+Individual Immunity,US23,15.0,Immunity,Individual,Te Tuna,US0353,Sophie,12,1,12,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0201,Ozzy,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0277,Coach,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0345,Jim,11,1,11,1.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0346,Dawn,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0347,Whitney,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0348,Cochran,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0349,Edna,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0350,Brandon,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0351,Rick,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0352,Albert,11,1,11,0.0
+Individual Immunity,US23,16.0,Immunity,Individual,Te Tuna,US0353,Sophie,11,1,11,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0277,Coach,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0345,Jim,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0346,Dawn,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0347,Whitney,10,1,10,1.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0348,Cochran,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0349,Edna,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0350,Brandon,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0351,Rick,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0352,Albert,10,1,10,0.0
+Individual Immunity,US23,17.0,Immunity,Individual,Te Tuna,US0353,Sophie,10,1,10,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0277,Coach,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0346,Dawn,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0347,Whitney,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0348,Cochran,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0349,Edna,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0350,Brandon,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0351,Rick,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0352,Albert,9,1,9,0.0
+Individual Immunity,US23,19.0,Immunity,Individual,Te Tuna,US0353,Sophie,9,1,9,1.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0277,Coach,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0347,Whitney,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0348,Cochran,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0349,Edna,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0350,Brandon,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0351,Rick,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0352,Albert,8,1,8,0.0
+Individual Immunity,US23,20.0,Immunity,Individual,Te Tuna,US0353,Sophie,8,1,8,1.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+Individual Immunity,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0277,Coach,6,1,6,1.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0349,Edna,6,1,6,0.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0350,Brandon,6,1,6,0.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0351,Rick,6,1,6,0.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0352,Albert,6,1,6,0.0
+Individual Immunity,US23,24.0,Immunity,Individual,Te Tuna,US0353,Sophie,6,1,6,0.0
+Individual Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Individual Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+Individual Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Individual Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Individual Immunity,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Individual Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0201,Ozzy,5,1,5,1.0
+Individual Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Individual Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Individual Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Individual Immunity,US23,28.0,Immunity,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
+Individual Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0201,Ozzy,4,1,4,0.0
+Individual Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0277,Coach,4,1,4,0.0
+Individual Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0352,Albert,4,1,4,0.0
+Individual Immunity,US23,29.0,Immunity,Individual,Te Tuna,US0353,Sophie,4,1,4,1.0
 Individual Immunity,US24,12.0,Immunity,Individual,Tikiano,US0360,Jonas,12,1,12,0.0
 Individual Immunity,US24,12.0,Immunity,Individual,Tikiano,US0361,Michael,12,1,12,0.0
 Individual Immunity,US24,12.0,Immunity,Individual,Tikiano,US0362,Jay,12,1,12,0.0
@@ -24967,15 +24920,15 @@ Individual Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0553,Kar
 Individual Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0554,Angelina,6,1,6,0.0
 Individual Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0555,Mike,6,1,6,0.0
 Individual Immunity,US37,23.0,Immunity and Reward,Individual,Kalokalo,US0556,Nick,6,1,6,1.0
-Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
-Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
-Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
-Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
-Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
-Individual Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
-Individual Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
-Individual Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
-Individual Immunity,US37,26.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
+Individual Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0552,Alison,5,1,5,0.0
+Individual Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0553,Kara,5,1,5,0.0
+Individual Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0554,Angelina,5,1,5,0.0
+Individual Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0555,Mike,5,1,5,0.0
+Individual Immunity,US37,24.0,Immunity,Individual,Kalokalo,US0556,Nick,5,1,5,1.0
+Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0553,Kara,4,1,4,0.0
+Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0554,Angelina,4,1,4,0.0
+Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0555,Mike,4,1,4,0.0
+Individual Immunity,US37,25.0,Immunity,Individual,Kalokalo,US0556,Nick,4,1,4,1.0
 Individual Immunity,US38,11.0,Immunity,Individual,Vata,US0429,Kelley,13,1,13,0.0
 Individual Immunity,US38,11.0,Immunity,Individual,Vata,US0451,Joe,13,1,13,0.0
 Individual Immunity,US38,11.0,Immunity,Individual,Vata,US0495,David,13,1,13,0.0
@@ -25079,20 +25032,19 @@ Individual Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0586,Janet,12,1,12,
 Individual Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0587,Lauren,12,1,12,0.0
 Individual Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0588,Noura,12,1,12,0.0
 Individual Immunity,US39,11.0,Immunity,Individual,Lumuwaku,US0589,Dean,12,1,12,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,14,1.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,14,1.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
-Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,14,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0578,Kellee,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0579,Jamal,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0580,Aaron,13,2,13,1.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0581,Missy,13,2,13,1.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0583,Karishma,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0584,Elaine,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0585,Dan,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0586,Janet,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0587,Lauren,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0588,Noura,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0589,Dean,13,2,13,0.0
+Individual Immunity,US39,13.0,Immunity,Individual,Lumuwaku,US0590,Tommy,13,2,13,0.0
 Individual Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0582,Elizabeth,9,1,9,0.0
 Individual Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0583,Karishma,9,1,9,0.0
 Individual Immunity,US39,15.0,Immunity,Individual,Lumuwaku,US0584,Elaine,9,1,9,0.0
@@ -25267,18 +25219,18 @@ Individual Immunity,US41,19.0,Immunity,Individual,Via Kana,US0593,Heather,4,1,4,
 Individual Immunity,US41,19.0,Immunity,Individual,Via Kana,US0594,Erika,4,1,4,0.0
 Individual Immunity,US41,19.0,Immunity,Individual,Via Kana,US0597,Xander,4,1,4,1.0
 Individual Immunity,US41,19.0,Immunity,Individual,Via Kana,US0601,Deshawn,4,1,4,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0609,Chanelle,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0611,Drea,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0612,Hai,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0615,Jonathan,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0616,Lindsay,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0617,Lydia,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0619,Maryanne,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0620,Mike,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0621,Omar,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0622,Rocksroy,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0623,Romeo,12,1,12,0.0
-Individual Immunity,US42,9.0,Immunity,Individual,Merged,US0625,Tori,12,1,12,1.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0609,Chanelle,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0611,Drea,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0612,Hai,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0615,Jonathan,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0616,Lindsay,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0617,Lydia,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0619,Maryanne,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0620,Mike,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0621,Omar,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0622,Rocksroy,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0623,Romeo,12,1,12,0.0
+Individual Immunity,US42,9.0,Immunity,Individual,Kula Kula,US0625,Tori,12,1,12,1.0
 Individual Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0609,Chanelle,7,1,11,0.0
 Individual Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0611,Drea,7,1,11,0.0
 Individual Immunity,US42,11.0,Immunity,Individual,Kula Kula,US0612,Hai,7,1,11,0.0
@@ -25514,18 +25466,18 @@ Individual Immunity,US45,18.0,Immunity,Individual,Dakuwaqa,US0663,Austin,4,1,4,0
 Individual Immunity,US45,18.0,Immunity,Individual,Dakuwaqa,US0666,Dee,4,1,4,1.0
 Individual Immunity,US45,18.0,Immunity,Individual,Dakuwaqa,US0671,Jake,4,1,4,0.0
 Individual Immunity,US45,18.0,Immunity,Individual,Dakuwaqa,US0674,Katurah,4,1,4,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,1.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,1.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Individual Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Individual Immunity,US46,10.0,Immunity,Individual,Nuinui,US0684,Hunter,10,1,10,1.0
 Individual Immunity,US46,10.0,Immunity,Individual,Nuinui,US0688,Liz,10,1,10,0.0
 Individual Immunity,US46,10.0,Immunity,Individual,Nuinui,US0694,Tevin,10,1,10,0.0
@@ -25890,6 +25842,10 @@ Individual Reward,US12,20.0,Reward,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 Individual Reward,US12,20.0,Reward,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 Individual Reward,US12,20.0,Reward,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 Individual Reward,US12,20.0,Reward,Individual,Gitanos,US0182,Aras,5,1,5,0.0
+Individual Reward,US12,22.0,Reward,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Individual Reward,US12,22.0,Reward,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Individual Reward,US12,22.0,Reward,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Individual Reward,US12,22.0,Reward,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 Individual Reward,US12,24.0,Reward,Individual,Gitanos,US0180,Terry,3,1,3,1.0
 Individual Reward,US12,24.0,Reward,Individual,Gitanos,US0181,Danielle,3,1,3,0.0
 Individual Reward,US12,24.0,Reward,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -26041,20 +25997,13 @@ Individual Reward,US21,8.0,Immunity and Reward,Tribal / Individual,La Flor,US031
 Individual Reward,US21,8.0,Immunity and Reward,Tribal / Individual,La Flor,US0316,Jane,15,2,8,0.0
 Individual Reward,US21,8.0,Immunity and Reward,Tribal / Individual,La Flor,US0319,Sash,15,2,8,0.0
 Individual Reward,US21,8.0,Immunity and Reward,Tribal / Individual,La Flor,US0321,Fabio,15,2,8,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,1.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
-Individual Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,7,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,7,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,7,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,7,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,7,0.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,7,1.0
+Individual Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,7,0.0
 Individual Reward,US21,19.0,Reward,Individual,Libertad,US0316,Jane,6,1,6,0.0
 Individual Reward,US21,19.0,Reward,Individual,Libertad,US0317,Dan,6,1,6,0.0
 Individual Reward,US21,19.0,Reward,Individual,Libertad,US0318,Holly,6,1,6,0.0
@@ -26074,18 +26023,18 @@ Individual Reward,US22,25.0,Immunity and Reward,Individual,Murlonio,US0334,Grant
 Individual Reward,US22,25.0,Immunity and Reward,Individual,Murlonio,US0335,Ashley,5,1,5,1.0
 Individual Reward,US22,25.0,Immunity and Reward,Individual,Murlonio,US0336,Natalie,5,1,5,0.0
 Individual Reward,US22,25.0,Immunity and Reward,Individual,Murlonio,US0337,Phillip,5,1,5,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-Individual Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
-Individual Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Individual Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-Individual Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Individual Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Individual Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+Individual Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
+Individual Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Individual Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+Individual Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Individual Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Individual Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
 Individual Reward,US24,18.0,Reward,Individual,Tikiano,US0364,Troyzan,8,1,8,0.0
 Individual Reward,US24,18.0,Reward,Individual,Tikiano,US0365,Kat,8,1,8,0.0
 Individual Reward,US24,18.0,Reward,Individual,Tikiano,US0366,Tarzan,8,1,8,0.0
@@ -26164,22 +26113,14 @@ Individual Reward,US28,20.0,Reward,Individual,Solarrion,US0421,Spencer,5,1,5,0.0
 Individual Reward,US28,20.0,Reward,Individual,Solarrion,US0422,Kass,5,1,5,0.0
 Individual Reward,US28,20.0,Reward,Individual,Solarrion,US0423,Woo,5,1,5,0.0
 Individual Reward,US28,20.0,Reward,Individual,Solarrion,US0424,Tony,5,1,5,1.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,1.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
-Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,8,1.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,8,0.0
+Individual Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,8,0.0
 Individual Reward,US29,21.0,Reward,Individual,Huyopa,US0436,Alec,7,1,7,0.0
 Individual Reward,US29,21.0,Reward,Individual,Huyopa,US0437,Jon,7,1,7,0.0
 Individual Reward,US29,21.0,Reward,Individual,Huyopa,US0438,Baylor,7,1,7,0.0
@@ -26516,18 +26457,18 @@ Individual Reward,US45,17.0,Immunity and Reward,Individual,Dakuwaqa,US0666,Dee,5
 Individual Reward,US45,17.0,Immunity and Reward,Individual,Dakuwaqa,US0671,Jake,5,1,5,0.0
 Individual Reward,US45,17.0,Immunity and Reward,Individual,Dakuwaqa,US0672,Julie,5,1,5,0.0
 Individual Reward,US45,17.0,Immunity and Reward,Individual,Dakuwaqa,US0674,Katurah,5,1,5,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Individual Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Individual Reward,US46,12.0,Reward,Individual,Nuinui,US0688,Liz,8,1,8,0.0
 Individual Reward,US46,12.0,Reward,Individual,Nuinui,US0697,Venus,8,1,8,0.0
 Individual Reward,US46,12.0,Reward,Individual,Nuinui,US0680,Ben,8,1,8,0.0
@@ -27195,39 +27136,34 @@ Reward,US07,6.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,1.0
 Reward,US07,6.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,1.0
 Reward,US07,6.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,1.0
 Reward,US07,6.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,1.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Reward,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Reward,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,1.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,1.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,1.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,1.0
-Reward,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,1.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Reward,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
+Reward,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Reward,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Reward,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Reward,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Reward,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Reward,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Reward,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Reward,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Reward,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Reward,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,6,1.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,6,1.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,6,1.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,1.0
+Reward,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,6,1.0
+Reward,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Reward,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Reward,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Reward,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Reward,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
 Reward,US07,14.0,Reward,Individual,Balboa,US0099,Lillian,9,1,9,0.0
 Reward,US07,14.0,Reward,Individual,Balboa,US0100,Burton,9,1,9,0.0
 Reward,US07,14.0,Reward,Individual,Balboa,US0106,Ryan O.,9,1,9,0.0
@@ -27908,6 +27844,10 @@ Reward,US12,20.0,Reward,Individual,Gitanos,US0179,Cirie,5,1,5,0.0
 Reward,US12,20.0,Reward,Individual,Gitanos,US0180,Terry,5,1,5,1.0
 Reward,US12,20.0,Reward,Individual,Gitanos,US0181,Danielle,5,1,5,0.0
 Reward,US12,20.0,Reward,Individual,Gitanos,US0182,Aras,5,1,5,0.0
+Reward,US12,22.0,Reward,Individual,Gitanos,US0179,Cirie,4,1,4,0.0
+Reward,US12,22.0,Reward,Individual,Gitanos,US0180,Terry,4,1,4,0.0
+Reward,US12,22.0,Reward,Individual,Gitanos,US0181,Danielle,4,1,4,0.0
+Reward,US12,22.0,Reward,Individual,Gitanos,US0182,Aras,4,1,4,1.0
 Reward,US12,24.0,Reward,Individual,Gitanos,US0180,Terry,3,1,3,1.0
 Reward,US12,24.0,Reward,Individual,Gitanos,US0181,Danielle,3,1,3,0.0
 Reward,US12,24.0,Reward,Individual,Gitanos,US0182,Aras,3,1,3,0.0
@@ -28560,6 +28500,15 @@ Reward,US17,11.0,Reward,Tribal,Kota,US0258,Randy,2,1,7,1.0
 Reward,US17,11.0,Reward,Tribal,Kota,US0259,Corinne,2,1,7,1.0
 Reward,US17,11.0,Reward,Tribal,Kota,US0264,Susie,2,1,7,1.0
 Reward,US17,11.0,Reward,Tribal,Kota,US0265,Bob,2,1,7,1.0
+Reward,US17,14.0,Reward,Tribal,Fang,US0257,Charlie,2,2,5,1.0
+Reward,US17,14.0,Reward,Tribal,Fang,US0258,Randy,2,2,5,1.0
+Reward,US17,14.0,Reward,Tribal,Fang,US0259,Corinne,2,2,5,1.0
+Reward,US17,14.0,Reward,Tribal,Kota,US0260,Crystal,2,2,4,0.0
+Reward,US17,14.0,Reward,Tribal,Kota,US0261,Ken,2,2,4,0.0
+Reward,US17,14.0,Reward,Tribal,Fang,US0262,Matty,2,2,5,1.0
+Reward,US17,14.0,Reward,Tribal,Fang,US0263,Sugar,2,2,5,1.0
+Reward,US17,14.0,Reward,Tribal,Kota,US0264,Susie,2,2,4,1.0
+Reward,US17,14.0,Reward,Tribal,Kota,US0265,Bob,2,2,4,0.0
 Reward,US17,17.0,Reward,Individual,Nobag,US0259,Corinne,6,1,7,0.0
 Reward,US17,17.0,Reward,Individual,Nobag,US0260,Crystal,6,1,7,0.0
 Reward,US17,17.0,Reward,Individual,Nobag,US0261,Ken,6,1,7,0.0
@@ -29114,20 +29063,13 @@ Reward,US21,16.0,Reward,Team,Libertad,US0318,Holly,2,1,9,1.0
 Reward,US21,16.0,Reward,Team,Libertad,US0319,Sash,2,1,9,0.0
 Reward,US21,16.0,Reward,Team,Libertad,US0320,Chase,2,1,9,1.0
 Reward,US21,16.0,Reward,Team,Libertad,US0321,Fabio,2,1,9,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,14,1.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
-Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,14,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0315,Benry,7,1,7,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0316,Jane,7,1,7,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0317,Dan,7,1,7,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0318,Holly,7,1,7,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0319,Sash,7,1,7,0.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0320,Chase,7,1,7,1.0
+Reward,US21,17.0,Reward,Individual,Libertad,US0321,Fabio,7,1,7,0.0
 Reward,US21,19.0,Reward,Individual,Libertad,US0316,Jane,6,1,6,0.0
 Reward,US21,19.0,Reward,Individual,Libertad,US0317,Dan,6,1,6,0.0
 Reward,US21,19.0,Reward,Individual,Libertad,US0318,Holly,6,1,6,0.0
@@ -29357,18 +29299,18 @@ Reward,US23,13.0,Immunity and Reward,Tribal,Upolu,US0350,Brandon,2,1,6,1.0
 Reward,US23,13.0,Immunity and Reward,Tribal,Upolu,US0351,Rick,2,1,6,1.0
 Reward,US23,13.0,Immunity and Reward,Tribal,Upolu,US0352,Albert,2,1,6,1.0
 Reward,US23,13.0,Immunity and Reward,Tribal,Upolu,US0353,Sophie,2,1,6,1.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,7,1,7,0.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0348,Cochran,7,1,7,0.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0349,Edna,7,1,7,0.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,7,1,7,0.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,7,1,7,0.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,7,1,7,1.0
-Reward,US23,22.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,7,1,7,0.0
-Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0277,Coach,5,1,5,0.0
-Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0350,Brandon,5,1,5,1.0
-Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0351,Rick,5,1,5,0.0
-Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0352,Albert,5,1,5,0.0
-Reward,US23,26.0,Immunity and Reward,Individual,Le Tuna,US0353,Sophie,5,1,5,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,7,1,7,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0348,Cochran,7,1,7,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0349,Edna,7,1,7,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,7,1,7,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,7,1,7,0.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,7,1,7,1.0
+Reward,US23,22.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,7,1,7,0.0
+Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0277,Coach,5,1,5,0.0
+Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0350,Brandon,5,1,5,1.0
+Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0351,Rick,5,1,5,0.0
+Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0352,Albert,5,1,5,0.0
+Reward,US23,26.0,Immunity and Reward,Individual,Te Tuna,US0353,Sophie,5,1,5,0.0
 Reward,US24,1.0,Immunity and Reward,Tribal,Manono,US0356,Matt,2,1,9,1.0
 Reward,US24,1.0,Immunity and Reward,Tribal,Manono,US0357,Bill,2,1,9,1.0
 Reward,US24,1.0,Immunity and Reward,Tribal,Manono,US0359,Colton,2,1,9,1.0
@@ -30149,22 +30091,14 @@ Reward,US29,17.0,Reward,Team,Huyopa,US0439,Keith,2,1,9,0.0
 Reward,US29,17.0,Reward,Team,Huyopa,US0440,Missy,2,1,9,0.0
 Reward,US29,17.0,Reward,Team,Huyopa,US0441,Jaclyn,2,1,9,1.0
 Reward,US29,17.0,Reward,Team,Huyopa,US0442,Natalie,2,1,9,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,16,1.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
-Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,16,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0435,Reed,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0436,Alec,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0437,Jon,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0438,Baylor,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0439,Keith,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0440,Missy,8,1,8,1.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0441,Jaclyn,8,1,8,0.0
+Reward,US29,19.0,Reward,Individual,Huyopa,US0442,Natalie,8,1,8,0.0
 Reward,US29,21.0,Reward,Individual,Huyopa,US0436,Alec,7,1,7,0.0
 Reward,US29,21.0,Reward,Individual,Huyopa,US0437,Jon,7,1,7,0.0
 Reward,US29,21.0,Reward,Individual,Huyopa,US0438,Baylor,7,1,7,0.0
@@ -32567,18 +32501,18 @@ Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,0.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Reward,US46,12.0,Reward,Individual,Nuinui,US0688,Liz,8,1,8,0.0
 Reward,US46,12.0,Reward,Individual,Nuinui,US0697,Venus,8,1,8,0.0
 Reward,US46,12.0,Reward,Individual,Nuinui,US0680,Ben,8,1,8,0.0
@@ -33525,18 +33459,18 @@ Team,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 Team,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 Team,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 Team,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,1.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Team,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,1.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Team,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Team Immunity,US08,16.0,Immunity and Reward,Team / Individual,Chaboga Mogo,US0009,Jenna L.,8,1,8,0.0
 Team Immunity,US08,16.0,Immunity and Reward,Team / Individual,Chaboga Mogo,US0024,Alicia,8,1,8,0.0
 Team Immunity,US08,16.0,Immunity and Reward,Team / Individual,Chaboga Mogo,US0027,Amber,8,1,8,0.0
@@ -33692,18 +33626,18 @@ Team Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 Team Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 Team Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 Team Immunity,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Team Immunity,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Team Reward,US02,14.0,Reward,Team,Barramundi,US0025,Jerri,4,1,8,1.0
 Team Reward,US02,14.0,Reward,Team,Barramundi,US0026,Nick,4,1,8,0.0
 Team Reward,US02,14.0,Reward,Team,Barramundi,US0027,Amber,4,1,8,0.0
@@ -34624,18 +34558,18 @@ Team Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0696,Tim,2,1,13,1.0
 Team Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0687,Kenzie,2,1,13,1.0
 Team Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0691,Q,2,1,13,1.0
 Team Reward,US46,8.0,Immunity and Reward,Team,Mergatory,US0695,Tiffany,2,1,13,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0684,Hunter,12,2,12,0.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0688,Liz,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0693,Soda,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0694,Tevin,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0697,Venus,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0680,Ben,12,2,12,0.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0682,Charlie,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0689,Maria,12,2,12,1.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0696,Tim,12,2,12,0.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0687,Kenzie,12,2,12,0.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0691,Q,12,2,12,0.0
-Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Merged,US0695,Tiffany,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0684,Hunter,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0688,Liz,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0693,Soda,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0694,Tevin,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0697,Venus,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0680,Ben,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0682,Charlie,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0689,Maria,12,2,12,1.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0696,Tim,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0687,Kenzie,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0691,Q,12,2,12,0.0
+Team Reward,US46,9.0,Immunity and Reward,Team / Individual,Nuinui,US0695,Tiffany,12,2,12,0.0
 Tribal,US01,1.0,Immunity and Reward,Tribal,Pagong,US0002,B.B.,2,1,8,1.0
 Tribal,US01,1.0,Immunity and Reward,Tribal,Pagong,US0004,Ramona,2,1,8,1.0
 Tribal,US01,1.0,Immunity and Reward,Tribal,Pagong,US0006,Joel,2,1,8,1.0
@@ -35565,12 +35499,11 @@ Tribal,US07,6.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,1.0
 Tribal,US07,6.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,1.0
 Tribal,US07,6.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,1.0
 Tribal,US07,6.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,1.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Tribal,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
+Tribal,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Tribal,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Tribal,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Tribal,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Tribal,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
@@ -35579,66 +35512,57 @@ Tribal,US07,7.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
 Tribal,US07,7.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,1.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,1.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,1.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,1.0
-Tribal,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,1.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Tribal,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
+Tribal,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Tribal,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Tribal,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,6,1.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,6,1.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,6,1.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,1.0
+Tribal,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,6,1.0
+Tribal,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Tribal,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Tribal,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Tribal,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Tribal,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,6,0.0
+Tribal,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
 Tribal,US07,12.0,Immunity,Tribal,Drake,US0103,Shawn,3,1,5,0.0
 Tribal,US07,12.0,Immunity,Tribal,Drake,US0107,Rupert,3,1,5,0.0
 Tribal,US07,12.0,Immunity,Tribal,Drake,US0109,Christa,3,1,5,0.0
@@ -36006,16 +35930,15 @@ Tribal,US09,12.0,Immunity,Tribal,Yasur,US0124,Leann,2,1,5,1.0
 Tribal,US09,12.0,Immunity,Tribal,Yasur,US0125,Ami,2,1,5,1.0
 Tribal,US09,12.0,Immunity,Tribal,Yasur,US0127,Eliza,2,1,5,1.0
 Tribal,US09,12.0,Immunity,Tribal,Yasur,US0128,Scout,2,1,5,1.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0121,Rory,1,1,10,0.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0122,Lea,1,1,10,1.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0123,Chad,1,1,10,1.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0124,Leann,1,1,10,0.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0125,Ami,1,1,10,0.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0126,Julie,1,1,10,1.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0127,Eliza,1,1,10,0.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0128,Scout,1,1,10,0.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0129,Twila,1,1,10,1.0
-Tribal,US09,13.0,Reward,Tribal,Alinta,US0130,Chris,1,1,10,1.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0122,Lea,1,1,9,1.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0123,Chad,1,1,9,1.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0124,Leann,1,1,9,0.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0125,Ami,1,1,9,0.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0126,Julie,1,1,9,1.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0127,Eliza,1,1,9,0.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0128,Scout,1,1,9,0.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0129,Twila,1,1,9,1.0
+Tribal,US09,13.0,Reward,Tribal,Alinta,US0130,Chris,1,1,9,1.0
 Tribal,US10,2.0,Immunity and Reward,Tribal,Koror,US0137,Willard,2,1,9,1.0
 Tribal,US10,2.0,Immunity and Reward,Tribal,Koror,US0142,Coby,2,1,9,1.0
 Tribal,US10,2.0,Immunity and Reward,Tribal,Koror,US0143,Janu,2,1,9,1.0
@@ -37456,6 +37379,15 @@ Tribal,US17,13.0,Immunity,Tribal,Kota,US0260,Crystal,2,1,5,0.0
 Tribal,US17,13.0,Immunity,Tribal,Kota,US0261,Ken,2,1,5,0.0
 Tribal,US17,13.0,Immunity,Tribal,Kota,US0264,Susie,2,1,5,0.0
 Tribal,US17,13.0,Immunity,Tribal,Kota,US0265,Bob,2,1,5,0.0
+Tribal,US17,14.0,Reward,Tribal,Fang,US0257,Charlie,2,2,5,1.0
+Tribal,US17,14.0,Reward,Tribal,Fang,US0258,Randy,2,2,5,1.0
+Tribal,US17,14.0,Reward,Tribal,Fang,US0259,Corinne,2,2,5,1.0
+Tribal,US17,14.0,Reward,Tribal,Kota,US0260,Crystal,2,2,4,0.0
+Tribal,US17,14.0,Reward,Tribal,Kota,US0261,Ken,2,2,4,0.0
+Tribal,US17,14.0,Reward,Tribal,Fang,US0262,Matty,2,2,5,1.0
+Tribal,US17,14.0,Reward,Tribal,Fang,US0263,Sugar,2,2,5,1.0
+Tribal,US17,14.0,Reward,Tribal,Kota,US0264,Susie,2,2,4,1.0
+Tribal,US17,14.0,Reward,Tribal,Kota,US0265,Bob,2,2,4,0.0
 Tribal,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0266,Carolina,2,1,8,0.0
 Tribal,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0269,Sandy,2,1,8,0.0
 Tribal,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0270,Spencer,2,1,8,0.0
@@ -40580,7 +40512,6 @@ Tribal,US38,5.0,Immunity,Tribal,Manu,US0561,Wendy,3,2,5,1.0
 Tribal,US38,5.0,Immunity,Tribal,Manu,US0562,Eric,3,2,5,1.0
 Tribal,US38,5.0,Immunity,Tribal,Manu,US0567,Victoria,3,2,5,1.0
 Tribal,US38,5.0,Immunity,Tribal,Manu,US0570,Gavin,3,2,5,1.0
-Tribal,US38,5.0,Immunity,Tribal,,US0558,Keith,3,2,1,0.0
 Tribal,US38,6.0,Reward,Tribal,Kama,US0451,Joe,3,2,5,1.0
 Tribal,US38,6.0,Reward,Tribal,Kama,US0563,Julia,3,2,5,1.0
 Tribal,US38,6.0,Reward,Tribal,Kama,US0565,Ron,3,2,5,1.0
@@ -40631,11 +40562,10 @@ Tribal,US38,9.0,Immunity,Tribal,Lesu,US0429,Kelley,3,1,4,0.0
 Tribal,US38,9.0,Immunity,Tribal,Lesu,US0495,David,3,1,4,0.0
 Tribal,US38,9.0,Immunity,Tribal,Lesu,US0564,Wardog,3,1,4,0.0
 Tribal,US38,9.0,Immunity,Tribal,Lesu,US0568,Lauren,3,1,4,0.0
-Tribal,US38,9.0,Immunity,Tribal,Manu,US0477,Aubry,3,1,5,0.0
-Tribal,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,5,0.0
-Tribal,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,5,0.0
-Tribal,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,5,0.0
-Tribal,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,5,0.0
+Tribal,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,4,0.0
+Tribal,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,4,0.0
+Tribal,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,4,0.0
+Tribal,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,4,0.0
 Tribal,US39,1.0,Immunity and Reward,Tribal,Lairo,US0571,Ronnie,2,1,10,0.0
 Tribal,US39,1.0,Immunity and Reward,Tribal,Lairo,US0573,Vince,2,1,10,0.0
 Tribal,US39,1.0,Immunity and Reward,Tribal,Lairo,US0574,Chelsea,2,1,10,0.0
@@ -41301,12 +41231,11 @@ Tribal,US44,2.0,Immunity,Tribal,Soka,US0653,Frannie,3,2,6,1.0
 Tribal,US44,2.0,Immunity,Tribal,Soka,US0654,Heidi,3,2,6,1.0
 Tribal,US44,2.0,Immunity,Tribal,Soka,US0655,Josh,3,2,6,1.0
 Tribal,US44,2.0,Immunity,Tribal,Soka,US0656,Matt,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0657,Bruce,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,6,1.0
-Tribal,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,6,1.0
+Tribal,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,5,1.0
+Tribal,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,5,1.0
+Tribal,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,5,1.0
+Tribal,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,5,1.0
+Tribal,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,5,1.0
 Tribal,US44,3.0,Immunity and Reward,Tribal,Ratu,US0645,Brandon,3,2,5,1.0
 Tribal,US44,3.0,Immunity and Reward,Tribal,Ratu,US0646,Jaime,3,2,5,1.0
 Tribal,US44,3.0,Immunity and Reward,Tribal,Ratu,US0647,Kane,3,2,5,1.0
@@ -42153,39 +42082,34 @@ Tribal Immunity,US07,7.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
 Tribal Immunity,US07,7.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
 Tribal Immunity,US07,7.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
 Tribal Immunity,US07,7.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
+Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal Immunity,US07,7.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal Immunity,US07,9.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0103,Shawn,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0107,Rupert,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0109,Christa,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Drake,US0112,Sandra,2,1,6,0.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal Immunity,US07,11.0,Immunity,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
 Tribal Immunity,US07,12.0,Immunity,Tribal,Drake,US0103,Shawn,3,1,5,0.0
 Tribal Immunity,US07,12.0,Immunity,Tribal,Drake,US0107,Rupert,3,1,5,0.0
 Tribal Immunity,US07,12.0,Immunity,Tribal,Drake,US0109,Christa,3,1,5,0.0
@@ -45372,7 +45296,6 @@ Tribal Immunity,US38,5.0,Immunity,Tribal,Manu,US0561,Wendy,3,2,5,1.0
 Tribal Immunity,US38,5.0,Immunity,Tribal,Manu,US0562,Eric,3,2,5,1.0
 Tribal Immunity,US38,5.0,Immunity,Tribal,Manu,US0567,Victoria,3,2,5,1.0
 Tribal Immunity,US38,5.0,Immunity,Tribal,Manu,US0570,Gavin,3,2,5,1.0
-Tribal Immunity,US38,5.0,Immunity,Tribal,,US0558,Keith,3,2,1,0.0
 Tribal Immunity,US38,7.0,Immunity,Tribal,Kama,US0451,Joe,3,2,5,1.0
 Tribal Immunity,US38,7.0,Immunity,Tribal,Kama,US0563,Julia,3,2,5,1.0
 Tribal Immunity,US38,7.0,Immunity,Tribal,Kama,US0565,Ron,3,2,5,1.0
@@ -45396,11 +45319,10 @@ Tribal Immunity,US38,9.0,Immunity,Tribal,Lesu,US0429,Kelley,3,1,4,0.0
 Tribal Immunity,US38,9.0,Immunity,Tribal,Lesu,US0495,David,3,1,4,0.0
 Tribal Immunity,US38,9.0,Immunity,Tribal,Lesu,US0564,Wardog,3,1,4,0.0
 Tribal Immunity,US38,9.0,Immunity,Tribal,Lesu,US0568,Lauren,3,1,4,0.0
-Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0477,Aubry,3,1,5,0.0
-Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,5,0.0
-Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,5,0.0
-Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,5,0.0
-Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,5,0.0
+Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0561,Wendy,3,1,4,0.0
+Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0562,Eric,3,1,4,0.0
+Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0567,Victoria,3,1,4,0.0
+Tribal Immunity,US38,9.0,Immunity,Tribal,Manu,US0570,Gavin,3,1,4,0.0
 Tribal Immunity,US39,1.0,Immunity and Reward,Tribal,Lairo,US0571,Ronnie,2,1,10,0.0
 Tribal Immunity,US39,1.0,Immunity and Reward,Tribal,Lairo,US0573,Vince,2,1,10,0.0
 Tribal Immunity,US39,1.0,Immunity and Reward,Tribal,Lairo,US0574,Chelsea,2,1,10,0.0
@@ -45894,12 +45816,11 @@ Tribal Immunity,US44,2.0,Immunity,Tribal,Soka,US0653,Frannie,3,2,6,1.0
 Tribal Immunity,US44,2.0,Immunity,Tribal,Soka,US0654,Heidi,3,2,6,1.0
 Tribal Immunity,US44,2.0,Immunity,Tribal,Soka,US0655,Josh,3,2,6,1.0
 Tribal Immunity,US44,2.0,Immunity,Tribal,Soka,US0656,Matt,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0657,Bruce,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,6,1.0
-Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,6,1.0
+Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0658,Carolyn,3,2,5,1.0
+Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0659,Carson,3,2,5,1.0
+Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0660,Helen,3,2,5,1.0
+Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0661,Sarah,3,2,5,1.0
+Tribal Immunity,US44,2.0,Immunity,Tribal,Tika,US0662,Yam Yam,3,2,5,1.0
 Tribal Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0645,Brandon,3,2,5,1.0
 Tribal Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0646,Jaime,3,2,5,1.0
 Tribal Immunity,US44,3.0,Immunity and Reward,Tribal,Ratu,US0647,Kane,3,2,5,1.0
@@ -46569,39 +46490,34 @@ Tribal Reward,US07,6.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,1.0
 Tribal Reward,US07,6.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,1.0
 Tribal Reward,US07,6.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,1.0
 Tribal Reward,US07,6.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,1.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0100,Burton,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,8,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,1.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,1.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,1.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,1.0
-Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0100,Burton,2,1,7,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,1.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0099,Lillian,2,1,6,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,6,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,6,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,6,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,6,0.0
-Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,6,0.0
+Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Tribal Reward,US07,6.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0101,Michelle,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0102,Trish,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0103,Shawn,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0107,Rupert,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0109,Christa,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Drake,US0112,Sandra,2,1,7,0.0
+Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,1.0
+Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,1.0
+Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,1.0
+Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,1.0
+Tribal Reward,US07,8.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0102,Trish,2,1,6,0.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0103,Shawn,2,1,6,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0107,Rupert,2,1,6,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0109,Christa,2,1,6,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0111,Jonny Fairplay,2,1,6,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Drake,US0112,Sandra,2,1,6,1.0
+Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0104,Osten,2,1,5,0.0
+Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0105,Andrew,2,1,5,0.0
+Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0106,Ryan O.,2,1,5,0.0
+Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0108,Tijuana,2,1,5,0.0
+Tribal Reward,US07,10.0,Reward,Tribal,Morgan,US0110,Darrah,2,1,5,0.0
 Tribal Reward,US08,2.0,Reward,Tribal,Chapera,US0013,Sue,3,1,6,0.0
 Tribal Reward,US08,2.0,Reward,Tribal,Chapera,US0024,Alicia,3,1,6,0.0
 Tribal Reward,US08,2.0,Reward,Tribal,Chapera,US0027,Amber,3,1,6,0.0
@@ -46801,16 +46717,15 @@ Tribal Reward,US09,11.0,Reward,Tribal,Yasur,US0124,Leann,2,1,5,1.0
 Tribal Reward,US09,11.0,Reward,Tribal,Yasur,US0125,Ami,2,1,5,1.0
 Tribal Reward,US09,11.0,Reward,Tribal,Yasur,US0127,Eliza,2,1,5,1.0
 Tribal Reward,US09,11.0,Reward,Tribal,Yasur,US0128,Scout,2,1,5,1.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0121,Rory,1,1,10,0.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0122,Lea,1,1,10,1.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0123,Chad,1,1,10,1.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0124,Leann,1,1,10,0.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0125,Ami,1,1,10,0.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0126,Julie,1,1,10,1.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0127,Eliza,1,1,10,0.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0128,Scout,1,1,10,0.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0129,Twila,1,1,10,1.0
-Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0130,Chris,1,1,10,1.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0122,Lea,1,1,9,1.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0123,Chad,1,1,9,1.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0124,Leann,1,1,9,0.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0125,Ami,1,1,9,0.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0126,Julie,1,1,9,1.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0127,Eliza,1,1,9,0.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0128,Scout,1,1,9,0.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0129,Twila,1,1,9,1.0
+Tribal Reward,US09,13.0,Reward,Tribal,Alinta,US0130,Chris,1,1,9,1.0
 Tribal Reward,US10,2.0,Immunity and Reward,Tribal,Koror,US0137,Willard,2,1,9,1.0
 Tribal Reward,US10,2.0,Immunity and Reward,Tribal,Koror,US0142,Coby,2,1,9,1.0
 Tribal Reward,US10,2.0,Immunity and Reward,Tribal,Koror,US0143,Janu,2,1,9,1.0
@@ -47630,6 +47545,15 @@ Tribal Reward,US17,11.0,Reward,Tribal,Kota,US0258,Randy,2,1,7,1.0
 Tribal Reward,US17,11.0,Reward,Tribal,Kota,US0259,Corinne,2,1,7,1.0
 Tribal Reward,US17,11.0,Reward,Tribal,Kota,US0264,Susie,2,1,7,1.0
 Tribal Reward,US17,11.0,Reward,Tribal,Kota,US0265,Bob,2,1,7,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Fang,US0257,Charlie,2,2,5,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Fang,US0258,Randy,2,2,5,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Fang,US0259,Corinne,2,2,5,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Kota,US0260,Crystal,2,2,4,0.0
+Tribal Reward,US17,14.0,Reward,Tribal,Kota,US0261,Ken,2,2,4,0.0
+Tribal Reward,US17,14.0,Reward,Tribal,Fang,US0262,Matty,2,2,5,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Fang,US0263,Sugar,2,2,5,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Kota,US0264,Susie,2,2,4,1.0
+Tribal Reward,US17,14.0,Reward,Tribal,Kota,US0265,Bob,2,2,4,0.0
 Tribal Reward,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0266,Carolina,2,1,8,0.0
 Tribal Reward,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0269,Sandy,2,1,8,0.0
 Tribal Reward,US18,1.0,Immunity and Reward,Tribal,Jalapao,US0270,Spencer,2,1,8,0.0
