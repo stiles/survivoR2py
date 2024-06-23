@@ -125,9 +125,9 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 9,11,Chad,True,True,False,True,False,,,,6/11/2024,10,Chad,US0123,both,True,2
 9,12,Leann,True,False,False,True,False,,,,6/11/2024,11,Leann,US0124,both,True,1
 9,13,Ami,False,False,False,False,False,,,,6/11/2024,12,Ami,US0125,both,True,0
-9,14,Julie,,,,,,,,,6/11/2024,13,Julie,US0126,both,True,0
-9,15,Eliza,,,,,,,,,6/11/2024,14,Eliza,US0127,both,True,0
-9,16,Scout,,,,,,,,,6/11/2024,14,Scout,US0128,both,True,0
+9,14,Julie,False,False,False,False,False,,,,6/11/2024,13,Julie,US0126,both,True,0
+9,15,Eliza,True,False,False,True,False,,,,6/11/2024,14,Eliza,US0127,both,True,1
+9,16,Scout,False,False,False,False,False,,,,6/11/2024,14,Scout,US0128,both,True,0
 10,1,Jolanda,False,False,False,False,False,,,Paramount,6/11/2024,1,Jolanda,US0133,both,True,0
 10,2,Ashlee,False,False,False,False,False,,,Paramount,,2,Ashlee,US0134,both,True,0
 10,3,Jeff,False,False,False,False,False,,,Paramount,6/11/2024,3,Jeff,US0135,both,True,0
@@ -138,10 +138,10 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 10,8,Ibrehem,False,False,False,False,False,,,Paramount,6/11/2024,7,Ibrehem,US0140,both,True,0
 10,9,Bobby Jon,False,False,False,False,False,,,Paramount,6/11/2024,8,Bobby Jon,US0141,both,True,0
 10,10,Coby,True,False,True,True,True,"""That was a great compliment. Thank you.""",,Paramount,6/11/2024,9,Coby,US0142,both,True,3
-10,11,Stephenie,,,,,,,,Paramount,6/11/2024,11,Stephenie,US0144,both,True,0
-10,12,Gregg,,,,,,,,Paramount,6/11/2024,12,Gregg,US0145,both,True,0
-10,13,Caryn,,,,,,,,Paramount,6/11/2024,13,Caryn,US0146,both,True,0
-10,14,Jenn,,,,,,,,Paramount,6/11/2024,14,Jenn,US0147,both,True,0
+10,11,Stephenie,False,False,False,False,False,,,Paramount,6/11/2024,11,Stephenie,US0144,both,True,0
+10,12,Gregg,False,False,False,False,False,,,Paramount,6/11/2024,12,Gregg,US0145,both,True,0
+10,13,Caryn,False,False,False,False,False,,,Paramount,6/11/2024,13,Caryn,US0146,both,True,0
+10,14,Jenn,True,False,True,True,False,"""Good luck, guys.""",,Paramount,6/11/2024,14,Jenn,US0147,both,True,2
 10,15,Ian,False,False,False,False,False,,Not a traditional vote off because of the long bouy challenge,Paramount,6/11/2024,14,Ian,US0148,both,True,0
 11,1,Jim,True,True,False,False,False,,Waved and turned head but didn't make eye contact,https://youtu.be/-D6JL6myJ_0?si=784e_2VAhRDk8OwC,6/6/2024,1,Jim,US0151,both,True,1
 11,2,Morgan,False,False,False,False,False,,,https://youtu.be/-D6JL6myJ_0?si=784e_2VAhRDk8OwC,6/6/2024,2,Morgan,US0152,both,True,0
@@ -159,20 +159,19 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 11,14,Cindy,False,False,False,False,False,,Curse of the car!,Paramount,6/7/2024,13,Cindy,US0163,both,True,0
 11,15,Lydia,False,False,False,False,False,,,Paramount,6/7/2024,14,Lydia,US0164,both,True,0
 11,16,Rafe,True,True,True,True,True,"""Good luck tomorrow, guys.""",,Paramount,6/7/2024,14,Rafe,US0165,both,True,4
-12,1,Tina,,,,,,,,,6/11/2024,1,Tina,US0167,both,True,0
-12,2,Melinda,,,,,,,,,6/11/2024,2,Melinda,US0168,both,True,0
-12,3,Misty,,,,,,,,,6/11/2024,3,Misty,US0169,both,True,0
-12,4,Ruth Marie,,,,,,,,,6/11/2024,4,Ruth Marie,US0170,both,True,0
-12,5,Bobby,,,,,,,,,6/11/2024,5,Bobby,US0171,both,True,0
-12,6,Dan,,,,,,,,,6/11/2024,6,Dan,US0172,both,True,0
-12,7,Nick,,,,,,,,,6/11/2024,8,Nick,US0173,both,True,0
+12,1,Tina,True,True,True,True,True,,,,6/11/2024,1,Tina,US0167,both,True,4
+12,2,Melinda,True,True,True,False,False,,,,6/11/2024,2,Melinda,US0168,both,True,2
+12,3,Misty,True,True,True,False,False,,,,6/11/2024,3,Misty,US0169,both,True,2
+12,4,Ruth Marie,True,True,True,False,False,,,,6/11/2024,4,Ruth Marie,US0170,both,True,2
+12,5,Bobby,False,False,False,False,False,,,,6/11/2024,5,Bobby,US0171,both,True,0
+12,6,Dan,True,True,False,True,True,,,,6/11/2024,6,Dan,US0172,both,True,3
+12,7,Nick,True,True,True,True,True,"""Cirie""",He threw her some socks and said her name. ,,6/11/2024,8,Nick,US0173,both,True,4
 12,8,Austin,,,,,,,,,6/11/2024,9,Austin,US0174,both,True,0
 12,9,Sally,,,,,,,,,6/11/2024,10,Sally,US0175,both,True,0
 12,10,Courtney,,,,,,,,,6/11/2024,12,Courtney,US0177,both,True,0
 12,11,Shane,,,,,,,,,6/11/2024,13,Shane,US0178,both,True,0
 12,12,Cirie,,,,,,,,,6/11/2024,14,Cirie,US0179,both,True,0
-12,13,Cirie,,,,,,,,,6/11/2024,15,Cirie,US0179,both,True,0
-12,14,Terry,,,,,,,,,6/11/2024,15,Terry,US0180,both,True,0
+12,13,Terry,,,,,,,,,6/11/2024,15,Terry,US0180,both,True,0
 13,1,Sekou,,,,,,,,,6/11/2024,1,Sekou,US0183,both,True,0
 13,2,Billy,,,,,,,,,6/11/2024,2,Billy,US0184,both,True,0
 13,3,Cecilia,,,,,,,,,6/11/2024,3,Cecilia,US0185,both,True,0
@@ -261,70 +260,70 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 18,11,Coach,,,,,,,,,6/11/2024,13,Coach,US0277,both,True,0
 18,12,Taj,,,,,,,,,6/11/2024,14,Taj,US0278,both,True,0
 18,13,Erinn,,,,,,,,,6/11/2024,14,Erinn,US0279,both,True,0
-19,1,Marisa,,,,,,,,,6/11/2024,1,Marisa,US0282,both,True,0
-19,2,Betsy,,,,,,,,,6/11/2024,2,Betsy,US0284,both,True,0
-19,3,Ben,,,,,,,,,6/11/2024,3,Ben,US0285,both,True,0
-19,4,Yasmin,,,,,,,,,6/11/2024,4,Yasmin,US0286,both,True,0
-19,5,Ashley,,,,,,,,,6/11/2024,5,Ashley,US0287,both,True,0
-19,6,Liz,,,,,,,,,6/11/2024,7,Liz,US0289,both,True,0
-19,7,Erik,,,,,,,,,6/11/2024,8,Erik,US0290,both,True,0
-19,8,Kelly,,,,,,,,,6/11/2024,9,Kelly,US0291,both,True,0
-19,9,Laura,,,,,,,,,6/11/2024,10,Laura,US0292,both,True,0
-19,10,John,,,,,,,,,6/11/2024,12,John,US0293,both,True,0
-19,11,Dave,,,,,,,,,6/11/2024,13,Dave,US0294,both,True,0
-19,12,Monica,,,,,,,,,6/11/2024,13,Monica,US0295,both,True,0
-19,13,Shambo,,,,,,,,,6/11/2024,14,Shambo,US0296,both,True,0
-19,14,Jaison,,,,,,,,,6/11/2024,15,Jaison,US0297,both,True,0
-19,15,Brett,,,,,,,,,6/11/2024,15,Brett,US0298,both,True,0
-20,1,Sugar,,,,,,,,,6/11/2024,1,Sugar,US0263,both,True,0
-20,2,Stephenie,,,,,,,,,6/11/2024,2,Stephenie,US0144,both,True,0
-20,3,Randy,,,,,,,,,6/11/2024,3,Randy,US0258,both,True,0
-20,4,Cirie,,,,,,,,,6/11/2024,4,Cirie,US0179,both,True,0
-20,5,Tom,,,,,,,,,6/11/2024,5,Tom,US0150,both,True,0
-20,6,Tyson,,,,,,,,,6/11/2024,6,Tyson,US0274,both,True,0
-20,7,James,,,,,,,,,6/11/2024,6,James,US0231,both,True,0
-20,8,Boston Rob,,,,,,,,,6/11/2024,7,Boston Rob,US0055,both,True,0
-20,9,Coach,,,,,,,,,6/11/2024,8,Coach,US0277,both,True,0
-20,10,Courtney,,,,,,,,,6/11/2024,9,Courtney,US0236,both,True,0
-20,11,J.T.,,,,,,,,,6/11/2024,10,J.T.,US0281,both,True,0
-20,12,Amanda,,,,,,,,,6/11/2024,11,Amanda,US0235,both,True,0
-20,13,Candice,,,,,,,,,6/11/2024,12,Candice,US0195,both,True,0
-20,14,Danielle,,,,,,,,,6/11/2024,12,Danielle,US0181,both,True,0
-20,15,Rupert,,,,,,,,,6/11/2024,13,Rupert,US0107,both,True,0
-20,16,Colby,,,,,,,,,6/11/2024,14,Colby,US0031,both,True,0
-20,17,Jerri,,,,,,,,,6/11/2024,14,Jerri,US0025,both,True,0
-21,1,Wendy,,,,,,,,,6/11/2024,1,Wendy,US0302,both,True,0
-21,2,Shannon,,,,,,,,,6/11/2024,2,Shannon,US0303,both,True,0
-21,3,Jimmy J.,,,,,,,,,6/11/2024,3,Jimmy J.,US0304,both,True,0
-21,4,Jimmy T.,,,,,,,,,6/11/2024,4,Jimmy T.,US0305,both,True,0
-21,5,Tyrone,,,,,,,,,6/11/2024,5,Tyrone,US0306,both,True,0
-21,6,Kelly B.,,,,,,,,,6/11/2024,6,Kelly B.,US0307,both,True,0
-21,7,Yve,,,,,,,,,6/11/2024,6,Yve,US0308,both,True,0
-21,8,Jill,,,,,,,,,6/11/2024,7,Jill,US0309,both,True,0
-21,9,Alina,,,,,,,,,6/11/2024,8,Alina,US0310,both,True,0
-21,10,Marty,,,,,,,,,6/11/2024,9,Marty,US0311,both,True,0
-21,11,Brenda,,,,,,,,,6/11/2024,10,Brenda,US0312,both,True,0
-21,12,Benry,,,,,,,,,6/11/2024,13,Benry,US0315,both,True,0
-21,13,Jane,,,,,,,,,6/11/2024,14,Jane,US0316,both,True,0
-21,14,Dan,,,,,,,,,6/11/2024,15,Dan,US0317,both,True,0
-21,15,Holly,,,,,,,,,6/11/2024,15,Holly,US0318,both,True,0
-22,1,Francesca,,,,,,,,,6/11/2024,1,Francesca,US0322,both,True,0
-22,2,Matt,,,,,,,,,6/11/2024,2,Matt,US0323,both,True,0
-22,3,Russell,,,,,,,,,6/11/2024,3,Russell,US0300,both,True,0
-22,4,Kristina,,,,,,,,,6/11/2024,4,Kristina,US0324,both,True,0
-22,5,Krista,,,,,,,,,6/11/2024,5,Krista,US0325,both,True,0
-22,6,Stephanie,,,,,,,,,6/11/2024,6,Stephanie,US0326,both,True,0
-22,7,Sarita,,,,,,,,,6/11/2024,7,Sarita,US0327,both,True,0
-22,8,Matt,,,,,,,,,6/11/2024,8,Matt,US0323,both,True,0
-22,9,Mike,,,,,,,,,6/11/2024,9,Mike,US0328,both,True,0
-22,10,David,,,,,,,,,6/11/2024,9,David,US0329,both,True,0
-22,11,Julie,,,,,,,,,6/11/2024,10,Julie,US0330,both,True,0
-22,12,Ralph,,,,,,,,,6/11/2024,11,Ralph,US0331,both,True,0
-22,13,Steve,,,,,,,,,6/11/2024,11,Steve,US0332,both,True,0
-22,14,Andrea,,,,,,,,,6/11/2024,12,Andrea,US0333,both,True,0
-22,15,Grant,,,,,,,,,6/11/2024,13,Grant,US0334,both,True,0
-22,16,Andrea,,,,,,,,,6/11/2024,14,Andrea,US0333,both,True,0
-22,17,Ashley,,,,,,,,,6/11/2024,14,Ashley,US0335,both,True,0
+19,1,Marisa,False,False,False,False,False,,,,6/11/2024,1,Marisa,US0282,both,True,0
+19,2,Betsy,False,False,False,False,False,,,,6/11/2024,2,Betsy,US0284,both,True,0
+19,3,Ben,False,False,False,False,False,,,,6/11/2024,3,Ben,US0285,both,True,0
+19,4,Yasmin,False,False,False,False,False,,,,6/11/2024,4,Yasmin,US0286,both,True,0
+19,5,Ashley,True,False,True,True,False,"""Kick some butt you guys.""",,,6/11/2024,5,Ashley,US0287,both,True,2
+19,6,Liz,False,False,False,False,False,,,,6/11/2024,7,Liz,US0289,both,True,0
+19,7,Erik,True,True,False,False,False,,,,6/11/2024,8,Erik,US0290,both,True,1
+19,8,Kelly,False,False,False,False,False,,,,6/11/2024,9,Kelly,US0291,both,True,0
+19,9,Laura,False,False,False,False,False,,,,6/11/2024,10,Laura,US0292,both,True,0
+19,10,John,True,True,True,True,False,"""Pleasure, boys.""",,,6/11/2024,12,John,US0293,both,True,3
+19,11,Dave,True,False,True,True,False,"""Good game you guys.""",,,6/11/2024,13,Dave,US0294,both,True,2
+19,12,Monica,True,True,False,True,False,,,,6/11/2024,13,Monica,US0295,both,True,2
+19,13,Shambo,True,False,True,True,True,"""Good luck you guys.""",,,6/11/2024,14,Shambo,US0296,both,True,3
+19,14,Jaison,False,False,False,False,False,,,,6/11/2024,15,Jaison,US0297,both,True,0
+19,15,Brett,True,False,True,True,True,"""Good game guys!""",,,6/11/2024,15,Brett,US0298,both,True,3
+20,1,Sugar,True,True,True,True,True,"""Bye""",,,6/11/2024,1,Sugar,US0263,both,True,4
+20,2,Stephenie,True,False,True,True,False,"""Some advice, next time y'all lose a challenge, a\nlittle less cursing off your tribe might help.... It's been a pleasure.""",,,6/11/2024,2,Stephenie,US0144,both,True,2
+20,3,Randy,False,False,False,False,False,,,,6/11/2024,3,Randy,US0258,both,True,0
+20,4,Cirie,True,True,False,True,False,,,,6/11/2024,4,Cirie,US0179,both,True,2
+20,5,Tom,False,False,False,False,False,,,,6/11/2024,5,Tom,US0150,both,True,0
+20,6,Tyson,False,False,False,False,False,,,,6/11/2024,6,Tyson,US0274,both,True,0
+20,7,James,True,False,True,False,False,"""Oh, I'm gonna be good and drunk in the next five minutes.""",,,6/11/2024,6,James,US0231,both,True,1
+20,8,Boston Rob,False,False,False,False,False,,,,6/11/2024,7,Boston Rob,US0055,both,True,0
+20,9,Coach,True,True,False,True,False,,,,6/11/2024,8,Coach,US0277,both,True,2
+20,10,Courtney,True,True,True,True,True,"""Good luck, bitches. See you later.""",,,6/11/2024,9,Courtney,US0236,both,True,4
+20,11,J.T.,True,True,True,True,True,"""Good luck, guys.""",,,6/11/2024,10,J.T.,US0281,both,True,4
+20,12,Amanda,False,False,False,False,False,,,,6/11/2024,11,Amanda,US0235,both,True,0
+20,13,Candice,True,True,True,True,True,"""Good luck, you guys.""",,,6/11/2024,12,Candice,US0195,both,True,4
+20,14,Danielle,True,True,True,True,False,"""Bye""",,,6/11/2024,12,Danielle,US0181,both,True,3
+20,15,Rupert,True,False,False,True,False,,,,6/11/2024,13,Rupert,US0107,both,True,1
+20,16,Colby,False,False,False,False,False,,,,6/11/2024,14,Colby,US0031,both,True,0
+20,17,Jerri,True,True,True,True,True,"""Bye you guys.""",,,6/11/2024,14,Jerri,US0025,both,True,4
+21,1,Wendy,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,1,Wendy,US0302,both,True,0
+21,2,Shannon,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,2,Shannon,US0303,both,True,0
+21,3,Jimmy J.,True,True,True,True,False,"""Win a million bucks, OK?""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,3,Jimmy J.,US0304,both,True,3
+21,4,Jimmy T.,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,4,Jimmy T.,US0305,both,True,0
+21,5,Tyrone,True,True,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,5,Tyrone,US0306,both,True,4
+21,6,Kelly B.,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,6,Kelly B.,US0307,both,True,0
+21,7,Yve,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,6,Yve,US0308,both,True,0
+21,8,Jill,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,7,Jill,US0309,both,True,0
+21,9,Alina,True,False,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,8,Alina,US0310,both,True,3
+21,10,Marty,True,True,True,True,False,"""Good luck, guys.""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,9,Marty,US0311,both,True,3
+21,11,Brenda,True,True,False,True,True,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,10,Brenda,US0312,both,True,3
+21,12,Benry,True,True,True,True,False,"""Good luck, guys.""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,13,Benry,US0315,both,True,3
+21,13,Jane,True,False,True,False,False,"""Yall have fun""",,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,14,Jane,US0316,both,True,1
+21,14,Dan,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,15,Dan,US0317,both,True,0
+21,15,Holly,False,False,False,False,False,,,https://www.youtube.com/watch?v=rcwpurg4lMQ,6/11/2024,15,Holly,US0318,both,True,0
+22,1,Francesca,True,False,True,False,False,"""Don't trust Phillip.""",,,6/11/2024,1,Francesca,US0322,both,True,1
+22,2,Matt,True,False,True,True,False,"""Have fun.""",,,6/11/2024,2,Matt,US0323,both,True,2
+22,3,Russell,False,False,False,False,False,,,,6/11/2024,3,Russell,US0300,both,True,0
+22,4,Kristina,False,False,False,False,False,,,,6/11/2024,4,Kristina,US0324,both,True,0
+22,5,Krista,False,False,False,False,False,,,,6/11/2024,5,Krista,US0325,both,True,0
+22,6,Stephanie,False,False,False,False,False,,,,6/11/2024,6,Stephanie,US0326,both,True,0
+22,7,Sarita,True,True,True,True,True,"""Bye, guys.""",,,6/11/2024,7,Sarita,US0327,both,True,4
+22,8,Matt,False,False,False,False,False,,,,6/11/2024,8,Matt,US0323,both,True,0
+22,9,Mike,False,False,False,False,False,,,,6/11/2024,9,Mike,US0328,both,True,0
+22,10,David,False,False,False,False,False,,,,6/11/2024,9,David,US0329,both,True,0
+22,11,Julie,False,False,False,False,False,,,,6/11/2024,10,Julie,US0330,both,True,0
+22,12,Ralph,False,False,False,False,False,,,,6/11/2024,11,Ralph,US0331,both,True,0
+22,13,Steve,False,False,False,False,False,,,,6/11/2024,11,Steve,US0332,both,True,0
+22,14,Andrea,False,False,False,False,False,,,,6/11/2024,12,Andrea,US0333,both,True,0
+22,15,Grant,True,False,True,False,False,"""See you guys shortly.""",,,6/11/2024,13,Grant,US0334,both,True,1
+22,16,Andrea,False,False,False,False,False,,,,6/11/2024,14,Andrea,US0333,both,True,0
+22,17,Ashley,True,True,False,True,True,,,,6/11/2024,14,Ashley,US0335,both,True,3
 23,1,Semhar,,,,,,,,,6/11/2024,1,Semhar,US0338,both,True,0
 23,2,Christine,,,,,,,,,6/11/2024,2,Christine,US0339,both,True,0
 23,3,Papa Bear,,,,,,,,,6/11/2024,3,Papa Bear,US0340,both,True,0
@@ -355,20 +354,20 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 24,11,Tarzan,,,,,,,,,6/11/2024,13,Tarzan,US0366,both,True,0
 24,12,Alicia,,,,,,,,,6/11/2024,14,Alicia,US0367,both,True,0
 24,13,Christina,,,,,,,,,6/11/2024,14,Christina,US0368,both,True,0
-25,1,Zane,,,,,,,,,6/11/2024,1,Zane,US0372,both,True,0
-25,2,Roxy,,,,,,,,,6/11/2024,2,Roxy,US0373,both,True,0
-25,3,Angie,,,,,,,,,6/11/2024,3,Angie,US0374,both,True,0
-25,4,Russell,,,,,,,,,6/11/2024,4,Russell,US0288,both,True,0
-25,5,Dawson,,,,,,,,,6/11/2024,5,Dawson,US0376,both,True,0
-25,6,Katie,,,,,,,,,6/11/2024,6,Katie,US0377,both,True,0
-25,7,RC,,,,,,,,,6/11/2024,7,RC,US0378,both,True,0
-25,8,Jeff,,,,,,,,,6/11/2024,8,Jeff,US0379,both,True,0
-25,9,Artis,,,,,,,,,6/11/2024,9,Artis,US0380,both,True,0
-25,10,Pete,,,,,,,,,6/11/2024,10,Pete,US0381,both,True,0
-25,11,Jonathan,,,,,,,,,6/11/2024,11,Jonathan,US0196,both,True,0
-25,12,Carter,,,,,,,,,6/11/2024,12,Carter,US0382,both,True,0
-25,13,Abi-Maria,,,,,,,,,6/11/2024,13,Abi-Maria,US0383,both,True,0
-25,14,Malcolm,,,,,,,,,6/11/2024,14,Malcolm,US0384,both,True,0
+25,1,Zane,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,1,Zane,US0372,both,True,0
+25,2,Roxy,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,2,Roxy,US0373,both,True,0
+25,3,Angie,True,True,True,True,True,"""Good luck, guys. Kick some ass.""",,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,3,Angie,US0374,both,True,4
+25,4,Russell,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,4,Russell,US0288,both,True,0
+25,5,Dawson,True,True,False,True,False,,Crazy Jeff stare and hug.,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,5,Dawson,US0376,both,True,2
+25,6,Katie,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,6,Katie,US0377,both,True,0
+25,7,RC,True,True,False,True,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,7,RC,US0378,both,True,2
+25,8,Jeff,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,8,Jeff,US0379,both,True,0
+25,9,Artis,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,9,Artis,US0380,both,True,0
+25,10,Pete,True,True,False,True,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,10,Pete,US0381,both,True,2
+25,11,Jonathan,True,True,True,True,False,"""Guys... Keep your sunny side up.""",,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,11,Jonathan,US0196,both,True,3
+25,12,Carter,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,12,Carter,US0382,both,True,0
+25,13,Abi-Maria,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,13,Abi-Maria,US0383,both,True,0
+25,14,Malcolm,False,False,False,False,False,,,https://www.youtube.com/watch?v=z3qzKwZGhYQ,6/11/2024,14,Malcolm,US0384,both,True,0
 26,1,Francesca,,,,,,,,,6/11/2024,1,Francesca,US0322,both,True,0
 26,2,Allie,,,,,,,,,6/11/2024,2,Allie,US0387,both,True,0
 26,3,Hope,,,,,,,,,6/11/2024,3,Hope,US0388,both,True,0
@@ -431,22 +430,22 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 29,12,Jon,,,,,,,,,6/11/2024,13,Jon,US0437,both,True,0
 29,13,Baylor,,,,,,,,,6/11/2024,14,Baylor,US0438,both,True,0
 29,14,Keith,,,,,,,,,6/11/2024,14,Keith,US0439,both,True,0
-30,1,So,,,,,,,,,6/11/2024,1,So,US0443,both,True,0
-30,2,Vince,,,,,,,,,6/11/2024,2,Vince,US0444,both,True,0
-30,3,Nina,,,,,,,,,6/11/2024,3,Nina,US0445,both,True,0
-30,4,Lindsey,,,,,,,,,6/11/2024,4,Lindsey,US0446,both,True,0
-30,5,Max,,,,,,,,,6/11/2024,5,Max,US0447,both,True,0
-30,6,Joaquin,,,,,,,,,6/11/2024,6,Joaquin,US0448,both,True,0
-30,7,Kelly,,,,,,,,,6/11/2024,7,Kelly,US0449,both,True,0
-30,8,Hali,,,,,,,,,6/11/2024,8,Hali,US0450,both,True,0
-30,9,Joe,,,,,,,,,6/11/2024,9,Joe,US0451,both,True,0
-30,10,Jenn,,,,,,,,,6/11/2024,10,Jenn,US0452,both,True,0
-30,11,Shirin,,,,,,,,,6/11/2024,11,Shirin,US0453,both,True,0
-30,12,Tyler,,,,,,,,,6/11/2024,12,Tyler,US0454,both,True,0
-30,13,Dan,,,,,,,,,6/11/2024,13,Dan,US0455,both,True,0
-30,14,Sierra,,,,,,,,,6/11/2024,14,Sierra,US0456,both,True,0
-30,15,Rodney,,,,,,,,,6/11/2024,14,Rodney,US0457,both,True,0
-31,1,Vytas,,,,,,,,,6/11/2024,1,Vytas,US0402,both,True,0
+30,1,So,True,False,True,True,True,"""Good luck, guys.""",,,6/11/2024,1,So,US0443,both,True,3
+30,2,Vince,True,False,True,True,False,"""Good play.""",,,6/11/2024,2,Vince,US0444,both,True,2
+30,3,Nina,False,False,False,False,False,,,,6/11/2024,3,Nina,US0445,both,True,0
+30,4,Lindsey,False,False,False,False,False,,,,6/11/2024,4,Lindsey,US0446,both,True,0
+30,5,Max,False,False,False,False,False,,,,6/11/2024,5,Max,US0447,both,True,0
+30,6,Joaquin,False,False,False,False,False,,,,6/11/2024,6,Joaquin,US0448,both,True,0
+30,7,Kelly,False,False,False,False,False,,,,6/11/2024,7,Kelly,US0449,both,True,0
+30,8,Hali,True,True,True,True,True,"""Love you, America.""",,,6/11/2024,8,Hali,US0450,both,True,4
+30,9,Joe,True,True,True,True,False,"""Hey, love you all. Good luck.""",,,6/11/2024,9,Joe,US0451,both,True,3
+30,10,Jenn,True,True,True,True,True,"""Bye, guys. Good luck. And play nice, alright? I'll see you soon.""",,,6/11/2024,10,Jenn,US0452,both,True,4
+30,11,Shirin,True,True,True,True,True,"""Bye, guys.""",,,6/11/2024,11,Shirin,US0453,both,True,4
+30,12,Tyler,False,False,False,False,False,,,,6/11/2024,12,Tyler,US0454,both,True,0
+30,13,Dan,False,False,False,False,False,,,,6/11/2024,13,Dan,US0455,both,True,0
+30,14,Sierra,True,True,True,True,True,"""Sneaky""",,,6/11/2024,14,Sierra,US0456,both,True,4
+30,15,Rodney,True,True,True,True,False,"""Alright, guys""",,,6/11/2024,14,Rodney,US0457,both,True,3
+31,1,Vytas,True,True,True,True,True,"""No hard feelings, you guys. You played such a great game. It's all good.""",,,6/11/2024,1,Vytas,US0402,both,True,4
 31,2,Shirin,,,,,,,,,6/11/2024,2,Shirin,US0453,both,True,0
 31,3,Peih-Gee,,,,,,,,,6/11/2024,3,Peih-Gee,US0233,both,True,0
 31,4,Jeff,,,,,,,,,6/11/2024,4,Jeff,US0023,both,True,0
@@ -462,18 +461,18 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 31,14,Kimmi,,,,,,,,,6/11/2024,14,Kimmi,US0021,both,True,0
 31,15,Keith,,,,,,,,,6/11/2024,14,Keith,US0439,both,True,0
 31,16,Kelley,,,,,,,,,6/11/2024,14,Kelley,US0429,both,True,0
-32,1,Darnell,,,,,,,,,6/11/2024,1,Darnell,US0461,both,True,0
-32,2,Jennifer,,,,,,,,,6/11/2024,2,Jennifer,US0462,both,True,0
-32,3,Liz,,,,,,,,,6/11/2024,3,Liz,US0463,both,True,0
-32,4,Alecia,,,,,,,,,6/11/2024,4,Alecia,US0465,both,True,0
-32,5,Anna,,,,,,,,,6/11/2024,5,Anna,US0466,both,True,0
-32,6,Peter,,,,,,,,,6/11/2024,6,Peter,US0467,both,True,0
-32,7,Nick,,,,,,,,,6/11/2024,8,Nick,US0469,both,True,0
-32,8,Debbie,,,,,,,,,6/11/2024,9,Debbie,US0470,both,True,0
-32,9,Scot,,,,,,,,,6/11/2024,10,Scot,US0471,both,True,0
-32,10,Julia,,,,,,,,,6/11/2024,11,Julia,US0472,both,True,0
-32,11,Jason,,,,,,,,,6/11/2024,12,Jason,US0473,both,True,0
-32,12,Cydney,,,,,,,,,6/11/2024,14,Cydney,US0475,both,True,0
+32,1,Darnell,True,False,True,True,False,"""Good game.""",,,6/11/2024,1,Darnell,US0461,both,True,2
+32,2,Jennifer,True,True,True,True,True,"""See you guys. Hope you win lots more challenges.""",,,6/11/2024,2,Jennifer,US0462,both,True,4
+32,3,Liz,True,False,True,True,False,"""Good luck everyone!""",,,6/11/2024,3,Liz,US0463,both,True,2
+32,4,Alecia,True,False,True,True,True,"""Good luck Cydney""",,,6/11/2024,4,Alecia,US0465,both,True,3
+32,5,Anna,True,True,True,True,True,"""Good luck everyone.""",,,6/11/2024,5,Anna,US0466,both,True,4
+32,6,Peter,True,True,False,True,True,,,,6/11/2024,6,Peter,US0467,both,True,3
+32,7,Nick,False,False,False,False,False,,,,6/11/2024,8,Nick,US0469,both,True,0
+32,8,Debbie,False,False,False,False,False,,,,6/11/2024,9,Debbie,US0470,both,True,0
+32,9,Scot,False,False,False,False,False,,,,6/11/2024,10,Scot,US0471,both,True,0
+32,10,Julia,False,False,False,False,False,,,,6/11/2024,11,Julia,US0472,both,True,0
+32,11,Jason,True,True,False,False,False,,,,6/11/2024,12,Jason,US0473,both,True,1
+32,12,Cydney,False,False,False,False,False,,,,6/11/2024,14,Cydney,US0475,both,True,0
 33,1,Rachel,False,False,False,False,False,,,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,1,Rachel,US0479,both,True,0
 33,2,Mari,True,False,True,True,False,"""Salty""",,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,2,Mari,US0480,both,True,2
 33,3,Paul,True,True,True,True,False,"""Good luck, guys.""",,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,3,Paul,US0481,both,True,3
@@ -491,38 +490,38 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 33,15,Jay,False,True,False,False,False,,,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,13,Jay,US0493,both,True,1
 33,16,Bret,True,False,True,True,True,"""David, good luck to you. The rest of you: You just lost a million dollars.""",,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,13,Bret,US0494,both,True,3
 33,17,David,True,False,True,True,False,"""Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.""",,https://www.youtube.com/watch?v=NbQiyjoM_4Q,6/11/2024,13,David,US0495,both,True,2
-34,1,Ciera,,,,,,,,,6/11/2024,1,Ciera,US0406,both,True,0
-34,2,Tony,,,,,,,,,6/11/2024,1,Tony,US0424,both,True,0
-34,3,Caleb,,,,,,,,,6/11/2024,2,Caleb,US0464,both,True,0
-34,4,Malcolm,,,,,,,,,6/11/2024,3,Malcolm,US0384,both,True,0
-34,5,J.T.,,,,,,,,,6/11/2024,4,J.T.,US0281,both,True,0
-34,6,Sandra,,,,,,,,,6/11/2024,5,Sandra,US0112,both,True,0
-34,7,Jeff,,,,,,,,,6/11/2024,6,Jeff,US0023,both,True,0
-34,8,Hali,,,,,,,,,6/11/2024,7,Hali,US0450,both,True,0
-34,9,Ozzy,,,,,,,,,6/11/2024,7,Ozzy,US0201,both,True,0
-34,10,Debbie,,,,,,,,,6/11/2024,8,Debbie,US0470,both,True,0
-34,11,Zeke,,,,,,,,,6/11/2024,9,Zeke,US0490,both,True,0
-34,12,Sierra,,,,,,,,,6/11/2024,10,Sierra,US0456,both,True,0
-34,13,Andrea,,,,,,,,,6/11/2024,11,Andrea,US0333,both,True,0
-34,14,Michaela,,,,,,,,,6/11/2024,11,Michaela,US0485,both,True,0
-34,15,Cirie,,,,,,,,,6/11/2024,12,Cirie,US0179,both,True,0
-34,16,Aubry,,,,,,,,,6/11/2024,12,Aubry,US0477,both,True,0
-34,17,Tai,,,,,,,,,6/11/2024,12,Tai,US0476,both,True,0
-35,1,Katrina,,,,,,,,,6/11/2024,1,Katrina,US0499,both,True,0
-35,2,Simone,,,,,,,,,6/11/2024,2,Simone,US0500,both,True,0
-35,3,Patrick,,,,,,,,,6/11/2024,3,Patrick,US0501,both,True,0
-35,4,Alan,,,,,,,,,6/11/2024,4,Alan,US0502,both,True,0
-35,5,Roark,,,,,,,,,6/11/2024,5,Roark,US0503,both,True,0
-35,6,Ali,,,,,,,,,6/11/2024,6,Ali,US0504,both,True,0
-35,7,Jessica,,,,,,,,,6/11/2024,7,Jessica,US0505,both,True,0
-35,8,Desi,,,,,,,,,6/11/2024,8,Desi,US0506,both,True,0
-35,9,Cole,,,,,,,,,6/11/2024,9,Cole,US0507,both,True,0
-35,10,JP,,,,,,,,,6/11/2024,10,JP,US0508,both,True,0
-35,11,Joe,,,,,,,,,6/11/2024,10,Joe,US0509,both,True,0
-35,12,Lauren,,,,,,,,,6/11/2024,11,Lauren,US0510,both,True,0
-35,13,Ashley,,,,,,,,,6/11/2024,12,Ashley,US0511,both,True,0
-35,14,Mike,,,,,,,,,6/11/2024,13,Mike,US0512,both,True,0
-35,15,Devon,,,,,,,,,6/11/2024,13,Devon,US0513,both,True,0
+34,1,Ciera,True,True,True,True,True,"""Good luck everyone good job.""",,,6/11/2024,1,Ciera,US0406,both,True,4
+34,2,Tony,True,False,False,True,False,,,,6/11/2024,1,Tony,US0424,both,True,1
+34,3,Caleb,False,False,False,False,False,,,,6/11/2024,2,Caleb,US0464,both,True,0
+34,4,Malcolm,False,False,False,False,False,,,,6/11/2024,3,Malcolm,US0384,both,True,0
+34,5,J.T.,False,False,False,False,False,,,,6/11/2024,4,J.T.,US0281,both,True,0
+34,6,Sandra,True,True,True,True,True,,,,6/11/2024,5,Sandra,US0112,both,True,4
+34,7,Jeff,True,True,False,True,False,,,,6/11/2024,6,Jeff,US0023,both,True,2
+34,8,Hali,True,True,True,True,True,"""I enjoyed meeting every one of you. May the best player win!""",,,6/11/2024,7,Hali,US0450,both,True,4
+34,9,Ozzy,True,True,True,True,True,"""Good job guys. Good luck eating.""",,,6/11/2024,7,Ozzy,US0201,both,True,4
+34,10,Debbie,True,True,True,True,True,"""Good luck to you all.""",,,6/11/2024,8,Debbie,US0470,both,True,4
+34,11,Zeke,True,True,True,True,True,"""Keep playing hard gang."" ","Mumbles ""Dammit!"" under breath as walking out",,6/11/2024,9,Zeke,US0490,both,True,4
+34,12,Sierra,True,True,True,True,True,"""Yep. Privilege guys!""",,,6/11/2024,10,Sierra,US0456,both,True,4
+34,13,Andrea,False,False,False,False,False,,,,6/11/2024,11,Andrea,US0333,both,True,0
+34,14,Michaela,False,False,False,False,False,,,,6/11/2024,11,Michaela,US0485,both,True,0
+34,15,Cirie,True,True,True,True,True,"""Thank you Jeff""",,,6/11/2024,12,Cirie,US0179,both,True,4
+34,16,Aubry,False,False,False,False,False,"""The full experience.""",,,6/11/2024,12,Aubry,US0477,both,True,0
+34,17,Tai,False,False,False,False,False,"""Thank you Jeff for a great season. Appreicate it. Thank you.""",,,6/11/2024,12,Tai,US0476,both,True,0
+35,1,Katrina,True,True,True,True,False,"""Good luck, guys.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,1,Katrina,US0499,both,True,3
+35,2,Simone,True,True,True,True,True,"""Bye""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,2,Simone,US0500,both,True,4
+35,3,Patrick,True,False,False,True,False,,"Said, ""You guys are awful"" when Jeff made announcement. ",https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,3,Patrick,US0501,both,True,1
+35,4,Alan,True,True,True,True,False,"""Good luck, everyone.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,4,Alan,US0502,both,True,3
+35,5,Roark,True,True,True,True,False,"""Good luck, guys.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,5,Roark,US0503,both,True,3
+35,6,Ali,False,False,False,False,False,,,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,6,Ali,US0504,both,True,0
+35,7,Jessica,True,True,False,True,True,,,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,7,Jessica,US0505,both,True,3
+35,8,Desi,True,True,True,True,True,"""Good luck everyone.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,8,Desi,US0506,both,True,4
+35,9,Cole,True,True,True,True,True,"""Good luck, guys. Have fun out there."" ",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,9,Cole,US0507,both,True,4
+35,10,JP,False,False,False,False,False,,"""Damn, they got me good,"" he said out of jury earshot. ",https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,10,JP,US0508,both,True,0
+35,11,Joe,False,False,False,False,False,,,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,10,Joe,US0509,both,True,0
+35,12,Lauren,True,True,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,11,Lauren,US0510,both,True,4
+35,13,Ashley,True,True,True,True,False,"""Good luck, you guys.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,12,Ashley,US0511,both,True,3
+35,14,Mike,True,True,True,False,False,"""Good luck, everybody.""",,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,13,Mike,US0512,both,True,2
+35,15,Devon,True,True,False,True,True,,,https://www.youtube.com/watch?v=8e7G13HzW3Y,6/11/2024,13,Devon,US0513,both,True,3
 36,1,Gonzalez,,,,,,,,,6/11/2024,1,Gonzalez,US0517,both,True,0
 36,2,Jacob,,,,,,,,,6/11/2024,1,Jacob,US0518,both,True,0
 36,3,Morgan,,,,,,,,,6/11/2024,2,Morgan,US0519,both,True,0
@@ -540,54 +539,54 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 36,15,Sebastian,,,,,,,,,6/11/2024,13,Sebastian,US0531,both,True,0
 36,16,Donathan,,,,,,,,,6/11/2024,13,Donathan,US0532,both,True,0
 36,17,Angela,,,,,,,,,6/11/2024,13,Angela,US0533,both,True,0
-37,1,Jessica,,,,,,,,,6/11/2024,2,Jessica,US0538,both,True,0
-37,2,Jeremy,,,,,,,,,6/11/2024,3,Jeremy,US0539,both,True,0
-37,3,Natalia,,,,,,,,,6/11/2024,4,Natalia,US0541,both,True,0
-37,4,Natalie,,,,,,,,,6/11/2024,5,Natalie,US0542,both,True,0
-37,5,Lyrsa,,,,,,,,,6/11/2024,6,Lyrsa,US0543,both,True,0
-37,6,Elizabeth,,,,,,,,,6/11/2024,7,Elizabeth,US0544,both,True,0
-37,7,John,,,,,,,,,6/11/2024,8,John,US0545,both,True,0
-37,8,Dan,,,,,,,,,6/11/2024,9,Dan,US0546,both,True,0
-37,9,Alec,,,,,,,,,6/11/2024,10,Alec,US0547,both,True,0
-37,10,Carl,,,,,,,,,6/11/2024,10,Carl,US0548,both,True,0
-37,11,Gabby,,,,,,,,,6/11/2024,11,Gabby,US0549,both,True,0
-37,12,Christian,,,,,,,,,6/11/2024,12,Christian,US0550,both,True,0
-37,13,Davie,,,,,,,,,6/11/2024,13,Davie,US0551,both,True,0
-37,14,Alison,,,,,,,,,6/11/2024,13,Alison,US0552,both,True,0
-37,15,Kara,,,,,,,,,6/11/2024,13,Kara,US0553,both,True,0
-38,1,Reem,,,,,,,,,6/11/2024,1,Reem,US0557,both,True,0
-38,2,Keith,,,,,,,,,6/11/2024,2,Keith,US0558,both,True,0
-38,3,Chris,,,,,,,,,6/11/2024,3,Chris,US0559,both,True,0
-38,4,Rick,,,,,,,,,6/11/2024,4,Rick,US0560,both,True,0
-38,5,Aubry,,,,,,,,,6/11/2024,5,Aubry,US0477,both,True,0
-38,6,Wendy,,,,,,,,,6/11/2024,5,Wendy,US0561,both,True,0
-38,7,Joe,,,,,,,,,6/11/2024,6,Joe,US0451,both,True,0
-38,8,Eric,,,,,,,,,6/11/2024,7,Eric,US0562,both,True,0
-38,9,Julia,,,,,,,,,6/11/2024,8,Julia,US0563,both,True,0
-38,10,David,,,,,,,,,6/11/2024,9,David,US0495,both,True,0
-38,11,Kelley,,,,,,,,,6/11/2024,9,Kelley,US0429,both,True,0
-38,12,Wardog,,,,,,,,,6/11/2024,10,Wardog,US0564,both,True,0
-38,13,Ron,,,,,,,,,6/11/2024,11,Ron,US0565,both,True,0
-38,14,Aurora,,,,,,,,,6/11/2024,12,Aurora,US0566,both,True,0
-38,15,Victoria,,,,,,,,,6/11/2024,13,Victoria,US0567,both,True,0
-38,16,Lauren,,,,,,,,,6/11/2024,13,Lauren,US0568,both,True,0
-38,17,Rick,,,,,,,,,6/11/2024,13,Rick,US0560,both,True,0
-39,1,Ronnie,,,,,,,,,6/11/2024,1,Ronnie,US0571,both,True,0
-39,2,Molly,,,,,,,,,6/11/2024,2,Molly,US0572,both,True,0
-39,3,Vince,,,,,,,,,6/11/2024,3,Vince,US0573,both,True,0
-39,4,Chelsea,,,,,,,,,6/11/2024,4,Chelsea,US0574,both,True,0
-39,5,Tom,,,,,,,,,6/11/2024,5,Tom,US0575,both,True,0
-39,6,Jason,,,,,,,,,6/11/2024,6,Jason,US0576,both,True,0
-39,7,Jack,,,,,,,,,6/11/2024,7,Jack,US0577,both,True,0
-39,8,Kellee,,,,,,,,,6/11/2024,8,Kellee,US0578,both,True,0
-39,9,Jamal,,,,,,,,,6/11/2024,8,Jamal,US0579,both,True,0
-39,10,Aaron,,,,,,,,,6/11/2024,9,Aaron,US0580,both,True,0
-39,11,Missy,,,,,,,,,6/11/2024,9,Missy,US0581,both,True,0
-39,12,Elizabeth,,,,,,,,,6/11/2024,10,Elizabeth,US0582,both,True,0
-39,13,Karishma,,,,,,,,,6/11/2024,11,Karishma,US0583,both,True,0
-39,14,Elaine,,,,,,,,,6/11/2024,12,Elaine,US0584,both,True,0
-39,15,Janet,,,,,,,,,6/11/2024,13,Janet,US0586,both,True,0
-39,16,Lauren,,,,,,,,,6/11/2024,13,Lauren,US0587,both,True,0
+37,1,Jessica,True,False,True,True,False,"""Bye, guys.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,2,Jessica,US0538,both,True,2
+37,2,Jeremy,False,False,False,False,False,,,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,3,Jeremy,US0539,both,True,0
+37,3,Natalia,True,True,True,True,False,"""Did you know? Why are you smiling. Oh my God I can't handle you right now.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,4,Natalia,US0541,both,True,3
+37,4,Natalie,False,False,False,False,False,,,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,5,Natalie,US0542,both,True,0
+37,5,Lyrsa,True,False,True,True,False,"""Bye, guys.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,6,Lyrsa,US0543,both,True,2
+37,6,Elizabeth,True,False,True,True,True,"""Good luck, you guys. I love you all. I really do.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,7,Elizabeth,US0544,both,True,3
+37,7,John,True,True,True,True,True,"""Guys""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,8,John,US0545,both,True,4
+37,8,Dan,False,False,False,False,False,,,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,9,Dan,US0546,both,True,0
+37,9,Alec,True,True,False,True,True,,,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,10,Alec,US0547,both,True,3
+37,10,Carl,True,True,True,True,False,"""Go get 'em. Good job, guys.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,10,Carl,US0548,both,True,3
+37,11,Gabby,True,True,True,True,True,"""Sorry, Christian. I love you.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,11,Gabby,US0549,both,True,4
+37,12,Christian,True,True,True,True,False,"""Good luck to you all. Well played.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,12,Christian,US0550,both,True,3
+37,13,Davie,True,True,True,True,False,"""I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,13,Davie,US0551,both,True,3
+37,14,Alison,True,True,True,True,True,"""Good luck. I'll see you all soon.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,13,Alison,US0552,both,True,4
+37,15,Kara,True,True,True,True,True,"Bye guys. See you soon.""",,https://www.youtube.com/watch?v=4ucjk-Rh_a4,6/11/2024,13,Kara,US0553,both,True,4
+38,1,Reem,True,False,True,True,False,"""Thank you.""","Mumbles ""I hope it pours down rain on these people."" under breath.",,6/11/2024,1,Reem,US0557,both,True,2
+38,2,Keith,False,False,False,False,False,,"Said, ""Dang, Dang, Dang. Dangit!"" but not to tribe. ",,6/11/2024,2,Keith,US0558,both,True,0
+38,3,Chris,False,False,False,False,False,,,,6/11/2024,3,Chris,US0559,both,True,0
+38,4,Rick,True,True,True,True,True,,"""I take it all back. You guys are the worst. I love you guys. Go win something. I'm rooting for you.""",,6/11/2024,4,Rick,US0560,both,True,4
+38,5,Aubry,True,False,True,True,False,"""Good luck, guys. Kill it.""",,,6/11/2024,5,Aubry,US0477,both,True,2
+38,6,Wendy,True,True,True,True,True,,"""Bye guys.""",,6/11/2024,5,Wendy,US0561,both,True,4
+38,7,Joe,True,False,True,True,False,"""You made a big mistake."" ",As he walked away after turning to glare at them. ,,6/11/2024,6,Joe,US0451,both,True,2
+38,8,Eric,True,False,True,True,False,"""The lord gives. The lord takes away. What a fun experience. Hopefully I'll see you soon.""",,,6/11/2024,7,Eric,US0562,both,True,2
+38,9,Julia,True,False,True,True,True,"""It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck.""",,,6/11/2024,8,Julia,US0563,both,True,3
+38,10,David,True,False,True,True,True,"""No hard feelings guys. You know I had to try. But I am going to follow my way back in."" ",,,6/11/2024,9,David,US0495,both,True,3
+38,11,Kelley,True,False,True,True,True,"""Good luck. See you soon.""",,,6/11/2024,9,Kelley,US0429,both,True,3
+38,12,Wardog,True,True,True,True,True,"""Y'all made the right decision. Love you.""",,,6/11/2024,10,Wardog,US0564,both,True,4
+38,13,Ron,True,True,True,True,True,"""Devins, you're a great player. It was a lot of fun. Bye. Thanks.""",,,6/11/2024,11,Ron,US0565,both,True,4
+38,14,Aurora,True,True,True,True,True,"""Good game guys. Good luck. Get him out.""",Referring to Devins,,6/11/2024,12,Aurora,US0566,both,True,4
+38,15,Victoria,True,True,True,True,True,"""I'm not sure which one of you did it. Devins, great play. Gavin, I'm voing for you, man.""",,,6/11/2024,13,Victoria,US0567,both,True,4
+38,16,Lauren,True,True,True,True,True,"""Bye guys. Seriously, good luck.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,13,Lauren,US0568,both,True,4
+38,17,Rick,True,True,True,True,True,"""Thank you.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,13,Rick,US0560,both,True,4
+39,1,Ronnie,True,True,True,True,False,"""OK guys.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,1,Ronnie,US0571,both,True,3
+39,2,Molly,True,True,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,2,Molly,US0572,both,True,4
+39,3,Vince,True,True,True,True,True,"""Good luck, all.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,3,Vince,US0573,both,True,4
+39,4,Chelsea,True,True,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,4,Chelsea,US0574,both,True,4
+39,5,Tom,True,True,True,False,False,"""See ya, guys. Good luck.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,5,Tom,US0575,both,True,2
+39,6,Jason,False,False,False,False,False,,,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,6,Jason,US0576,both,True,0
+39,7,Jack,True,True,True,True,True,"""See you all.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,7,Jack,US0577,both,True,4
+39,8,Kellee,True,True,True,True,True,"""Good luck, guys.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,8,Kellee,US0578,both,True,4
+39,9,Jamal,False,False,False,False,False,,,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,8,Jamal,US0579,both,True,0
+39,10,Aaron,False,False,False,False,False,,,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,9,Aaron,US0580,both,True,0
+39,11,Missy,True,True,True,True,True,"""Dang, Elaine, I knew it. All right. I'll see you all later. Wednesday night at 8.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,9,Missy,US0581,both,True,4
+39,12,Elizabeth,True,True,True,True,True,"""Love you.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,10,Elizabeth,US0582,both,True,4
+39,13,Karishma,False,False,False,False,False,,,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,11,Karishma,US0583,both,True,0
+39,14,Elaine,True,True,True,True,False,"""Love y'all.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,12,Elaine,US0584,both,True,3
+39,15,Janet,True,True,True,True,False,"""Bye guys.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,13,Janet,US0586,both,True,3
+39,16,Lauren,True,True,True,True,True,"""Bye guys, good luck. Love you Tommy.""",,https://www.youtube.com/watch?v=DnSPrX0v7_4,6/11/2024,13,Lauren,US0587,both,True,4
 40,1,Natalie,False,False,False,False,False,,,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,1,Natalie,US0442,both,True,0
 40,2,Amber,False,False,False,False,False,,,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,1,Amber,US0027,both,True,0
 40,3,Danni,False,False,False,False,False,,,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,2,Danni,US0166,both,True,0
@@ -607,35 +606,35 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 40,17,Denise,True,True,True,True,False,"""Kick ass.""",,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,14,Denise,US0386,both,True,3
 40,18,Ben,False,False,False,False,False,,,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,14,Ben,US0516,both,True,0
 40,19,Sarah,True,True,True,True,False,"""It was a pleasure. Tony: I love you. Crush it tomorrow, alright?""",,https://www.youtube.com/watch?v=7Ry6rfcV0Wo,6/11/2024,14,Sarah,US0414,both,True,3
-41,1,Abraham,,,,,,,,,6/11/2024,1,Abraham,US0591,both,True,0
-41,2,Sara,,,,,,,,,6/11/2024,1,Sara,US0592,both,True,0
-41,3,Voce,,,,,,,,,6/11/2024,2,Voce,US0607,both,True,0
-41,4,Brad,,,,,,,,,6/11/2024,3,Brad,US0602,both,True,0
-41,5,JD,,,,,,,,,6/11/2024,4,JD,US0603,both,True,0
-41,6,Genie,,,,,,,,,6/11/2024,5,Genie,US0595,both,True,0
-41,7,Sydney,,,,,,,,,6/11/2024,7,Sydney,US0605,both,True,0
-41,8,Tiffany,,,,,,,,,6/11/2024,8,Tiffany,US0604,both,True,0
-41,9,Naseer,,,,,,,,,6/11/2024,9,Naseer,US0600,both,True,0
-41,10,Evvie,,,,,,,,,6/11/2024,9,Evvie,US0598,both,True,0
-41,11,Shan,,,,,,,,,6/11/2024,10,Shan,US0606,both,True,0
-41,12,Liana,,,,,,,,,6/11/2024,11,Liana,US0608,both,True,0
-41,13,Danny,,,,,,,,,6/11/2024,12,Danny,US0599,both,True,0
-41,14,Ricard,,,,,,,,,6/11/2024,13,Ricard,US0596,both,True,0
-41,15,Heather,,,,,,,,,6/11/2024,13,Heather,US0593,both,True,0
-42,1,Zach,,,,,,,,,6/11/2024,1,Zach,US0626,both,True,0
-42,2,Marya,,,,,,,,,6/11/2024,2,Marya,US0618,both,True,0
-42,3,Jenny,,,,,,,,,6/11/2024,3,Jenny,US0614,both,True,0
-42,4,Swati,,,,,,,,,6/11/2024,4,Swati,US0624,both,True,0
-42,5,Daniel,,,,,,,,,6/11/2024,5,Daniel,US0610,both,True,0
-42,6,Lydia,,,,,,,,,6/11/2024,7,Lydia,US0617,both,True,0
-42,7,Chanelle,,,,,,,,,6/11/2024,8,Chanelle,US0609,both,True,0
-42,8,Rocksroy,,,,,,,,,6/11/2024,9,Rocksroy,US0622,both,True,0
-42,9,Tori,,,,,,,,,6/11/2024,9,Tori,US0625,both,True,0
-42,10,Hai,,,,,,,,,6/11/2024,10,Hai,US0612,both,True,0
-42,11,Drea,,,,,,,,,6/11/2024,11,Drea,US0611,both,True,0
-42,12,Omar,,,,,,,,,6/11/2024,12,Omar,US0621,both,True,0
-42,13,Lindsay,,,,,,,,,6/11/2024,13,Lindsay,US0616,both,True,0
-42,14,Jonathan,,,,,,,,,6/11/2024,13,Jonathan,US0615,both,True,0
+41,1,Abraham,True,True,True,True,False,"""Enjoy this ride.""",,,6/11/2024,1,Abraham,US0591,both,True,3
+41,2,Sara,True,True,True,True,True,"""Good bye. Good luck.""",,,6/11/2024,1,Sara,US0592,both,True,4
+41,3,Voce,False,False,False,False,False,,,,6/11/2024,2,Voce,US0607,both,True,0
+41,4,Brad,False,False,False,False,False,,,,6/11/2024,3,Brad,US0602,both,True,0
+41,5,JD,True,True,False,True,False,,,,6/11/2024,4,JD,US0603,both,True,2
+41,6,Genie,True,True,True,True,False,"""Bye guys.""",,,6/11/2024,5,Genie,US0595,both,True,3
+41,7,Sydney,False,False,False,False,False,,,,6/11/2024,7,Sydney,US0605,both,True,0
+41,8,Tiffany,True,True,True,True,True,"""Good luck, guys.""",,,6/11/2024,8,Tiffany,US0604,both,True,4
+41,9,Naseer,True,True,True,True,True,"""Good job, guys.""",,,6/11/2024,9,Naseer,US0600,both,True,4
+41,10,Evvie,True,True,True,True,False,"""Well played, guys.""",,,6/11/2024,9,Evvie,US0598,both,True,3
+41,11,Shan,False,False,False,False,False,,,,6/11/2024,10,Shan,US0606,both,True,0
+41,12,Liana,True,True,True,True,True,"""Bye y'all. Play hard.""",,,6/11/2024,11,Liana,US0608,both,True,4
+41,13,Danny,True,True,True,True,True,"""Apprecite you. Go Cowboys.""",,,6/11/2024,12,Danny,US0599,both,True,4
+41,14,Ricard,True,True,False,True,True,,,,6/11/2024,13,Ricard,US0596,both,True,3
+41,15,Heather,True,True,True,True,True,"""Bye, guys.""",,,6/11/2024,13,Heather,US0593,both,True,4
+42,1,Zach,True,True,True,True,True,"""I really did have a blast.""",,,6/11/2024,1,Zach,US0626,both,True,4
+42,2,Marya,True,True,True,True,True,"""See you guys. Bring it home.""",,,6/11/2024,2,Marya,US0618,both,True,4
+42,3,Jenny,False,False,False,False,False,,,,6/11/2024,3,Jenny,US0614,both,True,0
+42,4,Swati,False,False,False,False,False,,,,6/11/2024,4,Swati,US0624,both,True,0
+42,5,Daniel,True,False,False,True,False,,,,6/11/2024,5,Daniel,US0610,both,True,1
+42,6,Lydia,True,False,True,True,True,"""Good luck guys.""",,,6/11/2024,7,Lydia,US0617,both,True,3
+42,7,Chanelle,False,False,False,False,False,,,,6/11/2024,8,Chanelle,US0609,both,True,0
+42,8,Rocksroy,True,True,True,True,False,"""Good luck.""",,,6/11/2024,9,Rocksroy,US0622,both,True,3
+42,9,Tori,True,True,True,True,True,"""Have fun, y'all""",,,6/11/2024,9,Tori,US0625,both,True,4
+42,10,Hai,True,True,True,True,True,"""Bye guys.""",,,6/11/2024,10,Hai,US0612,both,True,4
+42,11,Drea,True,True,True,True,True,"""Love you.""",,,6/11/2024,11,Drea,US0611,both,True,4
+42,12,Omar,True,True,True,True,True,"""Love you, guys. See you soon.""",,,6/11/2024,12,Omar,US0621,both,True,4
+42,13,Lindsay,True,True,True,True,True,"Good luck, guys. Gonna eat so much food.""",,,6/11/2024,13,Lindsay,US0616,both,True,4
+42,14,Jonathan,True,True,True,True,False,"""Hey, my friends. All love.""",,,6/11/2024,13,Jonathan,US0615,both,True,3
 43,1,Morriah,True,True,True,True,True,"""Bye guys.""",,https://www.youtube.com/watch?v=ES9-pjRzhd0,6/11/2024,1,Morriah,US0639,both,True,4
 43,2,Justine,True,True,True,True,True,,,https://www.youtube.com/watch?v=ES9-pjRzhd0,6/11/2024,2,Justine,US0635,both,True,4
 43,3,Nneka,True,False,True,True,True,"""Bye guys.""",,https://www.youtube.com/watch?v=ES9-pjRzhd0,6/11/2024,3,Nneka,US0640,both,True,3
@@ -691,5 +690,5 @@ season,vote,castaway,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_sp
 46,10,Tiffany,True,True,False,True,False,,Blew a kiss,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/7/2024,10,Tiffany,US0695,both,True,2
 46,11,Venus,True,False,True,True,True,"""Great game, you guys.""",,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/7/2024,11,Venus,US0697,both,True,3
 46,12,Q,True,True,True,True,False,"""See y'all now""",,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/7/2024,12,Q,US0691,both,True,3
-46,13,Maria,True,True,True,True,True,"""It's been a pleasure, you guys.""",Blew a kiss,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/7/2024,13,Maria,US0689,both,True,4
+46,13,Maria,True,False,True,True,True,"""It's been a pleasure, you guys.""",Blew a kiss,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/7/2024,13,Maria,US0689,both,True,3
 46,14,Liz,False,False,False,False,False,,,https://www.youtube.com/watch?v=nbYZH2zAN9M,6/8/2024,13,Liz,US0688,both,True,0

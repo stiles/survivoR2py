@@ -1206,16 +1206,9 @@
     {
         "season":"12",
         "episode":"15",
-        "voted_out":"Cirie",
-        "voted_out_id":"US0179",
-        "vote":"13"
-    },
-    {
-        "season":"12",
-        "episode":"15",
         "voted_out":"Terry",
         "voted_out_id":"US0180",
-        "vote":"14"
+        "vote":"13"
     },
     {
         "season":"13",
@@ -4811,8 +4804,8 @@
     {
         "season":"46",
         "episode":"8",
-        "voted_out":"Hunter",
-        "voted_out_id":"US0684",
+        "voted_out":"Tevin",
+        "voted_out_id":"US0694",
         "vote":"8"
     },
     {

@@ -40,6 +40,7 @@ vl-convert-python = "*"
 scikit-learn = "*"
 pyogrio = "*"
 fiona = "*"
+gspread = "*"
 
 [requires]
 python_version = "3.9"
