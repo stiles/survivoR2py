@@ -1,0 +1,47 @@
+,season_name,season,location,country,filming_started,filming_ended,latitude,longitude
+0,Survivor: Borneo,1,"Pulau Tiga, Sabah, Malaysia",Malaysia,2000-03-13,2000-04-20,5.7253104,115.6539512
+1,Survivor: The Australian Outback,2,"Herbert River at Goshen Station, Queensland, Australia",Australia,2000-10-23,2000-12-03,-18.1462325,145.438669
+2,Survivor: Africa,3,"Shaba National Reserve, Kenya",Kenya,2001-07-11,2001-08-18,0.6400635,37.8300034
+3,Survivor: Marquesas,4,"Nuku Hiva, Marquesas Islands, French Polynesia",Polynesia,2001-11-12,2001-12-20,-8.906170099999999,-140.1055311
+4,Survivor: Thailand,5,"Ko Tarutao, Satun Province, Thailand",Thailand,2002-06-10,2002-07-18,6.5913175,99.6564092
+5,Survivor: The Amazon,6,"Rio Negro, Amazonas, Brazil",Brazil,2002-11-07,2002-12-15,-0.1871710014736148,-64.70743046292198
+6,Survivor: Pearl Islands,7,"Pearl Islands, Panama",Panama,2003-06-23,2003-07-31,8.431881238404824,-78.9512370250372
+7,Survivor: All-Stars,8,"Pearl Islands, Panama",Panama,2003-11-03,2003-12-11,8.431881238404824,-78.9512370250372
+8,Survivor: Vanuatu,9,"Efate, Shefa, Vanuatu",Vanuatu,2004-06-28,2004-08-05,-17.6577479,168.4297187
+9,Survivor: Palau,10,"Koror, Palau",Palau,2004-10-27,2004-12-04,7.3375646,134.4889469
+10,Survivor: Guatemala,11,"Laguna Yaxha, Yaxha-Nakum-Naranjo National Park, Peten, Guatemala",Guatemala,2005-06-27,2005-08-04,17.0619372,-89.4056303
+11,Survivor: Panama,12,"Pearl Islands, Panama",Panama,2005-10-31,2005-12-08,8.431881238404824,-78.9512370250372
+12,Survivor: Cook Islands,13,"Aitutaki, Cook Islands",Islands,2006-06-26,2006-08-03,-18.8579523,-159.7852843
+13,Survivor: Fiji,14,"Macuata, Vanua Levu, Fiji",Fiji,2006-10-30,2006-12-07,-16.4864922,179.2847251
+14,Survivor: China,15,"Zhelin, Jiujiang, Jiangxi, China",China,2007-06-25,2007-08-02,29.205067,115.515728
+15,Survivor: Micronesia,16,"Koror, Palau",Palau,2007-10-29,2007-12-06,7.3375646,134.4889469
+16,Survivor: Gabon,17,"Wonga-Wongue Presidential Reserve, Estuaire, Gabon",Gabon,2008-06-23,2008-07-31,-0.5186381999999999,9.456155
+17,Survivor: Tocantins,18,"Jalapao, Tocantins, Brazil",Brazil,2008-11-02,2008-12-10,-10.2984889,-46.7538882
+18,Survivor: Samoa,19,"Upolu, Samoa",Samoa,2009-06-11,2009-07-19,-13.9134084,-171.734942
+19,Survivor: Heroes vs. Villains,20,"Upolu, Samoa",Samoa,2009-08-09,2009-09-16,-13.9134084,-171.734942
+20,Survivor: Nicaragua,21,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2010-06-14,2010-07-22,11.263406,-85.8639766
+21,Survivor: Redemption Island,22,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2010-08-16,2010-09-23,11.263406,-85.8639766
+22,Survivor: South Pacific,23,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2011-05-30,2011-07-07,11.263406,-85.8639766
+23,Survivor: One World,24,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2011-08-01,2011-09-08,11.263406,-85.8639766
+24,Survivor: Philippines,25,"Caramoan, Camarines Sur, Philippines",Philippines,2012-03-18,2012-04-25,13.8076519,123.8500045
+25,Survivor: Caramoan,26,"Caramoan, Camarines Sur, Philippines",Philippines,2012-05-21,2012-06-28,13.8076519,123.8500045
+26,Survivor: Blood vs. Water,27,"Palaui Island, Santa Ana, Cagayan, Philippines",Philippines,2013-05-20,2013-06-27,18.5604256,122.1405413
+27,Survivor: Cagayan,28,"Palaui Island, Santa Ana, Cagayan, Philippines",Philippines,2013-07-11,2013-08-18,18.5604256,122.1405413
+28,Survivor: San Juan del Sur,29,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2014-06-02,2014-07-10,11.263406,-85.8639766
+29,Survivor: Worlds Apart,30,"San Juan del Sur, Rivas, Nicaragua",Nicaragua,2014-08-04,2014-09-11,11.263406,-85.8639766
+30,Survivor: Cambodia,31,"Koh Rong, Cambodia",Cambodia,2015-05-31,2015-07-08,10.7290832,103.2317225
+31,Survivor: Kaoh Rong,32,"Koh Rong, Cambodia",Cambodia,2015-03-30,2015-05-07,10.7290832,103.2317225
+32,Survivor: Millennials vs. Gen X,33,"Mamanuca Islands, Fiji",Fiji,2016-04-04,2016-05-12,-17.6127019972306,177.1222314193519
+33,Survivor: Game Changers,34,"Mamanuca Islands, Fiji",Fiji,2016-06-06,2016-07-14,-17.6127019972306,177.1222314193519
+34,Survivor: Heroes vs. Healers vs. Hustlers,35,"Mamanuca Islands, Fiji",Fiji,2017-04-03,2017-05-11,-17.6127019972306,177.1222314193519
+35,Survivor: Ghost Island,36,"Mamanuca Islands, Fiji",Fiji,2017-06-05,2017-07-13,-17.6127019972306,177.1222314193519
+36,Survivor: David vs. Goliath,37,"Mamanuca Islands, Fiji",Fiji,2018-03-29,2018-05-06,-17.6127019972306,177.1222314193519
+37,Survivor: Edge of Extinction,38,"Mamanuca Islands, Fiji",Fiji,2018-05-30,2018-07-07,-17.6127019972306,177.1222314193519
+38,Survivor: Island of the Idols,39,"Mamanuca Islands, Fiji",Fiji,2019-03-21,2019-04-28,-17.6127019972306,177.1222314193519
+39,Survivor: Winners at War,40,"Mamanuca Islands, Fiji",Fiji,2019-05-22,2019-06-29,-17.6127019972306,177.1222314193519
+40,Survivor: 41,41,"Mamanuca Islands, Fiji",Fiji,2021-04-15,2021-05-10,-17.6127019972306,177.1222314193519
+41,Survivor: 42,42,"Mamanuca Islands, Fiji",Fiji,2021-05-16,2021-06-10,-17.6127019972306,177.1222314193519
+42,Survivor: 43,43,"Mamanuca Islands, Fiji",Fiji,2022-05-02,2022-05-27,-17.6127019972306,177.1222314193519
+43,Survivor: 44,44,"Mamanuca Islands, Fiji",Fiji,2022-06-05,2022-06-30,-17.6127019972306,177.1222314193519
+44,Survivor: 45,45,"Mamanuca Islands, Fiji",Fiji,2023-04-16,2023-05-11,-17.6127019972306,177.1222314193519
+45,Survivor: 46,46,"Mamanuca Islands, Fiji",Fiji,2023-06-01,2023-06-26,-17.6127019972306,177.1222314193519
