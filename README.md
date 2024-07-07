@@ -51,7 +51,7 @@ To ensure accurate data collection and validation, I'm considering using a contr
 
 *Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
 
-- `ack_gesture`: for any physical gestures towards the tribe (e.g., waving, nodding, or hands in prayer) *after* torch snuffing
+- `ack_gesture`: for any physical gestures towards the tribe (a wave, nod, bow or prayer sign with hands) *after* torch snuffing
 - `ack_speak`: for any verbal communication directed at the tribe *after* torch snuffing
 - `ack_look`: for making eye contact with one or more members of the tribe *after* torch snuffing
 - `ack_smile`: for smiling at the tribe *after* torch snuffing
