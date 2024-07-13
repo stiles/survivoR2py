@@ -6,7 +6,7 @@ The code in this repository converts data files in an R package devoted to the S
 
 ## Sources
 
-The data comes from the [survivoR](https://github.com/doehm/survivoR) package created by [David Ohm](https://github.com/doehm), et al. They have organized and created numerous detailed and useful datasets about the history of the show, including an episode summary, castaway listing, challenge results, and vote history. Transcripts come from [subslikescript](https://subslikescript.com/series/Survivor-239195) and CBS/Paramount.
+The data comes from the [survivoR](https://github.com/doehm/survivoR) project created by [David Ohm](https://github.com/doehm), et al. They have organized and created numerous detailed and useful datasets about the history of the show, including an episode summary, castaway listing, challenge results, and vote history. Transcripts come from [subslikescript](https://subslikescript.com/series/Survivor-239195) and CBS/Paramount.
 
 ## Processes
 
