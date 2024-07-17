@@ -19,7 +19,8 @@ The data comes from the [survivoR](https://github.com/doehm/survivoR) package cr
 ## Related repositories
 
 - [survivor-voteoffs](https://github.com/stiles/survivor-voteoffs): *How did each castaway react to his or her torch getting snuffed? There's data for that.*
-- [survivor-transcripts](https://github.com/stiles/survivor-voteoffs): *Fetching and storing complete transcripts for each episode of the American television show and analyzing the text for keyword/phrase frequency.*
+- [survivor-transcripts](https://github.com/stiles/survivor-transcripts): *Fetching and storing complete transcripts for each episode of the American television show and analyzing the text for keyword/phrase frequency.*
+
 
 ## Questions? Corrections? 
 
