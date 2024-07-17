@@ -31,7 +31,7 @@ data_sets = [
 base_url = "https://github.com/doehm/survivoR/raw/master/data/"
 
 # Directory to save the CSV files
-output_dir = "./data/raw/csv"
+output_dir = "./data/processed/csv"
 original_dir = "./data/raw/rda"
 
 os.makedirs(output_dir, exist_ok=True)
