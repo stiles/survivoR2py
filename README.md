@@ -2,11 +2,11 @@
 
 ## About
 
-The code in this repository converts data files in an R package devoted to the Survivor television series from `.rda` to `.csv` formats so that Python users can enjoy them. A
+The code in this repository converts data files in an R package devoted to the Survivor television series from `.rda` to `.csv` and `.json` formats for users who prefer Python or other data sceience tools have accessible formats.
 
 ## Sources
 
-The data comes from the [survivoR](https://github.com/doehm/survivoR) package created by [David Ohm](https://github.com/doehm), et al. They have organized and created numerous detailed and useful datasets about the history of the show, including an episode summary, castaway listing, challenge results and vote history, among many others. 
+The data comes from the canonical [survivoR](https://github.com/doehm/survivoR) package created by [David Ohm](https://github.com/doehm), et al, which contains detailed datasets about the history of the show, including an episode summary, castaway listing, challenge results and vote history, among many others. 
 
 ## Process
 
