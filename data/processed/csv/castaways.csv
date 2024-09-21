@@ -797,7 +797,7 @@ US,US43,Survivor: 43,43.0,Jesse Lopez,US0634,Jesse,30.0,Durham,North Carolina,13
 US,US43,Survivor: 43,43.0,Owen Knight,US0642,Owen,29.0,New Orleans,Louisiana,13.0,26.0,16.0,2nd runner-up,,Baka,False,True,False,3.0
 US,US43,Survivor: 43,43.0,Cassidy Clark,US0627,Cassidy,26.0,Austin,Texas,13.0,26.0,17.0,Runner-up,,Coco,False,True,False,2.0
 US,US43,Survivor: 43,43.0,Mike Gabler,US0638,Gabler,51.0,Meridian,Idaho,13.0,26.0,18.0,Sole Survivor,,Baka,False,True,True,1.0
-US,US44,Survivor: 44,44.0,Bruce Perreault,US0657,Bruce,45.0,Warwick,Rhode Island,1.0,1.0,1.0,Medically evacuated,,Tika,False,False,False,18.0
+US,US44,Survivor: 44,44.0,Bruce Perreault,US0657,Bruce,45.0,Warwick,Rhode Island,1.0,1.0,1.0,Medically evacuated,,Tika,False,False,False,18.0
 US,US44,Survivor: 44,44.0,Maddy Pomilla,US0649,Maddy,28.0,Brooklyn,New York,1.0,3.0,2.0,1st voted out,,Ratu,False,False,False,17.0
 US,US44,Survivor: 44,44.0,Helen Li,US0660,Helen,28.0,San Francisco,Calafornia,2.0,5.0,3.0,2nd voted out,,Tika,False,False,False,16.0
 US,US44,Survivor: 44,44.0,Claire Rafson,US0651,Claire,25.0,Brooklyn,New York,3.0,7.0,4.0,3rd voted out,,Soka,False,False,False,15.0
@@ -851,6 +851,24 @@ US,US46,Survivor: 46,46.0,Liz Wilcox,US0688,Liz,35.0,Orlando,Florida,13.0,25.0,1
 US,US46,Survivor: 46,46.0,Ben Katzman,US0680,Ben,31.0,Miami,Florida,13.0,26.0,16.0,2nd runner-up,,Siga,False,True,False,3.0
 US,US46,Survivor: 46,46.0,Charlie Davis,US0682,Charlie,25.0,Boston,Massachusetts,13.0,26.0,17.0,Runner-up,,Siga,False,True,False,2.0
 US,US46,Survivor: 46,46.0,Kenzie Petty,US0687,Kenzie,28.0,Charlotte,North Carolina,13.0,26.0,18.0,Sole Survivor,,Yanu,False,True,True,1.0
+US,US47,Survivor: 47,47.0,Andy Rueda,US0698,Andy,,,,,,,,,Unknown,False,,,18.0
+US,US47,Survivor: 47,47.0,Anika Dhar,US0699,Anika,,,,,,,,,Unknown,False,,,17.0
+US,US47,Survivor: 47,47.0,Aysha Welch,US0700,Aysha,,,,,,,,,Unknown,False,,,16.0
+US,US47,Survivor: 47,47.0,Caroline Vidmar,US0701,Caroline,,,,,,,,,Unknown,False,,,15.0
+US,US47,Survivor: 47,47.0,Gabe Ortis,US0702,Gabe,,,,,,,,,Unknown,False,,,14.0
+US,US47,Survivor: 47,47.0,Genevieve Mushaluk,US0703,Genevieve,,,,,,,,,Unknown,False,,,13.0
+US,US47,Survivor: 47,47.0,Jon Lovett,US0704,Jon,,,,,,,,,Unknown,False,,,12.0
+US,US47,Survivor: 47,47.0,Kishan Patel,US0705,Kishan,,,,,,,,,Unknown,False,,,11.0
+US,US47,Survivor: 47,47.0,Kyle Ostwald,US0706,Kyle,,,,,,,,,Unknown,False,,,10.0
+US,US47,Survivor: 47,47.0,Rachel LaMont,US0707,Rachel,,,,,,,,,Unknown,False,,,9.0
+US,US47,Survivor: 47,47.0,Rome Cooney,US0708,Rome,,,,,,,,,Unknown,False,,,8.0
+US,US47,Survivor: 47,47.0,Sam Phalen,US0709,Sam,,,,,,,,,Unknown,False,,,7.0
+US,US47,Survivor: 47,47.0,Sierra Wright,US0710,Sierra,,,,,,,,,Unknown,False,,,6.0
+US,US47,Survivor: 47,47.0,Sol Yi,US0711,Sol,,,,,,,,,Unknown,False,,,5.0
+US,US47,Survivor: 47,47.0,Sue Smey,US0712,Sue,,,,,,,,,Unknown,False,,,4.0
+US,US47,Survivor: 47,47.0,Teeny Chirichillo,US0713,Teeny,,,,,,,,,Unknown,False,,,3.0
+US,US47,Survivor: 47,47.0,Tiyana Hallums,US0714,Tiyana,,,,,,,,,Unknown,False,,,2.0
+US,US47,Survivor: 47,47.0,TK Foster,US0715,TK,,,,,,,,,Unknown,False,,,1.0
 AU,AU01,Survivor Australia: 2016,1.0,Des Quilty,AU0001,Des,59.0,Sunshine Coast,QLD,1.0,2.0,1.0,1st voted out,,Aganoa,False,False,False,24.0
 AU,AU01,Survivor Australia: 2016,1.0,Bianca Anderson,AU0002,Bianca,36.0,Melbourne,VIC,2.0,5.0,2.0,2nd voted out,,Saanapu,False,False,False,23.0
 AU,AU01,Survivor Australia: 2016,1.0,Evan Jones,AU0003,Evan,30.0,Melbourne,VIC,3.0,8.0,3.0,3rd voted out,,Aganoa,False,False,False,22.0
@@ -897,8 +915,8 @@ AU,AU02,Survivor Australia: 2017,2.0,Henry Nicholson,AU0039,Henry,26.0,Adelaide,
 AU,AU02,Survivor Australia: 2017,2.0,Tessa O'Halloran,AU0040,Tessa,29.0,Melbourne,VIC,19.0,42.0,18.0,18th voted out,Removed from jury,Samatau,False,False,False,9.0
 AU,AU02,Survivor Australia: 2017,2.0,Sarah Tilleke,AU0041,Sarah,22.0,Perth,WA,20.0,44.0,19.0,19th voted out,4th jury member,Asaga,True,False,False,8.0
 AU,AU02,Survivor Australia: 2017,2.0,Luke Toki,AU0042,Luke,30.0,Perth,WA,21.0,46.0,20.0,20th voted out,5th jury member,Asaga,True,False,False,7.0
-AU,AU02,Survivor Australia: 2017,2.0,Ziggy Zagame,AU0043,Ziggy,26.0,Sydney,NSW,22.0,47.0,21.0,21st voted out,6th jury member,Samatau,True,False,False,6.0
-AU,AU02,Survivor Australia: 2017,2.0,Locky Gilbert,AU0044,Locky,27.0,Perth,WA,23.0,49.0,22.0,22nd voted out,7th jury member,Samatau,True,False,False,5.0
+AU,AU02,Survivor Australia: 2017,2.0,Nicola Zagame,AU0043,Ziggy,26.0,Sydney,NSW,22.0,47.0,21.0,21st voted out,6th jury member,Samatau,True,False,False,6.0
+AU,AU02,Survivor Australia: 2017,2.0,Locklan Gilbert,AU0044,Locky,27.0,Perth,WA,23.0,49.0,22.0,22nd voted out,7th jury member,Samatau,True,False,False,5.0
 AU,AU02,Survivor Australia: 2017,2.0,Michelle Dougan,AU0045,Michelle,33.0,Sydney,NSW,25.0,52.0,23.0,23rd voted out,8th jury member,Asaga,True,False,False,4.0
 AU,AU02,Survivor Australia: 2017,2.0,Peter Conte,AU0046,Peter,22.0,Sydney,NSW,26.0,54.0,24.0,24th voted out,9th jury member,Samatau,True,False,False,3.0
 AU,AU02,Survivor Australia: 2017,2.0,Tara Pitt,AU0047,Tara,32.0,Sunshine Coast,QLD,26.0,55.0,25.0,Runner-up,,Samatau,False,True,False,2.0
@@ -933,7 +951,7 @@ AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Laura Choong,AU0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Susie Maroney,AU0074,Susie,44.0,Cronulla,NSW,3.0,7.0,3.0,3rd voted out,,Champions,False,False,False,22.0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Nova Peris,AU0075,Nova,48.0,Darwin,NT,4.0,10.0,4.0,4th voted out,,Champions,False,False,False,21.0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Steven Bradbury,AU0076,Steven,45.0,Camden,NSW,5.0,12.0,5.0,5th voted out,,Champions,False,False,False,20.0
-AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,ET Ettingshausen,AU0077,ET,53.0,Sutherland,NSW,6.0,14.0,6.0,6th voted out,,Champions,False,False,False,19.0
+AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Andrew Ettingshausen,AU0077,ET,53.0,Sutherland,NSW,6.0,14.0,6.0,6th voted out,,Champions,False,False,False,19.0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Sam Schoers,AU0078,Sam,30.0,Perth,WA,7.0,16.0,7.0,7th voted out,,Contenders,False,False,False,18.0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Sarah Ayles,AU0079,Sarah,45.0,Adelaide,SA,8.0,18.0,8.0,8th voted out,,Contenders,False,False,False,17.0
 AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Hannah Pentreath,AU0080,Hannah,27.0,Bendigo,VIC,10.0,22.0,9.0,9th voted out,,Contenders,False,False,False,16.0
@@ -965,7 +983,7 @@ AU,AU05,Survivor Australia: All Stars,5.0,Mat Rogers,AU0063,Mat,43.0,Gold Coast,
 AU,AU05,Survivor Australia: All Stars,5.0,Phoebe Timmins,AU0011,Phoebe,30.0,Melbourne,Victoria,11.0,24.0,10.0,11th voted out,,Vakama,False,False,False,15.0
 AU,AU05,Survivor Australia: All Stars,5.0,Felicity Egginton,AU0021,Flick,26.0,Gold Coast,Queensland,12.0,26.0,11.0,12th voted out,,Vakama,False,False,False,14.0
 AU,AU05,Survivor Australia: All Stars,5.0,Nick Iadanza,AU0014,Nick,31.0,Adelaide,South Australia,13.0,28.0,12.0,13th voted out,,Mokuta,False,False,False,13.0
-AU,AU05,Survivor Australia: All Stars,5.0,Locky Gilbert,AU0044,Locky,30.0,Perth,Western Australia,14.0,30.0,13.0,14th voted out,1st jury member,Vakama,True,False,False,12.0
+AU,AU05,Survivor Australia: All Stars,5.0,Locklan Gilbert,AU0044,Locky,30.0,Perth,Western Australia,14.0,30.0,13.0,14th voted out,1st jury member,Vakama,True,False,False,12.0
 AU,AU05,Survivor Australia: All Stars,5.0,Harry Hills,AU0092,Harry,30.0,Perth,Western Australia,15.0,32.0,14.0,15th voted out,2nd jury member,Mokuta,True,False,False,11.0
 AU,AU05,Survivor Australia: All Stars,5.0,Lee Carseldine,AU0023,Lee,43.0,Brisbane,Queensland,16.0,33.0,15.0,Medically evacuated,,Mokuta,False,False,False,10.0
 AU,AU05,Survivor Australia: All Stars,5.0,Zach Kozyrski,AU0056,Zach,40.0,Perth,Western Australia,18.0,38.0,16.0,16th voted out,3rd jury member,Mokuta,True,False,False,9.0
@@ -1146,7 +1164,7 @@ SA,SA04,Survivor South Africa: Maldives,4.0,Malusi Mbambo,SA0060,Malusi,30.0,Dur
 SA,SA04,Survivor South Africa: Maldives,4.0,Tejan Pillay,SA0061,Tejan,32.0,Durban,Kwa Zulu Natal,10.0,21.0,13.0,11th voted out,6th jury member,Raituhn,True,False,False,7.0
 SA,SA04,Survivor South Africa: Maldives,4.0,Sean September,SA0062,Sean,40.0,Cape Town,Western Cape,11.0,23.0,14.0,12th voted out,7th jury member,Goma,True,False,False,6.0
 SA,SA04,Survivor South Africa: Maldives,4.0,Alison de Chazal,SA0063,Alison,53.0,Durban,Kwa Zulu Natal,12.0,25.0,15.0,13th voted out,8th jury member,Goma,True,False,False,5.0
-SA,SA04,Survivor South Africa: Maldives,4.0,Mxo Lokwe,SA0064,Mxo,31.0,Johannesburg,Gauteng,13.0,26.0,16.0,14th voted out,9th jury member,Goma,True,False,False,4.0
+SA,SA04,Survivor South Africa: Maldives,4.0,Mxolisi Lokwe,SA0064,Mxo,31.0,Johannesburg,Gauteng,13.0,26.0,16.0,14th voted out,9th jury member,Goma,True,False,False,4.0
 SA,SA04,Survivor South Africa: Maldives,4.0,Bonnie Henna,SA0065,Bonnie,31.0,Cape Town,Western Cape,13.0,27.0,17.0,15th voted out,10th jury member,Raituhn,True,False,False,3.0
 SA,SA04,Survivor South Africa: Maldives,4.0,Letshego Moshoeu,SA0066,Letshego,27.0,Johannesburg,Gauteng,14.0,27.0,18.0,Runner-up,,Raituhn,False,True,False,2.0
 SA,SA04,Survivor South Africa: Maldives,4.0,Hykie Berg,SA0067,Hykie,32.0,Johannesburg,Gauteng,14.0,27.0,19.0,Sole Survivor,,Raituhn,False,True,True,1.0
@@ -1155,7 +1173,7 @@ SA,SA05,Survivor South Africa: Champions,5.0,Marsha Wessels,SA0069,Marsha,40.0,R
 SA,SA05,Survivor South Africa: Champions,5.0,Killarney Jones,SA0070,Killarney,44.0,Benoni,Gauteng,4.0,7.0,3.0,3rd voted out,,Utara,False,False,False,18.0
 SA,SA05,Survivor South Africa: Champions,5.0,Zan Lang,SA0071,Zan,24.0,East London,Eastern Cape,5.0,9.0,4.0,4th voted out,,Utara,False,False,False,17.0
 SA,SA05,Survivor South Africa: Champions,5.0,Shona Macdonald,SA0072,Shona,24.0,Craigavon,Gauteng,5.0,9.0,5.0,5th voted out,,Selatan,False,False,False,16.0
-SA,SA05,Survivor South Africa: Champions,5.0,Phil Dickson,SA0073,Phil,32.0,Durban,Kwa Zulu Natal,6.0,11.0,6.0,6th voted out,,Selatan,False,False,False,15.0
+SA,SA05,Survivor South Africa: Champions,5.0,Philip Dickson,SA0073,Phil,32.0,Durban,Kwa Zulu Natal,6.0,11.0,6.0,6th voted out,,Selatan,False,False,False,15.0
 SA,SA05,Survivor South Africa: Champions,5.0,Gena Alkana,SA0074,Gena,29.0,Sea Point,Western Cape,7.0,13.0,7.0,7th voted out,,Selatan,False,False,False,14.0
 SA,SA05,Survivor South Africa: Champions,5.0,Sonette Myburgh,SA0075,Sonette,40.0,Witpoortijie,Gauteng,8.0,15.0,8.0,8th voted out,,Utara,False,False,False,13.0
 SA,SA05,Survivor South Africa: Champions,5.0,Stephen Walker,SA0076,Stephen,25.0,Johannesburg,Gauteng,9.0,17.0,9.0,9th voted out,,Utara,False,False,False,12.0
@@ -1196,7 +1214,7 @@ SA,SA07,Survivor South Africa: Island of Secrets,7.0,Felix Godlo,SA0110,Felix,29
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Tania Copeland,SA0111,Tania,51.0,Somerset West,Western Cape,6.0,14.0,6.0,6th voted out,,Ta'alo,False,False,False,16.0
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Rocco van Rooyen,SA0112,Rocco,26.0,Cape Town,Western Cape,7.0,16.0,7.0,7th voted out,,Laumei,False,False,False,15.0
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Nathan Castle,SA0113,Nathan,25.0,Cape Town,Western Cape,8.0,19.0,8.0,8th voted out,,Sa'ula,False,False,False,14.0
-SA,SA07,Survivor South Africa: Island of Secrets,7.0,Meryl Szolkiewicz,SA0114,Meryl,31.0,Irene,Gauteng,9.0,22.0,9.0,9th voted out,1st jury member,Ta'alo,True,False,False,13.0
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Meryl Szolkeiwicz,SA0114,Meryl,31.0,Irene,Gauteng,9.0,22.0,9.0,9th voted out,1st jury member,Ta'alo,True,False,False,13.0
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Geoffrey Cooke-Tonnesen,SA0115,Geoffrey,33.0,Colenso,Kwa Zulu Natal,10.0,24.0,10.0,10th voted out,2nd jury member,Laumei,True,False,False,12.0
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Seipei Mashugane,SA0116,Seipei,40.0,Soweto,Gauteng,11.0,26.0,11.0,11th voted out,3rd jury member,Sa'ula,True,False,False,11.0
 SA,SA07,Survivor South Africa: Island of Secrets,7.0,Dante de Villiers,SA0117,Dante,31.0,Dwarskerbos,Western Cape,12.0,28.0,12.0,12th voted out,4th jury member,Ta'alo,True,False,False,10.0
@@ -1236,16 +1254,16 @@ SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Tevin Naidu,SA0094,Tev
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Seamus Holmes,SA0088,Seamus,29.0,Durban,KZN,6.0,11.0,5.0,5th voted out,,Yontau,False,False,False,16.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Shona Macdonald,SA0072,Shona,30.0,Cape Town,WC,8.0,14.0,6.0,6th voted out,,Yontau,False,False,False,15.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Noleen Nkanjeni,SA0128,Pinty,31.0,Cape Town,WC,9.0,16.0,7.0,7th voted out,,Yontau,False,False,False,14.0
-SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Thoriso M-Africa,SA0131,Thoriso,37.0,Kariega,EC,10.0,17.0,8.0,8th voted out,,Yontau,False,False,False,13.0
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Thoriso M-Afrika,SA0131,Thoriso,37.0,Kariega,EC,10.0,17.0,8.0,8th voted out,,Yontau,False,False,False,13.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Palesa Tau,SA0098,Palesa,31.0,Johannesburg,GP,12.0,19.0,9.0,9th voted out,,Masu,False,False,False,12.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Antoinette Tebbutt,SA0099,Toni,41.0,Cape Town,WC,13.0,21.0,10.0,10th voted out,1st jury member,Masu,True,False,False,11.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Dante De Villiers,SA0117,Dante,33.0,Dwaskersbos,WC,14.0,23.0,11.0,11th voted out,2nd jury member,Masu,True,False,False,10.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Steffi Brink,SA0122,Steffi,30.0,Mdrand,GP,15.0,25.0,12.0,12th voted out,3rd jury member,Masu,True,False,False,9.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Meryl Szolkeiwicz,SA0114,Meryl,33.0,Centurion,GP,16.0,27.0,13.0,13th voted out,4th jury member,Masu,True,False,False,8.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Tejan Pillay,SA0061,Tejan,42.0,Johannesburg,GP,18.0,30.0,14.0,14th voted out,5th jury member,Masu,True,False,False,7.0
-SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Felix Godio,SA0110,Felix,32.0,Pretoria,GP,20.0,33.0,15.0,15th voted out,6th jury member,Yontau,True,False,False,6.0
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Felix Godlo,SA0110,Felix,32.0,Pretoria,GP,20.0,33.0,15.0,15th voted out,6th jury member,Yontau,True,False,False,6.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Killarney Jones,SA0070,Killarney,51.0,Benoni,GP,21.0,35.0,16.0,16th voted out,7th jury member,Yontau,True,False,False,5.0
-SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Phil Dickson,SA0073,Phil,40.0,Johannesburg,GP,22.0,36.0,17.0,17th voted out,8th jury member,Yontau,True,False,False,4.0
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Philip Dickson,SA0073,Phil,40.0,Johannesburg,GP,22.0,36.0,17.0,17th voted out,8th jury member,Yontau,True,False,False,4.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Marian de Vos,SA0077,Marian,32.0,Cape Town,WC,23.0,38.0,18.0,18th voted out,9th jury member,Masu,True,False,False,3.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Shane Hattingh,SA0081,Shane,50.0,Brynston,GP,23.0,38.0,19.0,Runner-up,,Masu,False,True,False,2.0
 SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Dino Paulo,SA0133,Dino,31.0,Johannesburg,GP,23.0,38.0,20.0,Sole Survivor,,Yontau,False,True,True,1.0
