@@ -2,7 +2,7 @@
 
 ## About
 
-The code in this repository converts data files in an R package devoted to the Survivor television series from `.rda` to `.csv` and `.json` formats for users who prefer Python or other data sceience tools have accessible formats.
+The code in this repository converts data files in an R package devoted to the Survivor television series from `.rda` to `.csv` and `.json` formats for users who prefer Python or other data sceience tools. 
 
 ## Sources
 
