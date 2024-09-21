@@ -31,10 +31,15 @@ data_sets = [
 base_url = "https://github.com/doehm/survivoR/raw/master/data/"
 
 # Directory to save the CSV files
-output_dir = "./data/processed/csv"
-original_dir = "./data/raw/rda"
+output_dir = "../data/processed/csv"
+original_dir = "../data/raw/rda"
+
+# Directory to save the JSON files
+json_output_dir = "../data/processed/json"
+original_dir = "../data/raw/rda"
 
 os.makedirs(output_dir, exist_ok=True)
+os.makedirs(json_output_dir, exist_ok=True)
 os.makedirs(original_dir, exist_ok=True)
 
 for new_name, old_name in data_sets:
@@ -68,6 +73,11 @@ for new_name, old_name in data_sets:
             csv_file = os.path.join(output_dir, f"{new_name}.csv")
             df.to_csv(csv_file, index=False)
             print(f"Successfully converted {new_name} (from {file_name}) to CSV.")
+
+            # Save the dataframe to a CSV
+            json_file = os.path.join(json_output_dir, f"{new_name}.json")
+            df.to_json(json_file, indent=4, orient='records')
+            print(f"Successfully converted {new_name} (from {file_name}) to JSON.")
 
             break  # Exit the loop
         except requests.exceptions.RequestException as e:
