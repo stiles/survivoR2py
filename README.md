@@ -12,9 +12,11 @@ The data comes from the [survivoR](https://github.com/doehm/survivoR) package cr
 
 ### Convert survivoR data
 
-- `scripts/convert_data.py`: This script converts the survivoR data by fetching the latest `.rda` files from the source, storing copies locally in `data/raw/rda`, and then converting them to comma-delimited text files in `data/processed/csv`. A Gihub Actions workflow also runs the script once daily to keep it fresh during the seasons, storing the data locally in the repo and also pushing it to S3.
+- `scripts/convert_data.py`: This script converts the survivoR data by fetching the latest `.rda` files from the source, storing copies locally in `data/raw/rda`, and then converting them to comma-delimited text files in `data/processed/csv`. A Gihub Actions workflow also runs the script once daily at 8 pm Pacific Time to keep the files fresh during a season, storing data in the repo and also on S3.
 
-**The data files can be downloaded here:** 
+### Storage
+
+The latest version of each table can be downloaded here: 
 
 - [advantage_details.csv](https://stilesdata.com/survivor/survivor2py/processed/csv/advantage_details.csv)
 - [advantage_movement.csv](https://stilesdata.com/survivor/survivor2py/processed/csv/advantage_movement.csv)
