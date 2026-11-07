@@ -12,25 +12,22 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v4 # checkout repo
 
-      - name: setup python
-        uses: actions/setup-python@v5
+      - name: install uv
+        uses: astral-sh/setup-uv@v6
         with:
-          python-version: '3.12'
-          
+          enable-cache: true
+
       - name: install python packages
-        run: |
-          set -e
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: uv sync --frozen
 
       - name: execute py script
         run: |
           set -e
-          python scripts/convert_data.py
+          uv run --frozen python scripts/convert_data.py
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      
+
       - name: Upload to S3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

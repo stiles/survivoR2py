@@ -49,3 +49,12 @@ The latest version of each table can be downloaded here:
 ## Questions? Corrections? 
 
 [Please let me know](mailto:mattstiles@gmail.com).
+
+## Development
+
+This project uses [uv](https://docs.astral.sh/uv/). To regenerate the data locally:
+
+```sh
+uv sync
+uv run python scripts/convert_data.py
+```
